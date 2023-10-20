@@ -3,8 +3,8 @@ from .models import Beach, Resort, BeachAndResort
 
 # Register your models here.
 
-admin.site.site_header = "B&R Selection Admin"
-admin.site.site_title = "B&R Selection Admin Area"
+admin.site.site_header = "REACH Admin"
+admin.site.site_title = "REACH Admin Area"
 admin.site.index_title = "Welcome To Admin Area"
 
 class BeachAdmin(admin.ModelAdmin):
