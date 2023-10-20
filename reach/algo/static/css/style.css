@@ -1,0 +1,692 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;1,400&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  text-decoration: none;
+}
+
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+
+/*Signup*/
+#signinbtn{
+    width: 100% !important;
+}
+
+#registerbtn{
+    width: 100% !important;
+}
+
+#registerbtn:hover{
+    background: rgb(201, 201, 201);
+    transition: ease 0.3s;
+}
+
+#googlebtn{
+    width: 100% !important;
+}
+
+#googlebtn:hover{
+    background: rgb(201, 201, 201);
+    transition: ease 0.3s;
+}
+
+.getstarted{
+    padding: 12px 40px;
+    font-size: 14px;
+}
+
+
+.or-line {
+    border-top: 1px solid #000;
+    flex-grow: 1;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.google-icon{
+    max-width: 20px;
+}
+
+.jumbotron-body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-image:
+    linear-gradient(to bottom, rgba(93, 180, 153, 0.601), rgba(19, 117, 96, 0.782)),
+    url('/static/img/symbol.jpg');
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+/*Signup end*/
+
+thead{
+    border-bottom: 2px solid #000 !important;
+}
+
+
+
+.c-item{
+    height: 480px;
+}
+
+
+.carousel .carousel-indicators{
+    border-radius: 50% !important;
+}
+
+
+.c-image{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.4);
+}
+
+.carousel-inner .c-item > .c-image{
+    -webkit-animation: thing 18s;
+    -o-animation: thing 18s;
+    animation: thing 18s;
+}
+
+@keyframes thing{
+    from{
+        transform: scale(1, 1);
+    }
+    to{
+        transform: scale(1.5, 1.5);
+    }
+}
+
+.c-item .text-cont h3{
+    font-weight: 500;
+}
+
+.splide .splide__track .splide__list li .splide-pic{
+    width: 100%;
+    height: 250px;
+}
+
+.splide .splide__track .splide__list li{
+    padding-bottom: 3rem;
+}
+
+.header-card{
+    background: rgb(197, 197, 197) !important;
+}
+
+.about-pic-size{
+    width: 35rem;
+    height: 25rem;
+}
+
+.info-1{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    /*font-family: 'Original Surfer', cursive !important;*/
+    font-weight: bolder !important;
+    color: #012970;
+}
+
+/*Navbar*/
+
+
+.navbar-nav .nav-item {
+    position: relative;
+}
+
+.navbar-nav .nav-item::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: #000; /* Set the desired underline color */
+    transition: width 0.3s ease-in-out; /* Adjust the transition properties as needed */
+}
+
+.navbar-nav .nav-item:hover::before {
+    width: 100%;
+}
+
+.navbar-nav .nav-link {
+    display: inline-block;
+    position: relative;
+    padding-bottom: 3px; /* Adjust the spacing between the text and underline */
+}
+
+.navbar-nav .nav-link::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #00bce7; /* Set the desired progress bar color */
+    transform-origin: left center;
+    transform: scaleX(0);
+    transition: transform 0.3s ease-in-out; /* Adjust the transition properties as needed */
+}
+
+.navbar-nav .nav-link:hover::after {
+    transform: scaleX(1);
+}
+
+footer {
+    text-align: center;
+    background-color: #333; /* Dark gray color */
+    padding: 30px 0;
+}
+
+footer p {
+    color: white;
+    margin: 0;
+}
+
+.greetings .greet{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Original Surfer', cursive !important;
+    letter-spacing: 6px;
+}
+
+.btn_selection .btn-beach {
+    color: white;
+    background-color: #f0df99;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom, rgb(167 152 110 / 27%), rgb(163 162 160 / 62%)),url(../img/backgrounds/beach2_removed.png);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+}
+
+.btn_selection .btn-resort {
+    color: white;
+    background-color: #55c4d7;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom, rgb(110 167 146 / 29%), rgb(160 162 163 / 72%)),url(../img/backgrounds/resort_removed.png);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+}
+
+.btn_selection .btn-both{
+    color: white;
+    background-color: #1a748e;
+}
+
+.btn_selection .btn-beach,
+.btn_selection .btn-resort,
+.btn_selection .btn-both{
+    margin-bottom: 10px;
+    width: 35%;
+    height: 150px;
+    font-size: 30px;
+    border-radius: 20px;
+    font-weight: 700;
+    font-family: 'Original Surfer', cursive !important;
+}
+
+.description .description-text{
+    font-size: 20px;   
+}
+
+.preference .preference-text,
+.preference .ask{
+    font-size: 15px;
+}
+
+/* navigation button */
+
+
+.navigation-buttons .btn-next{
+    background-color: gray;
+    padding: 5px 40px;
+    max-height: 15%;
+    border-radius: 10px;
+}
+
+.navigation-buttons .btn-prev{
+    background-color: gray;
+    padding: 5px 30px;
+    max-height: 15%;
+    border-radius: 10px;
+}
+
+.navigation-buttons .btn-prev:hover,
+.navigation-buttons .btn-next:hover {
+    opacity: 0.8; /* Adjust the value to your preference */
+}
+
+/* Newly Added */
+
+
+/*--------------------------------------------------------------
+# How it Works
+--------------------------------------------------------------*/
+.how_it_works .box {
+    padding: 30px;
+    box-shadow: 0px 0 5px rgba(1, 41, 112, 0.08);
+    text-align: center;
+    transition: 0.3s;
+    height: 100%;
+}
+
+.how_it_works .box img {
+    padding: 30px 50px;
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+.how_it_works .box h3 {
+    font-size: 24px;
+    color: #012970;
+    font-weight: 700;
+    margin-bottom: 18px; }
+
+.how_it_works .box:hover {
+    box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+}
+
+.how_it_works .box:hover img {
+    transform: scale(1);
+}
+
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
+.about .content {
+    background-color:  #e8ecf5;
+    padding: 40px;
+  }
+  
+  .about h3 {
+    font-size: 14px;
+    font-weight: 700;
+    color: #4154f1;
+    text-transform: uppercase;
+  }
+  
+  .about h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #012970;
+  }
+  
+  .about p {
+    margin: 15px 0 30px 0;
+    line-height: 24px;
+  }
+  
+  .about .btn-read-more {
+    /* Remove line-height: 0; */
+    padding: 9px 40px;
+    border-radius: 4px;
+    transition: 0.5s;
+    color: #fff;
+    background: #616375;
+    box-shadow: 0px 5px 25px rgba(65, 84, 241, 0.3);
+}
+
+.about .btn-read-more span {
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.about .btn-read-more i {
+    margin-left: 5px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.about .btn-read-more:hover i {
+    transform: translateX(5px);
+}
+
+  .about a {
+    text-decoration: none !important;
+  }
+
+
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+.footer {
+    background: #f6f9ff;
+    padding: 0 0 30px 0;
+    font-size: 14px;
+  }
+  
+  .footer .footer-newsletter {
+    padding: 50px 0;
+    background: #f6f9ff;
+    border-top: 1px solid #e1ecff;
+  }
+  
+  .footer .footer-newsletter h4 {
+    font-size: 24px;
+    margin: 0 0 10px 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 700;
+    color: #012970;
+  }
+  
+  .footer .footer-newsletter form {
+    margin-top: 20px;
+    background: #fff;
+    padding: 6px 10px;
+    position: relative;
+    border-radius: 4px;
+    border: 1px solid #e1ecff;
+  }
+  
+  .footer .footer-newsletter form input[type=email] {
+    border: 0;
+    padding: 8px;
+    width: calc(100% - 140px);
+  }
+  
+  .footer .footer-newsletter form input[type=submit] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border: 0;
+    background: none;
+    font-size: 16px;
+    padding: 0 30px;
+    margin: 3px;
+    background: #4154f1;
+    color: #fff;
+    transition: 0.3s;
+    border-radius: 4px;
+  }
+  
+  .footer .footer-newsletter form input[type=submit]:hover {
+    background: #5969f3;
+  }
+  
+  .footer .footer-top {
+    background: white url(../img/footer-bg.png) no-repeat right top;
+    background-size: contain;
+    border-top: 1px solid #e1ecff;
+    border-bottom: 1px solid #e1ecff;
+    padding: 60px 0 30px 0;
+  }
+  
+  @media (max-width: 992px) {
+    .footer .footer-top {
+      background-position: center bottom;
+    }
+  }
+  
+  .footer .footer-top .footer-info {
+    margin-bottom: 30px;
+  }
+  
+  .footer .footer-top .footer-info .logo {
+    line-height: 0;
+    margin-bottom: 15px;
+  }
+  
+  .footer .footer-top .footer-info .logo img {
+    max-height: 40px;
+    margin-right: 6px;
+  }
+  
+  .footer .footer-top .footer-info .logo span {
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #012970;
+    font-family: "Nunito", sans-serif;
+    margin-top: 3px;
+  }
+  
+  .footer .footer-top .footer-info p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 0;
+    font-family: "Nunito", sans-serif;
+  }
+  
+  .footer .footer-top .social-links a {
+    font-size: 20px;
+    display: inline-block;
+    color: rgba(1, 41, 112, 0.5);
+    line-height: 0;
+    margin-right: 10px;
+    transition: 0.3s;
+  }
+  
+  .footer .footer-top .social-links a:hover {
+    color: #012970;
+  }
+  
+  .footer .footer-top h4 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #012970;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 12px;
+  }
+  
+  .footer .footer-top .footer-links {
+    margin-bottom: 30px;
+  }
+  
+  .footer .footer-top .footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer .footer-top .footer-links ul i {
+    padding-right: 2px;
+    color: #d0d4fc;
+    font-size: 12px;
+    line-height: 0;
+  }
+  
+  .footer .footer-top .footer-links ul li {
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer .footer-top .footer-links ul li:first-child {
+    padding-top: 0;
+  }
+  
+  .footer .footer-top .footer-links ul a {
+    color: #013289;
+    transition: 0.3s;
+    display: inline-block;
+    line-height: 1;
+  }
+  
+  .footer .footer-top .footer-links ul a:hover {
+    color: #4154f1;
+  }
+  
+  .footer .footer-top .footer-contact p {
+    line-height: 26px;
+  }
+  
+  .footer .copyright {
+    text-align: center;
+    padding-top: 30px;
+    color: #012970;
+  }
+  
+  .footer .credits {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #012970;
+  }
+
+
+/* CSS Filter */
+
+
+.card-img-overlay {
+  background-color: rgba(#000, 0.4);
+}
+
+
+/* CSS for rating stars */
+.rating {
+  display: inline-block;
+  font-size: 0;
+}
+
+.star {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-color: #ccc;
+  margin-right: 5px;
+}
+
+
+.star-rating {
+  display: inline-block;
+  font-size: 24px;
+}
+
+.star-rating span {
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}
+
+.star-rating .yellow {
+  color: yellow;
+}
+
+
+/* Define a class for the star rating */
+.star-rating {
+  font-size: 20px; /* Adjust the font size as needed */
+}
+
+/* Style the stars as yellow with a black outline */
+.star-rating .fa-star {
+  color: yellow; /* Set the star color to yellow */
+  text-shadow: 0 0 1px black; /* Add a black outline to the star */
+}
+
+.logo_name{
+  font-weight: bolder;
+  color: #012970;
+}
+
+/* /////////////////////////// */
+
+/*Filter Heading and Subheading*/
+
+.filter-container .filter .filter-heading{
+  font-size: 24px;
+  color: #012970;
+  font-weight: 700;
+}
+
+.filter-container .filter .filter-subheading{
+  font-size: 15px;
+  color: #012970;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+.filter-container .filter{
+  padding: 10px;
+}
+
+.submit-button-filter {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%; /* Optional if you want to center vertically within a container with a fixed height */
+}
+
+
+.result-heading{
+  font-size: 26px;
+  color: #012970;
+  font-weight: 700;
+}
+
+.result-subheading{
+  font-size: 16px;
+  color: #012970;
+  font-weight: 500;
+}
+
+
+/* Results */
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+
+

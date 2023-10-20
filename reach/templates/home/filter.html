@@ -1,0 +1,202 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    Selection
+{% endblock %}
+
+{% block navbar %}
+    {% include 'partials/_navbar_readmore.html' %}
+{% endblock navbar %}
+
+{% block content %}
+<div class="container mt-5">
+    <form class="filter-form" action="{% url 'users:filter_data' %}" method="GET">
+        <div class="filter-container">
+            <div class="row">
+                <div class="col">
+                    <div class="filter">
+                        
+                        <span class="filter-heading">Select Your Choice</span>
+                        <div class="form-check mt-3">
+                            <input class="form-check-input" type="radio" name="beach_or_resort" id="beach" value="beach">
+                            <label class="form-check-label" for="beach">Beach</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="beach_or_resort" id="resort" value="resort">
+                            <label class="form-check-label" for="resort">Resort</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="beach_or_resort" id="both" value="both">
+                            <label class="form-check-label" for="both">Both</label>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="col-md-4 px-5">
+                    <div class="filter">
+                        
+                        <span class="filter-heading">Select Your Choice</span><br>
+                        <span class="filter-subheading">(Accommodations)</span>
+                        <div class="form-check mt-3">
+                            <input class="form-check-input" type="checkbox" id="rooms" name="room" value="room">
+                            <label class="form-check-label" for="rooms">Rooms</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="cotage" name="cottage" value="cottage">
+                            <label class="form-check-label" for="cottage">Cottage</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="villa" name="villa" value="villa">
+                            <label class="form-check-label" for="villa">Villa</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="suites" name="suites" value="suites">
+                            <label class="form-check-label" for="suites">Tent / Camping</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="pools" name="pools" value="pools">
+                            <label class="form-check-label" for="pools">Swimming Pools</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 px-5">
+                    <div class="filter">
+                        
+                        <span class="filter-heading">Select Your Choice</span><br>
+                        <span class="filter-subheading">(Culture and Local Attractions)</span>
+                        <div class="form-check mt-3">
+                            <input class="form-check-input" type="checkbox" id="food_and_dining">
+                            <label class="form-check-label" for="food_and_dining">Food and Dining</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="historical_and_cultural">
+                            <label class="form-check-label" for="historical_and_cultural">Historical and Cultural</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="festival_and_events">
+                            <label class="form-check-label" for="festival_and_events">Festival and Events</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="natural_attractions">
+                            <label class="form-check-label" for="natural_attractions">Natural Attractions</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="local_markets">
+                            <label class="form-check-label" for="local_markets">Local Markets and Shopping</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="sports_and_recreation">
+                            <label class="form-check-label" for="sports_and_recreation">Sport and Recreation</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="religious_sites">
+                            <label class="form-check-label" for="religious_sites">Religious Sites</label>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+            
+        </div>
+            <div class="submit-button-filter">
+                <!-- Hidden input field for rating -->
+                <input type="hidden" name="rating" id="rating-input" value="0">
+                <input class="btn btn-primary explore-btn w-100 fw-semibold" type="submit" value="EXPLORE" >
+            </div>
+        </form>   
+    </div>
+
+
+    {% if selected_option == 'beach' %}
+    <div class="result-head text-center my-3">
+        <span class="result-heading">Top 5 Result</span><br>
+        <span class="result-subheading">(Beaches)</span>
+    </div>
+        <ul>
+            {% for beach in data %}
+                <div class="row my-5">
+                    <div class="column">
+                        <strong>Name:</strong> {{ beach.beach_name }}<br>
+                        <strong>Location:</strong> {{ beach.beach_location }}<br>
+                        <strong>Rating:</strong>
+                        <span class="star-rating">
+                            {% for i in "x"|ljust:beach.beach_rating %}
+                                <i class="fas fa-star"></i> 
+                            {% endfor %}
+                        </span>
+                        {{ beach.beach_rating }} 
+                        <br>
+                        <img src="{{ beach.beach_image.url }}" alt="{{ beach.beach_name }}" width="300" height="150" class="img-fluid">
+                    </div>
+                </div>
+            {% endfor %}
+        </ul>
+
+    {% elif selected_option == 'resort' %}
+    <div class="result-head text-center my-3">
+        <span class="result-heading">Top 5 Result</span><br>
+        <span class="result-subheading">(Resorts)</span>
+    </div>
+        <ul>
+            {% for resort in data %}
+                <div class="row my-5">
+                    <div class="column">
+                        <strong>Name:</strong> {{ resort.resort_name }}<br>
+                        <strong>Location:</strong> {{ resort.resort_location }}<br>
+                        <strong>Rating:</strong>
+                        <span class="star-rating">
+                            {% for i in "x"|ljust:resort.resort_rating %}
+                                <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
+                            {% endfor %}
+                        </span>
+                        {{ resort.resort_rating }} <!-- Display the rating number -->
+                        <br>
+                        <img src="{{ resort.resort_image.url }}" alt="{{ resort.resort_name }}" width="300" height="150" class="img-fluid">
+                    </div>
+                </div>
+            {% endfor %}
+        </ul>
+
+    {% elif selected_option == 'both' %}
+    <div class="result-head text-center my-3">
+        <span class="result-heading">Top 5 Result</span><br>
+        <span class="result-subheading">(Beaches and Resorts)</span>
+    </div>
+        <ul>
+            {% for bandr in data %}
+                <div class="row my-5">
+                    <div class="column">
+                        <strong>Name:</strong> {{ bandr.BandR_name }}<br>
+                        <strong>Location:</strong> {{ bandr.BandR_location }}<br>
+                        <strong>Rating:</strong>
+                        <span class="star-rating">
+                            {% for i in "x"|ljust:bandr.BandR_rating %}
+                                <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
+                            {% endfor %}
+                        </span>
+                        {{ bandr.BandR_rating }} <!-- Display the rating number -->
+                        <br>
+                        <img src="{{ bandr.BandR_image.url }}" alt="{{ bandr.BandR_name }}" width="300" height="150" class="img-fluid">
+                    </div>
+                </div>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+</div>
+
+
+
+{% endblock content %}
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".star").on("click", function () {
+            $(this).prevAll().addBack().css("background-color", "#ffcc00");
+            $(this).nextAll().css("background-color", "#ccc");
+            var rating = $(this).index() + 1;
+            $("#rating-input").val(rating);
+        });
+    });
+</script>
