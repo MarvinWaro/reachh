@@ -1,0 +1,165 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    Welcome! MotherF*cker
+{% endblock %}
+
+{% block navbar %}
+    {% include 'partials/_navbar.html' %}
+{% endblock navbar %}
+
+{% block content %}
+
+<!-- ======= Carousel ======= -->
+
+<section id="home" class="section-1
+">
+<div id="intro-caro" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3000">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#intro-caro" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#intro-caro" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#intro-caro" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item c-item active">
+            <img src="{% static 'img/c-1.jpg' %}" class="d-block w-100 c-image" alt="...">
+            <div class="carousel-caption mt-5 d-md-block top-0 text-cont">
+                <h3 class="mt-5 display-4 text-uppercase">Discover the Perfect Destination</h3>
+                <p class="mt-3 fs-5">Explore Stunning Beaches and Resorts Tailored to Your Preferences</p>
+                <a role="button" class="btn btn-primary shadow-none" href="selection"> <span class="getstarted">GET STARTED</span> </a>
+            </div>~
+        </div>
+        <div class="carousel-item c-item">
+            <img src="{% static 'img/slide2.jpg' %}" class="d-block w-100 c-image" alt="...">
+            <div class="carousel-caption mt-5 d-md-block top-0 text-cont">
+                <h3 class="mt-5 display-4 text-uppercase">Discover the Perfect Destination</h3>
+                <p class="mt-3 fs-5">Explore Stunning Beaches and Resorts Tailored to Your Preferences</p>
+                <a role="button" class="btn btn-primary shadow-none getstarted" href="selection"><span class="getstarted">GET STARTED</span></a>
+            </div>
+        </div>
+        <div class="carousel-item c-item">
+            <img src="{% static 'img/slide3.jpg' %}" class="d-block w-100 c-image" alt="...">
+            <div class="carousel-caption mt-5 d-md-block top-0 text-cont">
+                <h3 class="mt-5 display-4 text-uppercase">Discover the Perfect Destination</h3>
+                <p class="mt-3 fs-5">Explore Stunning Beaches and Resorts Tailored to Your Preferences</p>
+                <a role="button" class="btn btn-primary shadow-none getstarted" href="selection"><span class="getstarted">GET STARTED</span></a>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#intro-caro" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#intro-caro" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+</section>
+
+<svg id="wave" style="transform:rotate(180deg); transition: 0.3s" viewBox="0 0 1440 140" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="sw-gradient-0" x1="0" x2="0" y1="1" y2="0"><stop stop-color="rgba(62, 175.556, 243, 1)" offset="0%"></stop><stop stop-color="rgba(11, 205.408, 255, 0)" offset="100%"></stop></linearGradient></defs><path style="transform:translate(0, 0px); opacity:1" fill="url(#sw-gradient-0)" d="M0,70L60,60.7C120,51,240,33,360,32.7C480,33,600,51,720,63C840,75,960,79,1080,72.3C1200,65,1320,47,1440,35C1560,23,1680,19,1800,30.3C1920,42,2040,70,2160,67.7C2280,65,2400,33,2520,23.3C2640,14,2760,28,2880,44.3C3000,61,3120,79,3240,84C3360,89,3480,79,3600,79.3C3720,79,3840,89,3960,79.3C4080,70,4200,42,4320,35C4440,28,4560,42,4680,44.3C4800,47,4920,37,5040,35C5160,33,5280,37,5400,44.3C5520,51,5640,61,5760,67.7C5880,75,6000,79,6120,67.7C6240,56,6360,28,6480,30.3C6600,33,6720,65,6840,72.3C6960,79,7080,61,7200,46.7C7320,33,7440,23,7560,21C7680,19,7800,23,7920,23.3C8040,23,8160,19,8280,25.7C8400,33,8520,51,8580,60.7L8640,70L8640,140L8580,140C8520,140,8400,140,8280,140C8160,140,8040,140,7920,140C7800,140,7680,140,7560,140C7440,140,7320,140,7200,140C7080,140,6960,140,6840,140C6720,140,6600,140,6480,140C6360,140,6240,140,6120,140C6000,140,5880,140,5760,140C5640,140,5520,140,5400,140C5280,140,5160,140,5040,140C4920,140,4800,140,4680,140C4560,140,4440,140,4320,140C4200,140,4080,140,3960,140C3840,140,3720,140,3600,140C3480,140,3360,140,3240,140C3120,140,3000,140,2880,140C2760,140,2640,140,2520,140C2400,140,2280,140,2160,140C2040,140,1920,140,1800,140C1680,140,1560,140,1440,140C1320,140,1200,140,1080,140C960,140,840,140,720,140C600,140,480,140,360,140C240,140,120,140,60,140L0,140Z"></path></svg>
+        <!-- ======= How it Works ======= -->
+
+        <section id="how_it_works" class="how_it_works mt-5 mb-5">
+
+            <div class="container" data-aos="fade-up">
+
+                <h4 class="display-5 text-center mb-4 pb-4 fw-semibold heading">How it Works</h4>
+    
+            <div class="row">
+    
+                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                <div class="box">
+                    <img src="{% static 'assets/img/values-3.png' %}" class="img-fluid" alt="">
+                    <h3>Evaluate Multiple Criteria</h3>
+                    <p>Our system analyzes various factors, including location, amenities, and user reviews, to assess beach and resort options. 
+                        This comprehensive evaluation provides insights to support decision-making.</p>
+                </div>
+                </div>
+    
+                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
+                <div class="box">
+                    <img src="{% static 'assets/img/values-2.png' %}" class="img-fluid" alt="">
+                    <h3>Weighted Scoring System</h3>
+                    <p>By using a multi-criteria approach, we assign weights to different factors based on user preferences. 
+                        This personalized approach enables tailored recommendations, helping users select their ideal beach and resort.</p>
+                </div>
+                </div>
+    
+                <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
+                <div class="box">
+                    <img src="{% static 'assets/img/values-1.png' %}" class="img-fluid" alt="">
+                    <h3>Decision Matrix and Ranking</h3>
+                    <p>Our system generates rankings by evaluating beaches and resorts against defined criteria. 
+                        These data-driven insights empower users to make informed choices and select the most suitable options for their preferences.</p>
+                </div>
+                </div>
+
+                
+    
+            </div>
+    
+            </div>
+    
+        </section>
+
+        <!-- End How it Works Section -->
+
+
+<hr class="w-75 text-center mx-auto">
+
+
+<!-- ======= About Section ======= -->
+<section id="about" class="about mt-5 mb-5 ">
+
+    <div class="container" data-aos="fade-up">
+    <div class="row gx-0">
+
+        <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
+        <div class="content">
+            <h3>About Us</h3>
+            <h2>Expedita voluptas omnis cupiditate totam eveniet nobis sint iste. Dolores est repellat corrupti reprehenderit.</h2>
+            <p>
+            Quisquam vel ut sint cum eos hic dolores aperiam. Sed deserunt et. Inventore et et dolor consequatur itaque ut voluptate sed et. Magnam nam ipsum tenetur suscipit voluptatum nam et est corrupti.
+            </p>
+            <div class="text-center text-lg-start">
+                <a href="read_more" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                    <span>Read More</span>
+                    <i class="ri-arrow-right-line"></i>
+                </a>
+            </div>
+        </div>
+        </div>
+
+        <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
+            <img src="{% static 'img/home/beach_about.png' %}" class="img-fluid" alt="">
+        </div>
+
+    </div>
+    </div>
+
+</section><!-- End About Section -->
+
+
+
+
+<footer id="footer" class="footer">
+
+    <div class="container">
+    <div class="copyright">
+        &copy; Copyright <strong><span>REACH</span></strong>. All Rights Reserved
+    </div>
+    <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/flexstart-bootstrap-startup-template/ -->
+        Designed by <a href="#!">G-12</a>
+    </div>
+    </div>
+
+</footer><!-- End Footer -->
+
+
+{% endblock %}
