@@ -1,27 +1,25 @@
 from django.shortcuts import render, redirect, get_object_or_404, reverse
 from django.http import HttpResponse, HttpResponseRedirect, Http404
 from django.contrib import messages
-from django.contrib.auth import authenticate, login, logout
 from .models import Beach, Resort, BeachAndResort
 
 # Create your views here.
 
 def landing(request):
-    return render(request, 'users/start/landing.html') #LANDING
-
+    return render(request, 'start/landing.html') #LANDING
 
 #---------HOME----------#
 
 def getStarted(request):
-    return render(request, 'users/filter/filter.html')
+    return render(request, 'filter/filter.html')
 
 
 def selection(request):
-    return render(request, 'users/home/filter.html')
+    return render(request, 'home/filter.html')
 
 
 def read_more(request):
-    return render(request, 'users/home/read_more.html')
+    return render(request, 'home/read_more.html')
 
 
 
@@ -39,6 +37,6 @@ def filter_data(request):
     else:
         data = []
 
-    return render(request, 'users/home/filter.html', {'data': data, 'selected_option': selected_option})
+    return render(request, 'home/filter.html', {'data': data, 'selected_option': selected_option})
 
 
