@@ -149,16 +149,17 @@ thead{
     position: relative;
 }
 
-.navbar-nav .nav-item::before {
+/* .navbar-nav .nav-item::before {
     content: '';
     position: absolute;
     left: 0;
     bottom: 0;
     width: 0;
     height: 2px;
-    background-color: #000; /* Set the desired underline color */
-    transition: width 0.3s ease-in-out; /* Adjust the transition properties as needed */
-}
+    background-color: #000; 
+    transition: width 0.3s ease-in-out; 
+} */
+
 
 .navbar-nav .nav-item:hover::before {
     width: 100%;
@@ -604,6 +605,7 @@ footer p {
 .logo_name{
   font-weight: bolder;
   color: #012970;
+  letter-spacing: 3px;
 }
 
 /* /////////////////////////// */
@@ -708,7 +710,11 @@ footer p {
 }
 
 .img-result{
-  
+  filter: brightness(0.4);
+}
+
+.explore-btn{
+  letter-spacing: 6px;
 }
 
 

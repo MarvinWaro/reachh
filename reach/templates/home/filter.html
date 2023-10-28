@@ -12,6 +12,7 @@
 {% block content %}
 <div class="container mt-5">
     <form class="filter-form" action="{% url 'algo:filter_data' %}" method="GET">
+        {% csrf_token %}
         <div class="filter-container">
             <div class="row">
                 <div class="col">
@@ -117,7 +118,7 @@
             <ul class="px-0">
                 {% for beach in data %}
                     <div class="card text-white" style="max-width: 1200px;">
-                        <img src="{{ beach.beach_image.url }}" alt="{{ beach.beach_name }}"class="img-fluid rounded mb-3 align-items-center"style="height: 70vh; object-fit: cover;">
+                        <img src="{{ beach.beach_image.url }}" alt="{{ beach.beach_name }}"class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
                         <div class="card-img-overlay">
                             <div class="position-absolute bottom-0 p-lg-5 p-4 px-0 text-light w-100 ">
                                 <h4>{{ beach.beach_name }}</h4>
@@ -170,7 +171,7 @@
             <ul class="px-0">
                 {% for bandr in data %}
                 <div class="card text-white" style="max-width: 1200px;">
-                    <img src="{{ bandr.BandR_image.url }}" alt="{{ bandr.BandR_name }}" class="img-fluid rounded mb-3 align-items-center"style="height: 70vh; object-fit: cover;">
+                    <img src="{{ bandr.BandR_image.url }}" alt="{{ bandr.BandR_name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
                     <div class="card-img-overlay">
                         <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
                             <h4>{{ bandr.BandR_name }}</h4>
