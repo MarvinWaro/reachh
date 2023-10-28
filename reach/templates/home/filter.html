@@ -12,6 +12,7 @@
 {% block content %}
 <div class="container mt-5">
     <form class="filter-form" action="{% url 'algo:filter_data' %}" method="GET">
+        {% csrf_token %}
         <div class="filter-container">
             <div class="row">
                 <div class="col">
@@ -106,81 +107,88 @@
     </div>
 
 
-    {% if selected_option == 'beach' %}
-    <div class="result-head text-center my-3">
-        <span class="result-heading">Top 5 Result</span><br>
-        <span class="result-subheading">(Beaches)</span>
-    </div>
-        <ul>
-            {% for beach in data %}
-                <div class="row my-5">
-                    <div class="column">
-                        <strong>Name:</strong> {{ beach.beach_name }}<br>
-                        <strong>Location:</strong> {{ beach.beach_location }}<br>
-                        <strong>Rating:</strong>
-                        <span class="star-rating">
-                            {% for i in "x"|ljust:beach.beach_rating %}
-                                <i class="fas fa-star"></i> 
-                            {% endfor %}
-                        </span>
-                        {{ beach.beach_rating }} 
-                        <br>
-                        <img src="{{ beach.beach_image.url }}" alt="{{ beach.beach_name }}" width="300" height="150" class="img-fluid">
+    <!-- FILTERing DATA -->
+    <div class="container">
+        <!-- FILTER IN BEACH -->
+        {% if selected_option == 'beach' %}
+            <div class="result-head text-center my-3">
+                <span class="result-heading">Top 5 Result</span><br>
+                <span class="result-subheading">(Beaches)</span>
+            </div>
+            <ul class="px-0">
+                {% for beach in data %}
+                    <div class="card text-white" style="max-width: 1200px;">
+                        <img src="{{ beach.beach_image.url }}" alt="{{ beach.beach_name }}"class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
+                        <div class="card-img-overlay">
+                            <div class="position-absolute bottom-0 p-lg-5 p-4 px-0 text-light w-100 ">
+                                <h4>{{ beach.beach_name }}</h4>
+                                <span>{{ beach.beach_location }}</span><br>
+                                <span class="star-rating">
+                                    {% for i in "x"|ljust:beach.beach_rating %}
+                                        <i class="fas fa-star"></i> 
+                                    {% endfor %}
+                                </span>
+                                {{ beach.beach_rating }} 
+                            </div>
+                        </div>
                     </div>
-                </div>
-            {% endfor %}
-        </ul>
+                {% endfor %}
+            </ul> <!-- FILTER IN BEACH END-->
+            
 
-    {% elif selected_option == 'resort' %}
-    <div class="result-head text-center my-3">
-        <span class="result-heading">Top 5 Result</span><br>
-        <span class="result-subheading">(Resorts)</span>
-    </div>
-        <ul>
-            {% for resort in data %}
-                <div class="row my-5">
-                    <div class="column">
-                        <strong>Name:</strong> {{ resort.resort_name }}<br>
-                        <strong>Location:</strong> {{ resort.resort_location }}<br>
-                        <strong>Rating:</strong>
-                        <span class="star-rating">
-                            {% for i in "x"|ljust:resort.resort_rating %}
-                                <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
-                            {% endfor %}
-                        </span>
-                        {{ resort.resort_rating }} <!-- Display the rating number -->
-                        <br>
-                        <img src="{{ resort.resort_image.url }}" alt="{{ resort.resort_name }}" width="300" height="150" class="img-fluid">
+            <!-- FILTER IN RESORT -->
+            {% elif selected_option == 'resort' %}
+            <div class="result-head text-center my-3">
+                <span class="result-heading">Top 5 Result</span><br>
+                <span class="result-subheading">(Resorts)</span>
+            </div>
+            <ul class="px-0">
+                {% for resort in data %}
+                    <div class="card text-white" style="max-width: 1200px;">
+                        <img src="{{ resort.resort_image.url }}" alt="{{ resort.resort_name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
+                        <div class="card-img-overlay">
+                            <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
+                                <h4>{{ resort.resort_name }}</h4>
+                                <span>{{ resort.resort_location }}</span><br>
+                                <span class="star-rating">
+                                    {% for i in "x"|ljust:resort.resort_rating %}
+                                        <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
+                                    {% endfor %}
+                                </span>
+                                {{ resort.resort_rating }} <!-- Display the rating number -->
+                            </div>
+                        </div>
                     </div>
-                </div>
-            {% endfor %}
-        </ul>
+                {% endfor %}
+            </ul><!-- FILTER IN RESORT END-->
 
-    {% elif selected_option == 'both' %}
-    <div class="result-head text-center my-3">
-        <span class="result-heading">Top 5 Result</span><br>
-        <span class="result-subheading">(Beaches and Resorts)</span>
-    </div>
-        <ul>
-            {% for bandr in data %}
-                <div class="row my-5">
-                    <div class="column">
-                        <strong>Name:</strong> {{ bandr.BandR_name }}<br>
-                        <strong>Location:</strong> {{ bandr.BandR_location }}<br>
-                        <strong>Rating:</strong>
-                        <span class="star-rating">
-                            {% for i in "x"|ljust:bandr.BandR_rating %}
-                                <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
-                            {% endfor %}
-                        </span>
-                        {{ bandr.BandR_rating }} <!-- Display the rating number -->
-                        <br>
-                        <img src="{{ bandr.BandR_image.url }}" alt="{{ bandr.BandR_name }}" width="300" height="150" class="img-fluid">
+            <!-- FILTER IN BOTH -->
+            {% elif selected_option == 'both' %}
+            <div class="result-head text-center my-3">
+                <span class="result-heading">Top 5 Result</span><br>
+                <span class="result-subheading">(Beaches and Resorts)</span>
+            </div>
+            <ul class="px-0">
+                {% for bandr in data %}
+                <div class="card text-white" style="max-width: 1200px;">
+                    <img src="{{ bandr.BandR_image.url }}" alt="{{ bandr.BandR_name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
+                    <div class="card-img-overlay">
+                        <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
+                            <h4>{{ bandr.BandR_name }}</h4>
+                            <span>{{ bandr.BandR_location }}</span><br>
+                            <span class="star-rating">
+                                {% for i in "x"|ljust:bandr.BandR_rating %}
+                                    <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
+                                {% endfor %}
+                            </span>
+                            {{ bandr.BandR_rating }} <!-- Display the rating number -->
+                        </div>
                     </div>
                 </div>
-            {% endfor %}
-        </ul>
-    {% endif %}
+                {% endfor %}
+            </ul><!-- FILTER IN BOTH END-->
+        {% endif %}
+    </div>
 
 </div>
 
