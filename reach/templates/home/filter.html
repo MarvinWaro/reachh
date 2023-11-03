@@ -33,6 +33,7 @@
                         </div>
                     </div>
                 </div>
+
                 <!-- <div class="col-md-4 px-5">
                     <div class="filter">
                         
@@ -123,12 +124,13 @@
                             <div class="position-absolute bottom-0 p-lg-5 p-4 px-0 text-light w-100 ">
                                 <h4>{{ beach.beach_name }}</h4>
                                 <span>{{ beach.beach_location }}</span><br>
+                                {{ beach.beach_rating }} 
                                 <span class="star-rating">
                                     {% for i in "x"|ljust:beach.beach_rating %}
                                         <i class="fas fa-star"></i> 
                                     {% endfor %}
                                 </span>
-                                {{ beach.beach_rating }} 
+                                
                             </div>
                         </div>
                     </div>
@@ -150,12 +152,13 @@
                             <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
                                 <h4>{{ resort.resort_name }}</h4>
                                 <span>{{ resort.resort_location }}</span><br>
+                                {{ resort.resort_rating }} <!-- Display the rating number -->
                                 <span class="star-rating">
                                     {% for i in "x"|ljust:resort.resort_rating %}
                                         <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
                                     {% endfor %}
                                 </span>
-                                {{ resort.resort_rating }} <!-- Display the rating number -->
+                                
                             </div>
                         </div>
                     </div>
@@ -176,12 +179,13 @@
                         <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
                             <h4>{{ bandr.BandR_name }}</h4>
                             <span>{{ bandr.BandR_location }}</span><br>
+                            {{ bandr.BandR_rating }} <!-- Display the rating number -->
                             <span class="star-rating">
                                 {% for i in "x"|ljust:bandr.BandR_rating %}
                                     <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
                                 {% endfor %}
                             </span>
-                            {{ bandr.BandR_rating }} <!-- Display the rating number -->
+                            
                         </div>
                     </div>
                 </div>
