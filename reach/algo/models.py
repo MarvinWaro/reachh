@@ -50,3 +50,22 @@ class BeachAndResort(models.Model):
 
     def __str__(self):
         return self.BandR_name
+
+
+
+class Place(models.Model):
+    name = models.CharField(max_length=255, verbose_name='Name')
+    location = models.CharField(max_length=255, verbose_name='Location')
+    rating = models.DecimalField(max_digits=3, decimal_places=2, verbose_name='Rating', default=0.0)
+    image = models.ImageField(upload_to=image_path, default='br_pic/image.jpg', verbose_name='Photo')
+    facebook_page_id = models.CharField(max_length=50, verbose_name='Facebook Page ID', blank=True, null=True)
+    is_beach = models.BooleanField(default=False, verbose_name='Is Beach')
+    is_resort = models.BooleanField(default=False, verbose_name='Is Resort')
+    place_identifier = models.CharField(max_length=50, verbose_name='Place Identifier', unique=True)
+    keywords = models.CharField(max_length=300, verbose_name='Keywords', default='')
+
+    def image_tag(self):
+        return mark_safe('<img src="/media/%s" width="50" height="50">' % (self.image))
+
+    def __str__(self):
+        return self.name
