@@ -28,8 +28,9 @@ with open('reach.csv', 'r', encoding='utf-8') as f:
 
 
 
-openai.api_key = "NULL"
-openai.api_base = "http://localhost:1234/v1"
+# openai.api_key = "NULL"
+# openai.api_base = "http://localhost:1234/v1"
+openai.api_key = "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"
 
 prompt_text = """
 Once upon a time in a land far, far away, there was a brave knight named Sir Lancelot.
