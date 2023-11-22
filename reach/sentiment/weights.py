@@ -55,7 +55,7 @@ with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
             weighted_avg_percentage = round(weighted_avg_percentage, 2)
 
             row = [hotel, weighted_cleanliness, weighted_safety, weighted_accessibility,
-                   weighted_natural_beauty, weighted_accommodations, weighted_recreational_activity, weighted_avg_percentage, review["review"]]
+                    weighted_natural_beauty, weighted_accommodations, weighted_recreational_activity, weighted_avg_percentage, review["review"]]
             csv_writer.writerow(row)
             try: 
                 plt.figure(figsize=(8, 8))

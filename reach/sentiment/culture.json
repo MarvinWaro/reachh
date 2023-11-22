@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-{"alintanaqa": ["birthday"], "azzurabeachresort": ["recreation", "reservation", "empty"]}
-=======
-<<<<<<< Updated upstream
-{"alintanaqa": [""], "azzurabeachresort": [" Poor", " DISAPPOINTED", " historical", " Hindi", " None.", " shopping", " Reservation", " Poor.", " beach", " Historical"]}
-=======
-{"alintanaqa": ["birthday"], "azzurabeachresort": ["recreation", "reservation", "empty"]}
->>>>>>> Stashed changes
->>>>>>> 718c7534d79ae053929c4143b6f5988d631caea5
+{
+    "alintanaqa": ["birthday"],
+    "azzurabeachresort": ["recreation", "reservation", "empty"]
+}
+
