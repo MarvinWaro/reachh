@@ -85,7 +85,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'reach_db',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': 'root',
         'PORT': '3306',
         'HOST': 'localhost',
     }

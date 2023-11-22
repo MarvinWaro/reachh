@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import json
 
 # Load the original JSON data
@@ -18,3 +19,16 @@ with open('ratings.json', 'w') as file:
 
 print("Averages calculated and saved to ratings.json")
 print(averages)
+=======
+import pandas as pd
+import json
+
+csv_file = 'output.csv'
+df = pd.read_csv(csv_file)
+grouped_df = df.groupby('hotel')['weighted_rating'].mean().round(2)
+result_dict = grouped_df.to_dict()
+json_output_file = 'ratings.json'
+with open(json_output_file, 'w') as json_file:
+    json.dump(result_dict, json_file, indent=4)
+print(f"The data has been saved to {json_output_file}")
+>>>>>>> Stashed changes

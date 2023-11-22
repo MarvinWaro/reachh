@@ -1,6 +1,7 @@
 import csv
 import openai
 import json
+<<<<<<< Updated upstream
 
 data_list = []
 
@@ -12,17 +13,34 @@ with open('reach.csv', 'r', encoding='utf-8') as f:
     # Iterate over each row in the CSV file
     for row in reader:
         # Print each column value
+=======
+from dotenv import load_dotenv
+import os
+load_dotenv()
+
+
+data_list = []
+
+with open('reach.csv', 'r', encoding='utf-8') as f:
+    reader = csv.reader(f)
+
+    for row in reader:
+>>>>>>> Stashed changes
         fbid = row[0]
         pagename = row[1]
         review = row[2]
         
+<<<<<<< Updated upstream
         # Create an object and store it in a dictionary
+=======
+>>>>>>> Stashed changes
         data_object = {
             'fbid': fbid,
             'pagename': pagename,
             'review': review
         }
         
+<<<<<<< Updated upstream
         # Append the object to the data_list
         data_list.append(data_object)
 
@@ -47,6 +65,12 @@ He embarked on a quest to"""
 # print(response)
 # openai.api_key = "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"
 
+=======
+        data_list.append(data_object)
+
+
+openai.api_key = os.getenv("OPENAI_KEY")
+>>>>>>> Stashed changes
 
 
 def toDict(message):
@@ -59,11 +83,15 @@ def toDict(message):
 pages = {
     
 }
+<<<<<<< Updated upstream
 print('a' in pages)
+=======
+>>>>>>> Stashed changes
 
 messages = [
     {"role": "user", "content": "Just respond with a number. Rate by sentiment analysis, 1 - 5"}
 ]
+<<<<<<< Updated upstream
 # completion = openai.ChatCompletion.create(model="mistral", messages=messages)
 # messages.append(toDict(completion.choices[0].message))
 
@@ -71,6 +99,9 @@ data_list.pop()
 data_list.pop()
 index = 0
 # print(data_list[1:5])
+=======
+
+>>>>>>> Stashed changes
 for data in data_list:
     if data['review'] == 'text':
         continue
@@ -83,6 +114,7 @@ respond in only one word,
 do not add explanations
     '''
     message = ({"role": "user", "content": keywords + review + instructions})
+<<<<<<< Updated upstream
     print(message['content'])
     completion = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=[message])
     keywords = completion.choices[0].message['content']
@@ -98,6 +130,23 @@ do not add explanations
     else:
         pages[data['pagename']] = []
         pages[data['pagename']].append(keywords)
+=======
+    retries = 3
+    while retries > 0:   
+        try: 
+            completion = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=[message], request_timeout=15 * (11-retries))
+            keywords = completion.choices[0].message['content']
+            keywords_list = list(set(keywords.split(', ')))
+            if data['pagename'] in pages:
+                pages[data['pagename']] = list(set(pages[data['pagename']] + keywords_list))
+            else:
+                pages[data['pagename']] = []
+                pages[data['pagename']].append(keywords)
+            break
+        except Exception as e:
+            retries -= 1
+            time.sleep(5)
+>>>>>>> Stashed changes
 
     print(pages)
     json_data = json.dumps(pages)
