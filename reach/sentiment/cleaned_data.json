@@ -1,1 +1,101 @@
-{"alintanaqa": ["cottage", "historical"], "azzurabeachresort": ["rooms", "villa", "historical"], "people": ["rooms", "cottage", "villa", "historical", "food"], "HugotBeachHouse": ["cottage", "historical", "food"], "PinkSandBeachStaCruzIsland": ["rooms", "cottage", "villa", "historical", "food"], "pitasisland": ["rooms", "historical"], "PuertoVillaBeachResortOfficial": ["rooms", "cottage", "villa", "historical", "recreation"], "Shariffjane": ["cottage", "historical", "food"], "thebeachhouseatwestcoastpatalon": ["villa", "rooms", "cottage", "historical", "food"], "vistadelmarresortzamboanga": ["cottage", "rooms", "villa", "historical", "food"], "3mjdhillsiteresort": ["rooms", "cottage", "historical"], "gardenorchidhotels": ["villa", "cottage", "rooms", "historical"], "OfficialLMMetroHotel": ["cottage", "rooms", "villa", "historical", "dining", "food"], "margareetasfamilyresort": ["cottage", "rooms", "villa", "historical", "food"], "monteverderesort": ["rooms", "cottage", "villa", "food", "historical"], "woodlandresort": ["cottage", "rooms", "villa", "recreation", "historical", "food"]}
+{
+    "alintanaqa": [
+        "cottage"
+    ],
+    "azzurabeachresort": [
+        "villa",
+        "rooms",
+        "cottage",
+        "recreation",
+        "attractions",
+        "shopping"
+    ],
+    "people": [
+        "cottage",
+        "pools",
+        "villa",
+        "rooms",
+        "recreation",
+        "food",
+        "shopping"
+    ],
+    "HugotBeachHouse": [
+        "cottage",
+        "pools",
+        "villa",
+        "recreation",
+        "attractions",
+        "shopping"
+    ],
+    "PinkSandBeachStaCruzIsland": [
+        "villa",
+        "rooms",
+        "shopping",
+        "recreation"
+    ],
+    "pitasisland": [
+        "recreation"
+    ],
+    "PuertoVillaBeachResortOfficial": [
+        "cottage",
+        "pools",
+        "villa",
+        "rooms",
+        "shopping",
+        "recreation"
+    ],
+    "Shariffjane": [
+        "cottage",
+        "recreation"
+    ],
+    "thebeachhouseatwestcoastpatalon": [
+        "cottage",
+        "recreation",
+        "events"
+    ],
+    "vistadelmarresortzamboanga": [
+        "cottage",
+        "villa",
+        "food",
+        "recreation"
+    ],
+    "3mjdhillsiteresort": [
+        "cottage",
+        "attractions"
+    ],
+    "gardenorchidhotels": [
+        "rooms",
+        "food"
+    ],
+    "OfficialLMMetroHotel": [
+        "cottage",
+        "pools",
+        "rooms",
+        "food",
+        "dining",
+        "recreation"
+    ],
+    "margareetasfamilyresort": [
+        "cottage",
+        "pools",
+        "rooms",
+        "recreation"
+    ],
+    "monteverderesort": [
+        "cottage",
+        "pools",
+        "villa",
+        "rooms",
+        "attractions",
+        "events",
+        "recreation"
+    ],
+    "woodlandresort": [
+        "cottage",
+        "pools",
+        "rooms",
+        "food",
+        "events",
+        "attractions"
+    ]
+}

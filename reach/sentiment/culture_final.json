@@ -1,112 +1,89 @@
 {
     "alintanaqa": [
-        " Historical"
+        "empty"
     ],
     "azzurabeachresort": [
-        " beach",
-        " None",
-        " Hindi",
-        " None.",
-        " DISAPPOINTED",
-        " Historical",
-        " None of the keywords provided apply to the review.",
-        " Reservation.",
-        " Poor"
+        "recreation",
+        "service",
+        "attractions",
+        "shopping",
+        "customer",
+        "empty"
     ],
     "people": [
-        " resort",
-        " Unexpected",
-        " None",
-        " historical",
-        " Historical",
-        " None.",
-        " Approachable",
-        " Food",
-        " Cr",
-        " The keyword that applies to the review is \"food\".",
-        " food",
-        " Nature",
-        " Poor customer service."
+        "cleanliness",
+        "recreation",
+        "food",
+        "shopping",
+        "empty"
     ],
     "HugotBeachHouse": [
-        " None.",
-        " Historical",
-        " historical",
-        " \ud83c\udf0a",
-        " food"
+        "recreation",
+        "service",
+        "attractions",
+        "shopping",
+        "empty"
     ],
     "PinkSandBeachStaCruzIsland": [
-        " Historical",
-        " beach",
-        " food",
-        " None."
+        "shopping",
+        "empty",
+        "recreation"
     ],
     "pitasisland": [
-        " Historical"
+        "recreation",
+        "empty"
     ],
     "PuertoVillaBeachResortOfficial": [
-        " Historical",
-        " \"Pool\"",
-        " Relaxing",
-        " Recreation"
+        "cleanliness",
+        "shopping",
+        "recreation",
+        "empty"
     ],
     "Shariffjane": [
-        " Historical",
-        " food",
-        " Serenity."
+        "recreation",
+        "empty"
     ],
     "thebeachhouseatwestcoastpatalon": [
-        " Historical",
-        " festival",
-        " Food"
+        "recreation",
+        "events",
+        "empty"
     ],
     "vistadelmarresortzamboanga": [
-        " None",
-        " historical",
-        " Historical",
-        " Food",
-        " Poor"
+        "food",
+        "empty",
+        "service",
+        "recreation"
     ],
     "3mjdhillsiteresort": [
-        " Historical",
-        " hindi"
+        "attractions",
+        "empty"
     ],
     "gardenorchidhotels": [
-        " \"Historical\"",
-        " None",
-        " historical",
-        " Historical",
-        " Seminars."
+        "food",
+        "service",
+        "empty"
     ],
     "OfficialLMMetroHotel": [
-        " Historical",
-        " Accommodation.",
-        " dining",
-        " Food"
+        "empty",
+        "food",
+        "dining",
+        "recreation"
     ],
     "margareetasfamilyresort": [
-        " Perfect",
-        " affordable",
-        " None",
-        " None.",
-        " Historical",
-        " Garden",
-        " food"
+        "empty",
+        "service",
+        "recreation"
     ],
     "monteverderesort": [
-        " Food.",
-        " Resort.",
-        " Historical",
-        " Verdant.",
-        " food"
+        "attractions",
+        "events",
+        "empty",
+        "recreation"
     ],
     "woodlandresort": [
-        " Nag",
-        " None",
-        " Recreation",
-        " historical",
-        " Historical",
-        " Food",
-        " Najelitnije mesto u Kragujevcu i okolini!!! \u2764\ufe0f\ud83c\udf89"
+        "food",
+        "empty",
+        "events",
+        "attractions"
     ]
 }
