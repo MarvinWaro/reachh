@@ -67,7 +67,7 @@ for data in data_list:
             "safety": score,
             "accessibility": score,
             "natural_beauty": score,
-            "accomodations": score,
+            "accommodations": score,
             "recreational_activity": score,
         }
     '''

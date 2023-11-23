@@ -1,111 +1,101 @@
 {
     "alintanaqa": [
-        " Cottage"
+        "cottage"
     ],
     "azzurabeachresort": [
-        " rooms",
-        " Rooms",
-        " villa",
-        " None"
+        "villa",
+        "rooms",
+        "cottage",
+        "empty"
     ],
     "people": [
-        " \"dirty\"",
-        " None.",
-        " Rooms",
-        " None",
-        " cottage",
-        " Resort",
-        " villa",
-        " rooms",
-        " Villa",
-        " \"Resort\"",
-        " Cottage"
+        "cottage",
+        "pools",
+        "empty",
+        "home",
+        "villa",
+        "cottages",
+        "resort",
+        "rooms",
+        "tree"
     ],
     "HugotBeachHouse": [
-        " cottage",
-        " Cottage"
+        "cottage",
+        "pools",
+        "empty",
+        "villa",
+        "spacious"
     ],
     "PinkSandBeachStaCruzIsland": [
-        " None.",
-        " Rooms",
-        " cottage",
-        " Cottage",
-        " villa",
-        " beach",
-        " None"
+        "villa",
+        "rooms",
+        "empty",
+        "beach"
     ],
     "pitasisland": [
-        " rooms",
-        " None."
+        "empty"
     ],
     "PuertoVillaBeachResortOfficial": [
-        " Rooms",
-        " cottage",
-        " rooms",
-        " Villa",
-        " villa",
-        " Pool"
+        "cottage",
+        "pools",
+        "empty",
+        "villa",
+        "cottages",
+        "rooms"
     ],
     "Shariffjane": [
-        " cottage"
+        "cottage",
+        "empty"
     ],
     "thebeachhouseatwestcoastpatalon": [
-        " villa",
-        " rooms",
-        " Psoriasis",
-        " Cottage"
+        "reservation",
+        "cottage",
+        "skin",
+        "empty"
     ],
     "vistadelmarresortzamboanga": [
-        " cottage",
-        " Poor",
-        " \"rooms\"",
-        " rooms",
-        " villa",
-        " Cottage"
+        "cottage",
+        "empty",
+        "villa",
+        "service",
+        "beach"
     ],
     "3mjdhillsiteresort": [
-        " rooms",
-        " cottage"
+        "cottage",
+        "empty"
     ],
     "gardenorchidhotels": [
-        " villa",
-        " cottage",
-        " rooms",
-        " Villa"
+        "rooms",
+        "empty"
     ],
     "OfficialLMMetroHotel": [
-        " cottage",
-        " rooms",
-        " Villa",
-        " villa",
-        " Cottage"
+        "cottage",
+        "pools",
+        "Empty",
+        "empty",
+        "rooms"
     ],
     "margareetasfamilyresort": [
-        " cottage",
-        " rooms",
-        " Cottage",
-        " villa",
-        " Rooms.",
-        " None"
+        "cottage",
+        "pools",
+        "empty",
+        "resort",
+        "rooms"
     ],
     "monteverderesort": [
-        " Rooms",
-        " cottage",
-        " rooms",
-        " Cottage",
-        " Villa",
-        " villa",
-        " None"
+        "cottage",
+        "pools",
+        "empty",
+        "villa",
+        "rooms"
     ],
     "woodlandresort": [
-        " None.",
-        " Najelitnije mesto u Kragujevcu i okolini!!! \u2764\ufe0f\ud83c\udf89",
-        " cottage",
-        " George",
-        " Cottages",
-        " rooms",
-        " Resort.",
-        " villa",
-        " Cottage"
+        "cottage",
+        "pools",
+        "empty",
+        "cottages",
+        "snacks",
+        "forex",
+        "rooms"
     ]
 }
