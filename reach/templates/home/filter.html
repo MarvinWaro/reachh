@@ -11,8 +11,22 @@
 
 {% block content %}
 <div class="container mt-5">
+
     <form class="filter-form" action="{% url 'algo:filter_data' %}" method="GET">
         {% csrf_token %}
+
+        <!-- Search bar section -->
+        <div class="row mt-3">
+            <div class="col">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search Beach and Resort" name="search" value="{{ search_query }}">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="submit">Search</button>
+                    </div>
+                </div>
+            </div>
+        </div>    
+
         <div class="filter-container">
             <div class="row">
                 <div class="col">
@@ -110,84 +124,90 @@
 
     <!-- FILTERing DATA -->
     <div class="container">
-        <!-- FILTER IN BEACH -->
-        {% if selected_option == 'beach' %}
-            <div class="result-head text-center my-3">
-                <span class="result-heading">Top 5 Result</span><br>
-                <span class="result-subheading">(Beaches)</span>
-            </div>
-             <ul class="px-0">
-                {% for bandr in data %}
-                <div class="card text-white" style="max-width: 1200px;">
-                    <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
-                    <div class="card-img-overlay">
-                        <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
-                            <h4>{{ bandr.name }}</h4>
-                            <span>{{ bandr.location }}</span><br>
-                            {{ bandr.rating }} <!-- Display the rating number -->
-                            <span class="star-rating">
-                                {% for i in "x"|ljust:bandr.rating %}
-                                    <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
-                                {% endfor %}
-                            </span>
+        {% if no_results %}
+        <div class="result-head text-center my-3">
+            <span class="result-heading">No Results Found</span>
+        </div>
+        {% else %}
+            <!-- FILTER IN BEACH -->
+            {% if selected_option == 'beach' %}
+                <div class="result-head text-center my-3">
+                    <span class="result-heading">Top Result</span><br>
+                    <span class="result-subheading">(Beaches)</span>
+                </div>
+                <ul class="px-0">
+                    {% for bandr in data %}
+                    <div class="card text-white" style="max-width: 1200px;">
+                        <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
+                        <div class="card-img-overlay">
+                            <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
+                                <h4>{{ bandr.name }}</h4>
+                                <span>{{ bandr.location }}</span><br>
+                                {{ bandr.rating }} <!-- Display the rating number -->
+                                <span class="star-rating">
+                                    {% for i in "x"|ljust:bandr.rating %}
+                                        <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
+                                    {% endfor %}
+                                </span>
+                            </div>
                         </div>
                     </div>
-                </div>
-                {% endfor %}
-            </ul><!-- FILTER IN BEACH END-->
-            
+                    {% endfor %}
+                </ul><!-- FILTER IN BEACH END-->
+                
 
-            <!-- FILTER IN RESORT -->
-            {% elif selected_option == 'resort' %}
-            <div class="result-head text-center my-3">
-                <span class="result-heading">Top 5 Result</span><br>
-                <span class="result-subheading">(Resorts)</span>
-            </div>
-            <ul class="px-0">
-                {% for bandr in data %}
-                <div class="card text-white" style="max-width: 1200px;">
-                    <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
-                    <div class="card-img-overlay">
-                        <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
-                            <h4>{{ bandr.name }}</h4>
-                            <span>{{ bandr.location }}</span><br>
-                            {{ bandr.rating }} <!-- Display the rating number -->
-                            <span class="star-rating">
-                                {% for i in "x"|ljust:bandr.rating %}
-                                    <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
-                                {% endfor %}
-                            </span>
+                <!-- FILTER IN RESORT -->
+                {% elif selected_option == 'resort' %}
+                <div class="result-head text-center my-3">
+                    <span class="result-heading">Top Result</span><br>
+                    <span class="result-subheading">(Resorts)</span>
+                </div>
+                <ul class="px-0">
+                    {% for bandr in data %}
+                    <div class="card text-white" style="max-width: 1200px;">
+                        <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
+                        <div class="card-img-overlay">
+                            <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
+                                <h4>{{ bandr.name }}</h4>
+                                <span>{{ bandr.location }}</span><br>
+                                {{ bandr.rating }} <!-- Display the rating number -->
+                                <span class="star-rating">
+                                    {% for i in "x"|ljust:bandr.rating %}
+                                        <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
+                                    {% endfor %}
+                                </span>
+                            </div>
                         </div>
                     </div>
-                </div>
-                {% endfor %}
-            </ul><!-- FILTER IN RESORT END-->
+                    {% endfor %}
+                </ul><!-- FILTER IN RESORT END-->
 
-            <!-- FILTER IN BOTH -->
-            {% elif selected_option == 'both' %}
-            <div class="result-head text-center my-3">
-                <span class="result-heading">Top 5 Result</span><br>
-                <span class="result-subheading">(Beaches and Resorts)</span>
-            </div>
-            <ul class="px-0">
-                {% for bandr in data %}
-                <div class="card text-white" style="max-width: 1200px;">
-                    <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
-                    <div class="card-img-overlay">
-                        <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
-                            <h4>{{ bandr.name }}</h4>
-                            <span>{{ bandr.location }}</span><br>
-                            {{ bandr.rating }} <!-- Display the rating number -->
-                            <span class="star-rating">
-                                {% for i in "x"|ljust:bandr.rating %}
-                                    <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
-                                {% endfor %}
-                            </span>
+                <!-- FILTER IN BOTH -->
+                {% elif selected_option == 'both' %}
+                <div class="result-head text-center my-3">
+                    <span class="result-heading">Top Result</span><br>
+                    <span class="result-subheading">(Beaches and Resorts)</span>
+                </div>
+                <ul class="px-0">
+                    {% for bandr in data %}
+                    <div class="card text-white" style="max-width: 1200px;">
+                        <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
+                        <div class="card-img-overlay">
+                            <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
+                                <h4>{{ bandr.name }}</h4>
+                                <span>{{ bandr.location }}</span><br>
+                                {{ bandr.rating }} <!-- Display the rating number -->
+                                <span class="star-rating">
+                                    {% for i in "x"|ljust:bandr.rating %}
+                                        <i class="fas fa-star"></i> <!-- Use Font Awesome star icon -->
+                                    {% endfor %}
+                                </span>
+                            </div>
                         </div>
                     </div>
-                </div>
-                {% endfor %}
-            </ul><!-- FILTER IN BOTH END-->
+                    {% endfor %}
+                </ul><!-- FILTER IN BOTH END-->
+            {% endif %}
         {% endif %}
     </div>
 

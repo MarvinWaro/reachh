@@ -1,101 +1,266 @@
 {
-    "alintanaqa": [
+    "antulangbeach": [
+        "empty",
+        "pools",
         "cottage"
     ],
-    "azzurabeachresort": [
-        "villa",
-        "rooms",
+    "balucanbeachresort": [
+        "rooms"
+    ],
+    "BenuelsBeach": [
+        "empty",
+        "beach"
+    ],
+    "BarcelonaSpringFarm": [
+        "empty",
+        "pools"
+    ],
+    "BawbawonBeachResort": [
+        "accom",
+        "empty",
         "cottage",
+        "accommodation",
+        "beach",
+        "None",
+        "rooms"
+    ],
+    "bethesdapooltibanga": [
+        "empty",
+        "pools",
+        "villa"
+    ],
+    "brentsgardenresorts": [
+        "rooms"
+    ],
+    "calumbabeachresort": [
         "empty"
     ],
-    "people": [
+    "casaelcorahighlandresort": [
+        "empty"
+    ],
+    "DakakParkandBeachResort": [
+        "empty",
+        "pools",
+        "cottage"
+    ],
+    "DonNathanielsPH": [
+        "cottages"
+    ],
+    "DonelBeachResort": [
+        "accommodating",
+        "empty",
+        "staff",
+        "toilet",
+        "management",
+        "tent"
+    ],
+    "EribertaSpringsOfficial": [
+        "pools",
+        "cleanliness",
+        "empty",
+        "cottage"
+    ],
+    "garbemcoswimmingpool": [
+        "empty",
         "cottage",
+        "staff"
+    ],
+    "Geefarmresort": [
+        "rooms"
+    ],
+    "GratumBeachResort": [
+        "empty",
+        "villa",
+        "cottage",
+        "clean",
+        "camping",
+        "rooms"
+    ],
+    "hunasanresort1224": [
+        "empty",
+        "cottage"
+    ],
+    "jehovengardenresortofc": [
+        "empty",
+        "rooms"
+    ],
+    "kayleespalmresort": [
+        "empty",
+        "villa"
+    ],
+    "caluaninfinitypool": [
+        "pools",
+        "empty"
+    ],
+    "LAGAGSpringMountainResort": [
+        "empty"
+    ],
+    "lumbiahillgardenresort": [
+        "empty",
+        "villa",
+        "cottage",
+        "tent",
+        "rooms"
+    ],
+    "maligroresort": [
+        "empty",
+        "rooms"
+    ],
+    "munimuniresort": [
+        "empty",
+        "villa",
+        "cottage",
+        "retreat"
+    ],
+    "PahaliResortBasilan": [
+        "villa",
+        "empty",
+        "cottage"
+    ],
+    "palomasbeachresort": [
+        "empty",
+        "beach",
+        "pools",
+        "cottage"
+    ],
+    "LaPiscinasResort": [
         "pools",
         "empty",
-        "home",
+        "rooms"
+    ],
+    "plusbeachresort": [
+        "empty",
+        "cottage",
+        "rooms"
+    ],
+    "royalfarmresort": [
+        "empty",
+        "wifi",
+        "cottage",
+        "pools",
+        "resort"
+    ],
+    "solaj.resort": [
+        "empty",
+        "ocean",
+        "none",
+        "rooms"
+    ],
+    "TalizayBeachResortTabina": [
+        "cottage"
+    ],
+    "TambuligMountainSpringResort": [
+        "pools",
+        "empty",
+        "pond",
+        "cottage"
+    ],
+    "TubbudFloatingCottage": [
+        "pools",
+        "empty",
+        "cottage"
+    ],
+    "villapableamountainresort": [
+        "empty",
+        "Wifi",
         "villa",
-        "cottages",
-        "resort",
+        "rooms"
+    ],
+    "alintanaqa": [
+        "villa"
+    ],
+    "azzurabeachresort": [
+        "empty",
+        "villas",
+        "cottage",
+        "rooms"
+    ],
+    "people": [
+        "empty",
         "rooms",
+        "villa",
+        "cottage",
+        "pools",
+        "resort",
         "tree"
     ],
     "HugotBeachHouse": [
-        "cottage",
-        "pools",
+        "spacious",
         "empty",
         "villa",
-        "spacious"
+        "cottage",
+        "cleanliness",
+        "pools",
+        "rooms"
     ],
     "PinkSandBeachStaCruzIsland": [
-        "villa",
-        "rooms",
         "empty",
-        "beach"
+        "beach",
+        "rooms"
     ],
     "pitasisland": [
-        "empty"
+        "empty",
+        "cottage"
     ],
     "PuertoVillaBeachResortOfficial": [
-        "cottage",
-        "pools",
         "empty",
-        "villa",
         "cottages",
-        "rooms"
-    ],
-    "Shariffjane": [
-        "cottage",
-        "empty"
-    ],
-    "thebeachhouseatwestcoastpatalon": [
-        "reservation",
-        "cottage",
-        "skin",
-        "empty"
-    ],
-    "vistadelmarresortzamboanga": [
-        "cottage",
-        "empty",
-        "villa",
-        "service",
-        "beach"
-    ],
-    "3mjdhillsiteresort": [
-        "cottage",
-        "empty"
-    ],
-    "gardenorchidhotels": [
-        "rooms",
-        "empty"
-    ],
-    "OfficialLMMetroHotel": [
         "cottage",
         "pools",
-        "Empty",
-        "empty",
-        "rooms"
-    ],
-    "margareetasfamilyresort": [
-        "cottage",
-        "pools",
-        "empty",
         "resort",
         "rooms"
     ],
-    "monteverderesort": [
+    "Shariffjane": [
+        "empty",
         "cottage",
-        "pools",
+        "rooms"
+    ],
+    "thebeachhouseatwestcoastpatalon": [
         "empty",
         "villa",
+        "allergies",
+        "cottage"
+    ],
+    "vistadelmarresortzamboanga": [
+        "empty",
+        "beach",
+        "cottage",
+        "rooms"
+    ],
+    "3mjdhillsiteresort": [
+        "empty",
+        "villa"
+    ],
+    "gardenorchidhotels": [
+        "empty",
+        "rooms"
+    ],
+    "OfficialLMMetroHotel": [
+        "pools",
+        "empty"
+    ],
+    "margareetasfamilyresort": [
+        "empty",
+        "none",
+        "cottage",
+        "pools",
+        "rooms"
+    ],
+    "monteverderesort": [
+        "empty",
+        "cottages",
+        "villa",
+        "house",
+        "pools",
         "rooms"
     ],
     "woodlandresort": [
-        "cottage",
-        "pools",
         "empty",
         "cottages",
-        "snacks",
+        "views",
         "forex",
-        "rooms"
+        "cottage",
+        "snacks",
+        "pools"
     ]
 }

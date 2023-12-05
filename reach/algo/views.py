@@ -70,12 +70,30 @@ def filter_data(request):
             places_filtered.append(place)
             print(place.name)
 
-    if(len(filters) > 0):
-        places = places_filtered
-    
-    # Fetch the first 5 items
-    data = places[:5]
+    search_query = request.GET.get('search', '')
 
-    return render(request, 'home/filter.html', {'data': data, 'selected_option': selected_option})
+    if search_query:
+        # If there is a search query, filter places based on the name containing the search query
+        places = Place.objects.filter(name__icontains=search_query)
+
+    if len(filters) > 0:
+        places = places.filter(id__in=[place.id for place in places_filtered])
+
+    # Sort places by rating in descending order
+    places = sorted(places, key=lambda x: x.rating, reverse=True)
+
+    # Set the default limit to 10
+    limit = 10
+
+    if selected_option == 'both':
+        # If both beach and resort are selected, set the limit to display all places
+        limit = len(places)
+
+    # Fetch the first 'limit' items
+    data = places[:limit]
+    # Check if there are no results
+    no_results = len(data) == 0
+
+    return render(request, 'home/filter.html', {'data': data, 'selected_option': selected_option, 'no_results': no_results})
 
 
