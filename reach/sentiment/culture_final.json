@@ -1,43 +1,202 @@
 {
+    "antulangbeach": [
+        "recreation",
+        "empty",
+        "food",
+        "service"
+    ],
+    "balucanbeachresort": [
+        "empty"
+    ],
+    "BenuelsBeach": [
+        "attractions",
+        "recreation"
+    ],
+    "BarcelonaSpringFarm": [
+        "recreation",
+        "empty",
+        "food"
+    ],
+    "BawbawonBeachResort": [
+        "attractions",
+        "recreation",
+        "empty",
+        "food"
+    ],
+    "bethesdapooltibanga": [
+        "recreation",
+        "empty",
+        "shopping"
+    ],
+    "brentsgardenresorts": [
+        "empty"
+    ],
+    "calumbabeachresort": [
+        "empty"
+    ],
+    "casaelcorahighlandresort": [
+        "recreation",
+        "empty",
+        "events"
+    ],
+    "DakakParkandBeachResort": [
+        "attractions",
+        "recreation",
+        "empty",
+        "food"
+    ],
+    "DonNathanielsPH": [
+        "empty"
+    ],
+    "DonelBeachResort": [
+        "staff",
+        "empty",
+        "recreation"
+    ],
+    "EribertaSpringsOfficial": [
+        "cleanliness",
+        "recreation",
+        "management",
+        "empty",
+        "shopping"
+    ],
+    "garbemcoswimmingpool": [
+        "cultural",
+        "empty",
+        "service"
+    ],
+    "Geefarmresort": [
+        "events"
+    ],
+    "GratumBeachResort": [
+        "cleanliness",
+        "recreation",
+        "dining",
+        "service",
+        "empty"
+    ],
+    "hunasanresort1224": [
+        "empty",
+        "food"
+    ],
+    "jehovengardenresortofc": [
+        "accommodation",
+        "empty",
+        "accommodating"
+    ],
+    "kayleespalmresort": [
+        "recreation",
+        "relaxing"
+    ],
+    "caluaninfinitypool": [
+        "recreation",
+        "events"
+    ],
+    "LAGAGSpringMountainResort": [
+        "empty"
+    ],
+    "lumbiahillgardenresort": [
+        "recreation",
+        "empty"
+    ],
+    "maligroresort": [
+        "recreation",
+        "empty"
+    ],
+    "munimuniresort": [
+        "recreation",
+        "empty",
+        "events"
+    ],
+    "PahaliResortBasilan": [
+        "service",
+        "food",
+        "shopping"
+    ],
+    "palomasbeachresort": [
+        "recreation",
+        "empty",
+        "events"
+    ],
+    "LaPiscinasResort": [
+        "recreation",
+        "empty"
+    ],
+    "plusbeachresort": [
+        "attractions",
+        "events",
+        "empty",
+        "shopping"
+    ],
+    "royalfarmresort": [
+        "recreation",
+        "empty",
+        "shopping",
+        "service"
+    ],
+    "solaj.resort": [
+        "recreation",
+        "dining",
+        "empty",
+        "food"
+    ],
+    "TalizayBeachResortTabina": [
+        "food"
+    ],
+    "TambuligMountainSpringResort": [
+        "recreation",
+        "empty"
+    ],
+    "TubbudFloatingCottage": [
+        "recreation",
+        "empty"
+    ],
+    "villapableamountainresort": [
+        "recreation",
+        "empty",
+        "food",
+        "Shopping"
+    ],
     "alintanaqa": [
         "empty"
     ],
     "azzurabeachresort": [
-        "recreation",
-        "service",
+        "None",
+        "empty",
+        "payment",
         "attractions",
+        "Empty",
+        "service",
         "shopping",
-        "customer",
-        "empty"
+        "customer service"
     ],
     "people": [
+        "safe",
         "cleanliness",
         "recreation",
-        "food",
-        "shopping",
-        "empty"
+        "service",
+        "empty",
+        "food"
     ],
     "HugotBeachHouse": [
-        "recreation",
-        "service",
         "attractions",
-        "shopping",
+        "recreation",
         "empty"
     ],
     "PinkSandBeachStaCruzIsland": [
-        "shopping",
+        "recreation",
         "empty",
-        "recreation"
+        "shopping"
     ],
     "pitasisland": [
         "recreation",
         "empty"
     ],
     "PuertoVillaBeachResortOfficial": [
-        "cleanliness",
-        "shopping",
+        "attractions",
         "recreation",
-        "empty"
+        "empty",
+        "cleanliness"
     ],
     "Shariffjane": [
         "recreation",
@@ -45,45 +204,46 @@
     ],
     "thebeachhouseatwestcoastpatalon": [
         "recreation",
-        "events",
-        "empty"
+        "empty",
+        "events"
     ],
     "vistadelmarresortzamboanga": [
-        "food",
-        "empty",
+        "None",
+        "recreation",
         "service",
-        "recreation"
+        "shopping",
+        "empty",
+        "food"
     ],
     "3mjdhillsiteresort": [
         "attractions",
         "empty"
     ],
     "gardenorchidhotels": [
+        "empty",
         "food",
-        "service",
-        "empty"
+        "service"
     ],
     "OfficialLMMetroHotel": [
-        "empty",
-        "food",
+        "recreation",
         "dining",
-        "recreation"
+        "attractions",
+        "empty",
+        "food"
     ],
     "margareetasfamilyresort": [
+        "recreation",
         "empty",
-        "service",
-        "recreation"
+        "customer"
     ],
     "monteverderesort": [
         "attractions",
-        "events",
-        "empty",
-        "recreation"
+        "recreation",
+        "empty"
     ],
     "woodlandresort": [
-        "food",
-        "empty",
         "events",
-        "attractions"
+        "empty",
+        "food"
     ]
 }
