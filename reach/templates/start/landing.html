@@ -58,7 +58,24 @@
 </div>
 </section>
 
-<svg id="wave" style="transform:rotate(180deg); transition: 0.3s" viewBox="0 0 1440 140" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="sw-gradient-0" x1="0" x2="0" y1="1" y2="0"><stop stop-color="rgba(62, 175.556, 243, 1)" offset="0%"></stop><stop stop-color="rgba(11, 205.408, 255, 0)" offset="100%"></stop></linearGradient></defs><path style="transform:translate(0, 0px); opacity:1" fill="url(#sw-gradient-0)" d="M0,70L60,60.7C120,51,240,33,360,32.7C480,33,600,51,720,63C840,75,960,79,1080,72.3C1200,65,1320,47,1440,35C1560,23,1680,19,1800,30.3C1920,42,2040,70,2160,67.7C2280,65,2400,33,2520,23.3C2640,14,2760,28,2880,44.3C3000,61,3120,79,3240,84C3360,89,3480,79,3600,79.3C3720,79,3840,89,3960,79.3C4080,70,4200,42,4320,35C4440,28,4560,42,4680,44.3C4800,47,4920,37,5040,35C5160,33,5280,37,5400,44.3C5520,51,5640,61,5760,67.7C5880,75,6000,79,6120,67.7C6240,56,6360,28,6480,30.3C6600,33,6720,65,6840,72.3C6960,79,7080,61,7200,46.7C7320,33,7440,23,7560,21C7680,19,7800,23,7920,23.3C8040,23,8160,19,8280,25.7C8400,33,8520,51,8580,60.7L8640,70L8640,140L8580,140C8520,140,8400,140,8280,140C8160,140,8040,140,7920,140C7800,140,7680,140,7560,140C7440,140,7320,140,7200,140C7080,140,6960,140,6840,140C6720,140,6600,140,6480,140C6360,140,6240,140,6120,140C6000,140,5880,140,5760,140C5640,140,5520,140,5400,140C5280,140,5160,140,5040,140C4920,140,4800,140,4680,140C4560,140,4440,140,4320,140C4200,140,4080,140,3960,140C3840,140,3720,140,3600,140C3480,140,3360,140,3240,140C3120,140,3000,140,2880,140C2760,140,2640,140,2520,140C2400,140,2280,140,2160,140C2040,140,1920,140,1800,140C1680,140,1560,140,1440,140C1320,140,1200,140,1080,140C960,140,840,140,720,140C600,140,480,140,360,140C240,140,120,140,60,140L0,140Z"></path></svg>
+<div class="wavy">
+    <svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+        <defs>
+        <path id="wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z">
+        </defs>
+        <g class="wave1">
+        <use xlink:href="#wave-path" x="50" y="3" fill="rgb(227,246,245)">
+        </g>
+        <g class="wave2">
+        <use xlink:href="#wave-path" x="50" y="0" fill="rgb(186,232,232)">
+        </g>
+        <g class="wave3">
+        <use xlink:href="#wave-path" x="50" y="9" fill="#2c698d">
+        </g>
+    </svg>
+</div> 
+
+
         <!-- ======= How it Works ======= -->
 
         <section id="how_it_works" class="how_it_works mt-5 mb-5">
@@ -124,7 +141,7 @@
                 Our system analyzes sentiments from Facebook reviews, providing ratings based on emotions like anger, sadness, neutrality, happiness, and being overwhelmed.
             </p>
             <div class="text-center text-lg-start">
-                <a href="#!" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                <a href="read_more" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                     <span>Read More</span>
                     <i class="ri-arrow-right-line"></i>
                 </a>
