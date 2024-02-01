@@ -21,8 +21,6 @@ ratings_data = load_json_file("./sentiment/ratings.json")
 
 print(keywords_data)
 print(ratings_data)
-record_count = Place.objects.count()
-search_result = Place.objects.filter(place_identifier="3mjdhillsiteresort")
 
 for key in keywords_data: 
     search_result = Place.objects.filter(place_identifier=key)
