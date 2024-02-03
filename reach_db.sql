@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 24, 2023 at 04:12 AM
--- Server version: 10.4.28-MariaDB
--- PHP Version: 8.2.4
+-- Generation Time: Feb 03, 2024 at 03:24 AM
+-- Server version: 10.4.32-MariaDB
+-- PHP Version: 8.2.12
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -75,18 +75,56 @@ CREATE TABLE `algo_place` (
 --
 
 INSERT INTO `algo_place` (`id`, `name`, `location`, `rating`, `image`, `facebook_page_id`, `is_beach`, `is_resort`, `place_identifier`, `keywords`) VALUES
-(2, 'Alintanaqa Beach', 'Patalon, Zamboanga City, Zamboanga Peninsula, Philippines, Patalon, Philippines', 4.61, 'br_pic/2023-07-Alintanaqa_Beach-296710113_160601606551744_8209641019643427370_n_1-nCY4IfRJ03.jpg', 'alintanaqa', 1, 0, 'alintanaqa', 'cottage'),
-(3, 'Azzura Beach Resort and Hotel', 'Barangay Bolong, Zamboanga City, Philippines', 2.85, 'br_pic/2023-11-Azzura_Beach_Resort_and_Hotel-240386735_423341372534953_30121464615930780_fqtbpTV.jpg', 'azzurabeachresort', 1, 1, 'azzurabeachresort', 'villa, rooms, cottage, recreation, attractions, shopping'),
-(4, 'Mampang Natural Whitesand BEACH', 'Del Pilar Village,Estrada compound Masepla,Mampang, Zamboanga City, Philippines', 4.34, 'br_pic/2023-02-Mampang_Natural_Whitesand_BEACH-mampang-wypcZYQ1fs.jpg', 'HugotBeachHouse', 1, 0, 'HugotBeachHouse', 'cottage, pools, villa, recreation, attractions, shopping'),
-(5, 'Pink Sand Beach', 'Sta Cruz Island, Zamboanga City, Philippines', 4.47, 'br_pic/2023-30-Pink_Sand_Beach-309609401_429763875923421_2069246932611994858_n-u4kAgrCwez.jpg', 'PinkSandBeachStaCruzIsland', 1, 0, 'PinkSandBeachStaCruzIsland', 'villa, rooms, shopping, recreation'),
-(6, 'Pitas Island', 'Bolong, 7000 Zamboanga City, Philippines, Bolong, Philippines', 3.48, 'br_pic/2023-21-Pitas_Island-322698920_685971096387431_7994070547141349944_n-G4je6Rcsmb.jpg', 'pitasisland', 1, 0, 'pitasisland', 'recreation'),
-(7, 'Puerto Villa Beach Resort', 'Patalon, Zamboanga City, Philippines, 7000', 3.99, 'br_pic/2023-02-Puerto_Villa_Beach_Resort-puerto-7odCQaRKUb.jpg', 'PuertoVillaBeachResortOfficial', 1, 1, 'PuertoVillaBeachResortOfficial', 'cottage, pools, villa, rooms, shopping, recreation'),
-(8, 'SJ White Sand Island Cottages and Sand Bar Beach', 'SJ White Sand Island Cottages and Sand Bar Beach, Arena Blanco ZC, Zamboanga City, Philippines', 4.48, 'br_pic/2023-02-SJ_White_Sand_Island_Cottages_and_Sand_Bar_Beach-sj-rON5rU3QRr.jpg', 'Shariffjane', 1, 1, 'Shariffjane', 'cottage, recreation'),
-(9, 'The Beach House at West Coast Patalon', 'Sitio Malandi,Barangay Patalon., Zamboanga City, Philippines', 3.56, 'br_pic/2023-01-The_Beach_House_at_West_Coast_Patalon-beachhouse-HDy0GsLSXS.jpg', 'thebeachhouseatwestcoastpatalon', 1, 1, 'thebeachhouseatwestcoastpatalon', 'cottage, recreation, events'),
-(10, 'Vista Del Mar Resort and Recreation Center', 'Labuan-Limpapa National Road, Zamboanga City, Phil...', 3.58, 'br_pic/2023-26-Vista_Del_Mar_Resort_and_Recreation_Center-327260747_886872255685741_2085_ZVUVmdb.jpg', 'vistadelmarresortzamboanga', 1, 1, 'vistadelmarresortzamboanga', 'cottage, villa, food, recreation'),
-(11, '3mjd Hillsite Resort', 'La Paz, Zamboanga City, Philippines', 4.30, 'br_pic/2023-01-3mjd_Hillsite_Resort-3mjd-zwJYpqRKV0.jpg', '3mjdhillsiteresort', 0, 1, '3mjdhillsiteresort', 'cottage, attractions'),
-(12, 'Garden Orchid Hotel', 'Gov. Camins Ave., Zamboanga City, Philippines', 3.94, 'br_pic/2023-00-Garden_Orchid_Hotel-garden-RwmMUJEBVv.jpg', 'gardenorchidhotels', 0, 1, 'gardenorchidhotels', 'rooms, food'),
-(13, 'LM Metro Hotel', 'Don Toribio St, Tetuan, Zamboanga City, Philippines', 4.21, 'br_pic/2023-59-LM_Metro_Hotel-LM-YX9ts4hpdX.jpg', 'OfficialLMMetroHotel', 0, 1, 'OfficialLMMetroHotel', 'cottage, pools, rooms, food, dining, recreation');
+(2, 'Alintanaqa Beach', 'Patalon, Zamboanga City, Zamboanga Peninsula, Philippines, Patalon, Philippines', 4.79, 'br_pic/2023-07-Alintanaqa_Beach-296710113_160601606551744_8209641019643427370_n_1-nCY4IfRJ03.jpg', 'alintanaqa', 1, 0, 'alintanaqa', 'events'),
+(3, 'Azzura Beach Resort and Hotel', 'Barangay Bolong, Zamboanga City, Philippines', 2.77, 'br_pic/2023-11-Azzura_Beach_Resort_and_Hotel-240386735_423341372534953_30121464615930780_fqtbpTV.jpg', 'azzurabeachresort', 1, 1, 'azzurabeachresort', 'rooms, villa, cottage, recreation, shopping'),
+(4, 'Mampang Natural Whitesand BEACH', 'Del Pilar Village,Estrada compound Masepla,Mampang, Zamboanga City, Philippines', 4.25, 'br_pic/2023-02-Mampang_Natural_Whitesand_BEACH-mampang-wypcZYQ1fs.jpg', 'HugotBeachHouse', 1, 0, 'HugotBeachHouse', 'pools, villa, cottage, attractions, recreation, shopping'),
+(5, 'Pink Sand Beach', 'Sta Cruz Island, Zamboanga City, Philippines', 4.36, 'br_pic/2023-30-Pink_Sand_Beach-309609401_429763875923421_2069246932611994858_n-u4kAgrCwez.jpg', 'PinkSandBeachStaCruzIsland', 1, 0, 'PinkSandBeachStaCruzIsland', 'rooms, recreation, shopping'),
+(6, 'Pitas Island', 'Bolong, 7000 Zamboanga City, Philippines, Bolong, Philippines', 3.24, 'br_pic/2023-21-Pitas_Island-322698920_685971096387431_7994070547141349944_n-G4je6Rcsmb.jpg', 'pitasisland', 1, 0, 'pitasisland', 'cottage, recreation'),
+(7, 'Puerto Villa Beach Resort', 'Patalon, Zamboanga City, Philippines, 7000', 4.08, 'br_pic/2023-02-Puerto_Villa_Beach_Resort-puerto-7odCQaRKUb.jpg', 'PuertoVillaBeachResortOfficial', 1, 1, 'PuertoVillaBeachResortOfficial', 'pools, rooms, villa, cottage, recreation, shopping'),
+(8, 'SJ White Sand Island Cottages and Sand Bar Beach', 'SJ White Sand Island Cottages and Sand Bar Beach, Arena Blanco ZC, Zamboanga City, Philippines', 4.53, 'br_pic/2023-02-SJ_White_Sand_Island_Cottages_and_Sand_Bar_Beach-sj-rON5rU3QRr.jpg', 'Shariffjane', 1, 1, 'Shariffjane', 'cottage, recreation'),
+(9, 'The Beach House at West Coast Patalon', 'Sitio Malandi,Barangay Patalon., Zamboanga City, Philippines', 3.05, 'br_pic/2023-01-The_Beach_House_at_West_Coast_Patalon-beachhouse-HDy0GsLSXS.jpg', 'thebeachhouseatwestcoastpatalon', 1, 1, 'thebeachhouseatwestcoastpatalon', 'pools, recreation'),
+(10, 'Vista Del Mar Resort and Recreation Center', 'Labuan-Limpapa National Road, Zamboanga City, Phil...', 3.52, 'br_pic/2023-26-Vista_Del_Mar_Resort_and_Recreation_Center-327260747_886872255685741_2085_ZVUVmdb.jpg', 'vistadelmarresortzamboanga', 1, 1, 'vistadelmarresortzamboanga', 'rooms, cottage, recreation, food'),
+(11, '3mjd Hillsite Resort', 'La Paz, Zamboanga City, Philippines', 4.02, 'br_pic/2023-01-3mjd_Hillsite_Resort-3mjd-zwJYpqRKV0.jpg', '3mjdhillsiteresort', 0, 1, '3mjdhillsiteresort', 'cottage, attractions'),
+(12, 'Garden Orchid Hotel', 'Gov. Camins Ave., Zamboanga City, Philippines', 4.03, 'br_pic/2023-00-Garden_Orchid_Hotel-garden-RwmMUJEBVv.jpg', 'gardenorchidhotels', 0, 1, 'gardenorchidhotels', 'rooms, dining, food'),
+(13, 'LM Metro Hotel', 'Don Toribio St, Tetuan, Zamboanga City, Philippines', 4.26, 'br_pic/2023-59-LM_Metro_Hotel-LM-YX9ts4hpdX.jpg', 'OfficialLMMetroHotel', 0, 1, 'OfficialLMMetroHotel', 'pools, cottage, rooms, recreation, dining, food'),
+(14, 'Antulang Beach Resort', 'Siit, Siaton 6219 Siaton, Philippines', 4.18, 'br_pic/2024-12-Antulang_Beach_Resort-antulang-87zWjCjswU.png', 'antulangbeach', 1, 1, 'antulangbeach', 'pools, cottage, recreation, food'),
+(15, 'Bawbawon Beach Resort', 'Plaridel, 7209 Misamis Occidental', 4.58, 'br_pic/image.jpg', 'BawbawonBeachResort', 1, 1, 'BawbawonBeachResort', 'villa, cottage, recreation, dining, food'),
+(16, 'Dakak Park & Beach Resort', 'Barangay, Dapitan City, 7101 Zamboanga del Norte', 3.95, 'br_pic/image.jpg', 'DakakParkandBeachResort', 1, 1, 'DakakParkandBeachResort', 'pools, recreation, food'),
+(17, 'Royal Farm Resort', 'Dipolog - Polanco - Oroquieta Rd, Dipolog City, Zamboanga del Norte', 3.63, 'br_pic/image.jpg', 'royalfarmresort', 0, 1, 'royalfarmresort', 'pools, recreation'),
+(18, 'Lagag Spring Mountain Resort', 'Sindangan, Zamboanga del Norte', 5.00, 'br_pic/image.jpg', 'LAGAGSpringMountainResort', 0, 1, 'LAGAGSpringMountainResort', ''),
+(19, 'Balucan Beach Resort', 'Unnamed Road, Gutalac, Zamboanga del Norte', 2.43, 'br_pic/image.jpg', 'balucanbeachresort', 1, 1, 'balucanbeachresort', 'rooms'),
+(20, 'Hunasan Beach Resort', 'Labason - Liloy Rd, Labason, Zamboanga del Norte', 3.92, 'br_pic/image.jpg', 'hunasanresort1224', 1, 1, 'hunasanresort1224', 'cottage, food'),
+(21, 'SOLAJ Beach Resort', 'Labason - Liloy Rd, Liloy, Zamboanga del Norte', 4.21, 'br_pic/image.jpg', 'solaj.resort', 1, 1, 'solaj.resort', 'cottage, recreation, food, dining'),
+(22, 'Plus Beach Resort', 'Timan Beach, Liloy, 7115 Zamboanga del Norte', 4.19, 'br_pic/image.jpg', 'plusbeachresort', 1, 1, 'plusbeachresort', 'villa, rooms, events, attractions, shopping'),
+(23, 'KyRO Mountain View Resort', 'Sindangan, Zamboanga del Norte', 3.94, 'br_pic/image.jpg', 'caluaninfinitypool', 0, 1, 'caluaninfinitypool', 'pools, cottage, events, recreation'),
+(24, 'Maligro Ocean View Resort', 'Katipunan, Zamboanga del Norte', 4.53, 'br_pic/image.jpg', 'maligroresort', 0, 1, 'maligroresort', 'rooms, recreation'),
+(25, 'Barcelona Springs Farm', 'Dapitan City, Zamboanga del Norte', 4.24, 'br_pic/image.jpg', 'BarcelonaSpringFarm', 0, 1, 'BarcelonaSpringFarm', 'pools, recreation, food'),
+(26, 'Casa ElCora Highland Resort', 'Casa ElCora Highland Resort, San Pedro, Polanco, 7106 Zamboanga del Norte', 4.02, 'br_pic/image.jpg', 'casaelcorahighlandresort', 0, 1, 'casaelcorahighlandresort', 'cottage, recreation'),
+(27, 'Villa Pablea Mountain Resort', 'Rizal, Zamboanga del Norte', 4.40, 'br_pic/image.jpg', 'villapableamountainresort', 0, 1, 'villapableamountainresort', 'villa, recreation, shopping, food'),
+(28, 'Calumba Beach Resort', 'Unnamed Road, Labason, Zamboanga del Norte', 4.54, 'br_pic/image.jpg', 'calumbabeachresort', 1, 1, 'calumbabeachresort', ''),
+(29, 'Bazak Resort', 'Titay, Zamboanga del Norte', 0.00, 'br_pic/image.jpg', 'bazakfarmresort.ph', 0, 1, 'bazakfarmresort.ph', 'none'),
+(30, 'Gratum Beach Resort', 'Dapitan City, Zamboanga del Norte', 4.35, 'br_pic/image.jpg', 'GratumBeachResort', 1, 1, 'GratumBeachResort', 'rooms, villa, camping, recreation, dining'),
+(31, 'Bethesda Beach', 'Talinga, Leon B. Postigo, Zamboanga del Norte', 4.14, 'br_pic/image.jpg', 'bethesdapooltibanga', 1, 1, 'bethesdapooltibanga', 'pools, cottage, recreation, shopping'),
+(32, 'Tubbud Floating Cottage', 'Sittio Tubbud Tigbucay, Tungawan, 7018 Zamboanga Sibugay', 4.45, 'br_pic/image.jpg', 'TubbudFloatingCottage', 1, 1, 'TubbudFloatingCottage', 'pools, cottage, recreation'),
+(33, 'Gee Farm Resort', 'Ipil, Zamboanga Sibugay', 4.47, 'br_pic/image.jpg', 'Geefarmresort', 0, 1, 'Geefarmresort', 'events'),
+(34, 'Lumbia Garden Resort', 'Ipil, Zamboanga Sibugay', 4.28, 'br_pic/image.jpg', 'lumbiahillgardenresort', 0, 1, 'lumbiahillgardenresort', 'villa, cottage, rooms, recreation, shopping'),
+(35, 'Garbemco Hotspring Resort', 'Kabasalan, Zamboanga Sibugay', 3.07, 'br_pic/image.jpg', 'garbemcoswimmingpool', 0, 1, 'garbemcoswimmingpool', ''),
+(36, 'Brent\'s Garden and Resorts', 'Pitogo, Zamboanga del Sur', 4.38, 'br_pic/image.jpg', 'brentsgardenresorts', 0, 1, 'brentsgardenresorts', ''),
+(37, 'Benuel\'s Beach Resort', 'Tobo-tobo Limbayan, Pitogo, 7033 Zamboanga del Sur', 4.18, 'br_pic/image.jpg', 'BenuelsBeach', 1, 1, 'BenuelsBeach', 'attractions, recreation'),
+(38, 'Talizay Beach Resort', 'Tabina, Zamboanga del Sur', 4.51, 'br_pic/image.jpg', 'TalizayBeachResortTabina', 1, 1, 'TalizayBeachResortTabina', 'food'),
+(39, 'La Piscinas Resort', 'Purok Sikatuna Zamboanga del Sur PH, Dumalinao, 7015', 4.28, 'br_pic/image.jpg', 'LaPiscinasResort', 0, 1, 'LaPiscinasResort', 'pools, cottage, recreation'),
+(40, 'Jehoven’s Resort', 'Pagadian City, Zamboanga del Sur', 4.20, 'br_pic/image.jpg', 'jehovengardenresortofc', 0, 1, 'jehovengardenresortofc', 'rooms, recreation'),
+(41, 'Donel\'s Beach Resort', 'Unnamed Road, Tukuran, Zamboanga del Sur', 4.20, 'br_pic/image.jpg', 'DonelBeachResort', 1, 1, 'DonelBeachResort', 'tent, cottage, events, recreation'),
+(42, 'Eriberta Spring Resort', 'Tuboran, Mahayag, Zamboanga del Sur 7026, Mahayag, Zamboanga del Sur', 3.65, 'br_pic/image.jpg', 'EribertaSpringsOfficial', 0, 1, 'EribertaSpringsOfficial', 'pools, cottage'),
+(43, 'Tambulig Mountain Spring Resort', 'Tambulig, Zamboanga del Sur', 4.21, 'br_pic/image.jpg', 'TambuligMountainSpringResort', 0, 1, 'TambuligMountainSpringResort', 'pools, cottage, recreation'),
+(44, 'Pahali Resort', 'Malamawi, Isabela City, Basilan', 2.85, 'br_pic/image.jpg', 'PahaliResortBasilan', 1, 1, 'PahaliResortBasilan', 'villa, cottage, shopping'),
+(45, 'Kaylee’s Palm Resort', 'Alegria Falls Street, Pagadian City, 7016 Zamboanga del Sur', 4.44, 'br_pic/image.jpg', 'kayleespalmresort', 0, 1, 'kayleespalmresort', 'villa, recreation'),
+(46, 'Paloma\'s BEACH Resort', 'Tukuran 7016 Pagadian City, Philippines', 4.28, 'br_pic/image.jpg', 'palomasbeachresort', 1, 1, 'palomasbeachresort', 'pools, villa, cottage, recreation, festivals'),
+(47, 'Don Nathaniel\'s Beach Resort', 'Tambunan, Tabina, 7034 Zamboanga del Sur', 4.26, 'br_pic/image.jpg', 'DonNathanielsPH', 1, 1, 'DonNathanielsPH', 'recreation'),
+(48, 'Muni Muni Beach Resort - Samal Island', 'Brgy. Aundanao 8119 Samal, Philippines', 4.37, 'br_pic/image.jpg', 'munimuniresort', 1, 1, 'munimuniresort', 'cottage, recreation'),
+(49, 'Woodland Resort', 'Boalan, Zamboanga City', 3.50, 'br_pic/image.jpg', 'woodlandresort', 0, 1, 'woodlandresort', 'pools, cottage, recreation, food'),
+(50, 'Margareeta\'s Family Resort', 'Cabaluay, Zamboanga City, Philippines', 3.22, 'br_pic/image.jpg', 'margareetasfamilyresort', 0, 1, 'margareetasfamilyresort', 'pools, rooms, cottage, recreation'),
+(51, 'Monte Verde Resort', 'BARANGAY GUISAO, Zamboanga City, Philippines', 4.19, 'br_pic/image.jpg', 'monteverderesort', 0, 1, 'monteverderesort', 'pools, cottage, rooms, recreation, shopping');
 
 -- --------------------------------------------------------
 
@@ -210,7 +248,7 @@ CREATE TABLE `auth_user` (
 --
 
 INSERT INTO `auth_user` (`id`, `password`, `last_login`, `is_superuser`, `username`, `first_name`, `last_name`, `email`, `is_staff`, `is_active`, `date_joined`) VALUES
-(1, 'pbkdf2_sha256$600000$oD7GdJrH6nophyQhZspLje$g4D4ksDywOZFVzGw1XV1ehq8EKNRZdpCrg/9HnOnlS4=', '2023-11-16 11:49:55.227264', 1, 'admin', '', '', 'admin@admin.com', 1, 1, '2023-11-16 11:48:25.730313'),
+(1, 'pbkdf2_sha256$600000$oD7GdJrH6nophyQhZspLje$g4D4ksDywOZFVzGw1XV1ehq8EKNRZdpCrg/9HnOnlS4=', '2024-02-02 18:24:01.173128', 1, 'admin', '', '', 'admin@admin.com', 1, 1, '2023-11-16 11:48:25.730313'),
 (2, 'pbkdf2_sha256$600000$BxgYmSz3sAT9E6bOvFXNDd$irpcEmY/2dCE3OzZFiIHpoLkcxjLLBjjQavzScmrrjY=', '2023-11-23 03:54:56.673709', 1, 'admin123', '', '', 'admin123@yahoo.com', 1, 1, '2023-11-23 03:54:42.657883');
 
 -- --------------------------------------------------------
@@ -289,7 +327,45 @@ INSERT INTO `django_admin_log` (`id`, `action_time`, `object_id`, `object_repr`,
 (28, '2023-11-23 04:01:42.497019', '9', 'The Beach House at West Coast Patalon', 2, '[{\"changed\": {\"fields\": [\"Photo\", \"Is Resort\"]}}]', 10, 2),
 (29, '2023-11-23 04:02:07.741936', '8', 'SJ White Sand Island Cottages and Sand Bar Beach', 2, '[{\"changed\": {\"fields\": [\"Photo\", \"Is Beach\", \"Is Resort\"]}}]', 10, 2),
 (30, '2023-11-23 04:02:32.180518', '7', 'Puerto Villa Beach Resort', 2, '[{\"changed\": {\"fields\": [\"Photo\"]}}]', 10, 2),
-(31, '2023-11-23 04:02:49.282083', '4', 'Mampang Natural Whitesand BEACH', 2, '[{\"changed\": {\"fields\": [\"Photo\"]}}]', 10, 2);
+(31, '2023-11-23 04:02:49.282083', '4', 'Mampang Natural Whitesand BEACH', 2, '[{\"changed\": {\"fields\": [\"Photo\"]}}]', 10, 2),
+(32, '2024-02-02 19:12:19.005386', '14', 'Antulang Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(33, '2024-02-02 19:22:09.541636', '15', 'Bawbawon Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(34, '2024-02-02 19:22:37.900780', '16', 'Dakak Park & Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(35, '2024-02-02 19:23:29.518680', '17', 'Royal Farm Resort', 1, '[{\"added\": {}}]', 10, 1),
+(36, '2024-02-02 19:24:12.272374', '18', 'Lagag Spring Mountain Resort', 1, '[{\"added\": {}}]', 10, 1),
+(37, '2024-02-02 19:25:13.475448', '19', 'Balucan Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(38, '2024-02-02 19:25:49.063830', '20', 'Hunasan Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(39, '2024-02-02 19:28:18.464396', '21', 'SOLAJ Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(40, '2024-02-02 19:32:32.426814', '22', 'Plus Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(41, '2024-02-02 19:33:43.499009', '23', 'KyRO Mountain View Resort', 1, '[{\"added\": {}}]', 10, 1),
+(42, '2024-02-02 23:55:03.129967', '24', 'Maligro Ocean View Resort', 1, '[{\"added\": {}}]', 10, 1),
+(43, '2024-02-02 23:56:12.274398', '25', 'Barcelona Springs Farm', 1, '[{\"added\": {}}]', 10, 1),
+(44, '2024-02-02 23:56:48.855606', '26', 'Casa ElCora Highland Resort', 1, '[{\"added\": {}}]', 10, 1),
+(45, '2024-02-02 23:58:09.079008', '27', 'Villa Pablea Mountain Resort', 1, '[{\"added\": {}}]', 10, 1),
+(46, '2024-02-02 23:59:06.232834', '28', 'Calumba Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(47, '2024-02-03 00:01:01.020517', '29', 'Bazak Resort', 1, '[{\"added\": {}}]', 10, 1),
+(48, '2024-02-03 00:01:43.669697', '30', 'Gratum Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(49, '2024-02-03 00:02:31.464055', '31', 'Bethesda Beach', 1, '[{\"added\": {}}]', 10, 1),
+(50, '2024-02-03 00:11:25.050788', '32', 'Tubbud Floating Cottage', 1, '[{\"added\": {}}]', 10, 1),
+(51, '2024-02-03 00:13:35.918048', '33', 'Gee Farm Resort', 1, '[{\"added\": {}}]', 10, 1),
+(52, '2024-02-03 00:16:32.914648', '34', 'Lumbia Garden Resort', 1, '[{\"added\": {}}]', 10, 1),
+(53, '2024-02-03 00:17:07.004303', '35', 'Garbemco Hotspring Resort', 1, '[{\"added\": {}}]', 10, 1),
+(54, '2024-02-03 00:25:21.033205', '36', 'Brent\'s Garden and Resorts', 1, '[{\"added\": {}}]', 10, 1),
+(55, '2024-02-03 00:29:24.241554', '37', 'Benuel\'s Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(56, '2024-02-03 01:17:46.096862', '38', 'Talizay Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(57, '2024-02-03 01:20:38.093264', '39', 'La Piscinas Resort', 1, '[{\"added\": {}}]', 10, 1),
+(58, '2024-02-03 01:21:20.492979', '40', 'Jehoven’s Resort', 1, '[{\"added\": {}}]', 10, 1),
+(59, '2024-02-03 01:22:51.113145', '41', 'Donel\'s Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(60, '2024-02-03 01:23:47.227907', '42', 'Eriberta Spring Resort', 1, '[{\"added\": {}}]', 10, 1),
+(61, '2024-02-03 01:24:25.173243', '43', 'Tambulig Mountain Spring Resort', 1, '[{\"added\": {}}]', 10, 1),
+(62, '2024-02-03 01:24:55.114962', '44', 'Pahali Resort', 1, '[{\"added\": {}}]', 10, 1),
+(63, '2024-02-03 01:25:28.191529', '45', 'Kaylee’s Palm Resort', 1, '[{\"added\": {}}]', 10, 1),
+(64, '2024-02-03 01:26:49.233657', '46', 'Paloma\'s BEACH Resort', 1, '[{\"added\": {}}]', 10, 1),
+(65, '2024-02-03 01:29:07.728196', '47', 'Don Nathaniel\'s Beach Resort', 1, '[{\"added\": {}}]', 10, 1),
+(66, '2024-02-03 01:31:03.871594', '48', 'Muni Muni Beach Resort - Samal Island', 1, '[{\"added\": {}}]', 10, 1),
+(67, '2024-02-03 02:17:19.062560', '49', 'Woodland Resort', 1, '[{\"added\": {}}]', 10, 1),
+(68, '2024-02-03 02:19:30.073057', '50', 'Margareeta\'s Family Resort', 1, '[{\"added\": {}}]', 10, 1),
+(69, '2024-02-03 02:21:13.017955', '51', 'Monte Verde Resort', 1, '[{\"added\": {}}]', 10, 1);
 
 -- --------------------------------------------------------
 
@@ -379,6 +455,8 @@ CREATE TABLE `django_session` (
 
 INSERT INTO `django_session` (`session_key`, `session_data`, `expire_date`) VALUES
 ('03j15kwkxvhpp776zeu9fyj4kws94usq', '.eJxVjDsOwjAQBe_iGlnrmDVrSnrOYK0_iwPIkeKkQtwdIqWA9s3Me6nA61LD2sscxqzOyqjD7xY5PUrbQL5zu006TW2Zx6g3Re-06-uUy_Oyu38HlXv91sV7IC6CfkDvRBhFLNkBfAaGRAgQkZI7HRMwxUjOgqARFEORSlLvD-A8N-Q:1r3asd:_mGEz8tjb0i07omO513uslA4YuFBo_cuLEwXxu_e4yw', '2023-11-30 11:49:55.232904'),
+('0hr9610lxwpo6ucmr9s3vj9rkj2lk7fj', '.eJxVjDsOwjAQBe_iGlnrmDVrSnrOYK0_iwPIkeKkQtwdIqWA9s3Me6nA61LD2sscxqzOyqjD7xY5PUrbQL5zu006TW2Zx6g3Re-06-uUy_Oyu38HlXv91sV7IC6CfkDvRBhFLNkBfAaGRAgQkZI7HRMwxUjOgqARFEORSlLvD-A8N-Q:1rVyCn:Pu_WOytE3Nm7tP8HpM5E6aLC6CzmAsWVpeRw9mdZHPI', '2024-02-16 18:24:01.180306'),
+('6mifbkzvq3yu5cvi3inhn5t4r1mwogij', '.eJxVjDsOwjAQBe_iGlnrmDVrSnrOYK0_iwPIkeKkQtwdIqWA9s3Me6nA61LD2sscxqzOyqjD7xY5PUrbQL5zu006TW2Zx6g3Re-06-uUy_Oyu38HlXv91sV7IC6CfkDvRBhFLNkBfAaGRAgQkZI7HRMwxUjOgqARFEORSlLvD-A8N-Q:1rVyBI:Q7lqlstK1JuqaOpgWwTZZdsxVnw1hLZQ5hnWQtPJDy4', '2024-02-16 18:22:28.084543'),
 ('j9mrr6dgt3i2b5us6u90cufn1jfzxndg', '.eJxVjMsOwiAQRf-FtSEDlkdduvcbyAwDUjWQlHZl_HdD0oVu7znnvkXAfSth72kNC4uL0OL0uxHGZ6oD8APrvcnY6rYuJIciD9rlrXF6XQ_376BgL6POZ9DKOAfEmBn9FBlsBmCvos3EhGAQcDYZwdpI2syTZ8U2O6tRi88X_-s4dw:1r60no:A34-wjZ5jV0YUpA8SJOV8KFpLgWhyBGXYfhX3e5tzcc', '2023-12-07 03:54:56.680088');
 
 --
@@ -503,7 +581,7 @@ ALTER TABLE `algo_beachandresort`
 -- AUTO_INCREMENT for table `algo_place`
 --
 ALTER TABLE `algo_place`
-  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
+  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=52;
 
 --
 -- AUTO_INCREMENT for table `algo_resort`
@@ -551,7 +629,7 @@ ALTER TABLE `auth_user_user_permissions`
 -- AUTO_INCREMENT for table `django_admin_log`
 --
 ALTER TABLE `django_admin_log`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=32;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=70;
 
 --
 -- AUTO_INCREMENT for table `django_content_type`
