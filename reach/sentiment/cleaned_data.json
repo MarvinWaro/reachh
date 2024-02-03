@@ -18,57 +18,50 @@
         "food"
     ],
     "BawbawonBeachResort": [
+        "villa",
         "cottage",
-        "rooms",
-        "attractions",
         "recreation",
+        "dining",
         "food"
     ],
     "bethesdapooltibanga": [
         "pools",
-        "villa",
+        "cottage",
         "recreation",
         "shopping"
     ],
-    "brentsgardenresorts": [
-        "rooms"
-    ],
+    "brentsgardenresorts": [],
     "calumbabeachresort": [],
     "casaelcorahighlandresort": [
-        "recreation",
-        "events"
+        "cottage",
+        "recreation"
     ],
     "DakakParkandBeachResort": [
         "pools",
-        "cottage",
-        "attractions",
         "recreation",
         "food"
     ],
-    "DonNathanielsPH": [],
+    "DonNathanielsPH": [
+        "recreation"
+    ],
     "DonelBeachResort": [
         "tent",
+        "cottage",
+        "events",
         "recreation"
     ],
     "EribertaSpringsOfficial": [
         "pools",
-        "cottage",
-        "recreation",
-        "shopping"
+        "cottage"
     ],
-    "garbemcoswimmingpool": [
-        "cottage",
-        "cultural"
-    ],
+    "garbemcoswimmingpool": [],
     "Geefarmresort": [
-        "rooms",
         "events"
     ],
     "GratumBeachResort": [
-        "villa",
-        "cottage",
-        "camping",
         "rooms",
+        "villa",
+        "camping",
         "recreation",
         "dining"
     ],
@@ -77,7 +70,8 @@
         "food"
     ],
     "jehovengardenresortofc": [
-        "rooms"
+        "rooms",
+        "recreation"
     ],
     "kayleespalmresort": [
         "villa",
@@ -85,65 +79,61 @@
     ],
     "caluaninfinitypool": [
         "pools",
-        "recreation",
-        "events"
+        "cottage",
+        "events",
+        "recreation"
     ],
     "LAGAGSpringMountainResort": [],
     "lumbiahillgardenresort": [
         "villa",
         "cottage",
-        "tent",
         "rooms",
-        "recreation"
+        "recreation",
+        "shopping"
     ],
     "maligroresort": [
         "rooms",
         "recreation"
     ],
     "munimuniresort": [
-        "villa",
         "cottage",
-        "recreation",
-        "events"
+        "recreation"
     ],
     "PahaliResortBasilan": [
         "villa",
         "cottage",
-        "food",
         "shopping"
     ],
     "palomasbeachresort": [
         "pools",
+        "villa",
         "cottage",
         "recreation",
-        "events"
+        "festivals"
     ],
     "LaPiscinasResort": [
         "pools",
-        "rooms",
+        "cottage",
         "recreation"
     ],
     "plusbeachresort": [
-        "cottage",
+        "villa",
         "rooms",
-        "attractions",
         "events",
+        "attractions",
         "shopping"
     ],
     "royalfarmresort": [
-        "cottage",
         "pools",
-        "recreation",
-        "shopping"
+        "recreation"
     ],
     "solaj.resort": [
-        "rooms",
+        "cottage",
         "recreation",
-        "dining",
-        "food"
+        "food",
+        "dining"
     ],
     "TalizayBeachResortTabina": [
-        "cottage",
         "food"
     ],
     "TambuligMountainSpringResort": [
@@ -158,35 +148,37 @@
     ],
     "villapableamountainresort": [
         "villa",
-        "rooms",
         "recreation",
-        "food",
-        "shopping"
+        "shopping",
+        "food"
     ],
     "alintanaqa": [
-        "villa"
+        "events"
     ],
     "azzurabeachresort": [
-        "cottage",
         "rooms",
-        "attractions",
+        "villa",
+        "cottage",
+        "recreation",
         "shopping"
     ],
     "people": [
+        "pools",
         "rooms",
         "villa",
         "cottage",
-        "pools",
         "recreation",
+        "attractions",
+        "shopping",
         "food"
     ],
     "HugotBeachHouse": [
+        "pools",
         "villa",
         "cottage",
-        "pools",
-        "rooms",
         "attractions",
-        "recreation"
+        "recreation",
+        "shopping"
     ],
     "PinkSandBeachStaCruzIsland": [
         "rooms",
@@ -198,62 +190,61 @@
         "recreation"
     ],
     "PuertoVillaBeachResortOfficial": [
-        "cottage",
         "pools",
         "rooms",
-        "attractions",
-        "recreation"
+        "villa",
+        "cottage",
+        "recreation",
+        "shopping"
     ],
     "Shariffjane": [
         "cottage",
-        "rooms",
         "recreation"
     ],
     "thebeachhouseatwestcoastpatalon": [
-        "villa",
-        "cottage",
-        "recreation",
-        "events"
+        "pools",
+        "recreation"
     ],
     "vistadelmarresortzamboanga": [
-        "cottage",
         "rooms",
+        "cottage",
         "recreation",
-        "shopping",
         "food"
     ],
     "3mjdhillsiteresort": [
-        "villa",
+        "cottage",
         "attractions"
     ],
     "gardenorchidhotels": [
         "rooms",
+        "dining",
         "food"
     ],
     "OfficialLMMetroHotel": [
         "pools",
+        "cottage",
+        "rooms",
         "recreation",
         "dining",
-        "attractions",
         "food"
     ],
     "margareetasfamilyresort": [
-        "cottage",
         "pools",
         "rooms",
+        "cottage",
         "recreation"
     ],
     "monteverderesort": [
-        "villa",
         "pools",
+        "cottage",
         "rooms",
-        "attractions",
-        "recreation"
+        "recreation",
+        "shopping"
     ],
     "woodlandresort": [
-        "cottage",
         "pools",
-        "events",
+        "cottage",
+        "recreation",
         "food"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "antulangbeach": [
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 5,
             "accessibility": 5,
             "natural_beauty": 4,
@@ -10,29 +10,29 @@
             "review": "Very friendly, respectful and accomodating staff.  I'll surely go back."
         },
         {
-            "cleanliness": 3,
-            "safety": 3,
-            "accessibility": 3,
-            "natural_beauty": 3,
-            "accommodations": 3,
-            "recreational_activity": 3,
+            "cleanliness": 5,
+            "safety": 5,
+            "accessibility": 5,
+            "natural_beauty": 5,
+            "accommodations": 5,
+            "recreational_activity": 5,
             "review": "I don\u2019t like the pasta that they serve. \u201cDugmok\u201d..  they did not even replace it."
         },
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
-            "natural_beauty": 3,
+            "safety": 5,
+            "accessibility": 3,
+            "natural_beauty": 2,
             "accommodations": 4,
             "recreational_activity": 5,
             "review": "nice place with a large pool for children and adults."
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 5,
             "review": "..it so amazing...mesmerizing..nature beauty..so relaxing"
         },
@@ -42,7 +42,7 @@
             "accessibility": 5,
             "natural_beauty": 4,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 4,
             "review": "Great place, near my home in the phillipines. I love it."
         },
         {
@@ -51,22 +51,22 @@
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 5,
             "review": "nice resort..and etc..."
         },
         {
             "cleanliness": 5,
             "safety": 4,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "Antulang Beach is the place to go when i visit my home town! My sister recommended this breathtaking place for me to relax and enjoy this vacation."
         },
         {
             "cleanliness": 4,
             "safety": 3,
-            "accessibility": 3,
+            "accessibility": 2,
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 4,
@@ -75,27 +75,27 @@
         {
             "cleanliness": 4,
             "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "accessibility": 4,
+            "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
             "review": "very resort,,"
         },
         {
             "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "safety": 4,
+            "accessibility": 3,
+            "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 4,
             "review": "nice place"
         }
     ],
     "balucanbeachresort": [
         {
             "cleanliness": 3,
-            "safety": 4,
-            "accessibility": 2,
+            "safety": 2,
+            "accessibility": 4,
             "natural_beauty": 1,
             "accommodations": 3,
             "recreational_activity": 2,
@@ -105,45 +105,45 @@
     "BenuelsBeach": [
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
+            "safety": 5,
+            "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 5,
             "review": "the view and the place itself will just leave you in awe\ud83e\udde1"
         },
         {
             "cleanliness": 4,
-            "safety": 4,
+            "safety": 3,
             "accessibility": 5,
             "natural_beauty": 5,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 3,
             "review": "mas ok na ang access road going to the beach, so it a good sign. And the beach itself is good and the ambiance is relaxing"
         }
     ],
     "BarcelonaSpringFarm": [
         {
-            "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
+            "cleanliness": 5,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 5,
             "review": "good and nice place to refresh!"
         },
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 4,
-            "accommodations": 3,
+            "safety": 4,
+            "accessibility": 5,
+            "natural_beauty": 5,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "...highly recommended for family outing..   and barkadahan for relaxation with their live band'"
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
+            "cleanliness": 5,
+            "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
@@ -152,8 +152,8 @@
         },
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 4,
             "accommodations": 3,
             "recreational_activity": 4,
@@ -164,51 +164,51 @@
             "safety": 4,
             "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 4,
-            "recreational_activity": 5,
+            "accommodations": 5,
+            "recreational_activity": 4,
             "review": "A must-visit resort! Nice n cool place to spend with your family n friends!"
         },
         {
             "cleanliness": 4,
             "safety": 3,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 3,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "Nice to look around with all the green.I will expect more after two years.So much fun when we are there together with our classmates in High School."
         },
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 3,
-            "natural_beauty": 3,
-            "accommodations": 4,
+            "safety": 3,
+            "accessibility": 4,
+            "natural_beauty": 2,
+            "accommodations": 3,
             "recreational_activity": 5,
             "review": "if you love music x pool. You should try this place. #worthit \ud83d\udc4c \n\nSpend time with my friends."
         },
         {
             "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "I love barcelona spring resort. The foods are great.."
         },
         {
             "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 4,
-            "accommodations": 4,
+            "safety": 4,
+            "accessibility": 4,
+            "natural_beauty": 5,
+            "accommodations": 3,
             "recreational_activity": 4,
             "review": "Nice place n cool."
         },
         {
-            "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "cleanliness": 5,
+            "safety": 4,
+            "accessibility": 4,
+            "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
             "review": "I Love Barcelona spring farm! Why? Libre ko tanan!nonoy baje is my long best friend and our wives as well are sisters! Toink!"
@@ -220,52 +220,52 @@
             "safety": 5,
             "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 2,
+            "accommodations": 3,
             "recreational_activity": 5,
             "review": "the food is great, place is clean, quiet. great place to relax however I hope they can provide even a drinking water to the guests and accommodation coz it's difficult to ride the boat esp if it's low tide."
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 5,
-            "accessibility": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 5,
             "review": "This place exceeded our expectations! When they say, it\u2019s a hidden gem \ud83d\udc8e It is true!!! My family was blown away by everything; the staff, the food, the service, and the breathtaking nature! NO WORDS CAN CAPTURE my feelings! Such an amazing place!"
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 4,
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 4,
             "review": "A nice,quite and romantic enviroment.\nA virgin gem beach.\nA great place to hang around if you need a private place during your cogitate life journey and purpose."
         },
         {
-            "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
-            "natural_beauty": 5,
+            "cleanliness": 5,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "Well-trained and very accommodating staffs, the delicious foods were served with style and this is the best place to relax in Plaridel, Misamis Occidental. 5 out of 5"
         },
         {
-            "cleanliness": 4.5,
-            "safety": 4,
-            "accessibility": 3.5,
+            "cleanliness": 5,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 4.5,
+            "accommodations": 5,
             "recreational_activity": 4,
             "review": "WOW! This is our first time in Plaridel, and Bawbawon Beach Resort is just an amazing staycation with my loved ones. The staff our very accomodating and very kind (SUPER). The foods are all good and worth it. A million thumps up to this resort. \ud83d\ude0d"
         },
         {
             "cleanliness": 4,
             "safety": 3,
-            "accessibility": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 5,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "It\"s romantic view and peaceful a very rewarding and relaxing place to unwind your busy life."
         },
@@ -281,7 +281,7 @@
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
@@ -293,41 +293,23 @@
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "Thank you so much Bawbawon Beach Resort, Le Bistro & Hotel Bijoux team!!!! The best food, accom & customer service \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d. We will be back again soon, for sure!"
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
+            "cleanliness": 5,
+            "safety": 4,
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 4,
             "review": "Bawbawon beach resort is an excellent location for relaxation. The place is quiet and peaceful and the staffs are really friendly."
         }
     ],
     "bethesdapooltibanga": [
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
-            "natural_beauty": 3,
-            "accommodations": 4,
-            "recreational_activity": 3,
-            "review": "Affordable price and nice place \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
-        },
-        {
-            "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 4,
-            "accommodations": 4,
-            "recreational_activity": 5,
-            "review": "the pool and area so nice.. \naffordable price...  its good......"
-        },
-        {
-            "cleanliness": 4,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 5,
             "natural_beauty": 3,
             "accommodations": 4,
@@ -336,9 +318,27 @@
         },
         {
             "cleanliness": 4,
-            "safety": 3,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 5,
+            "accommodations": 3,
+            "recreational_activity": 4,
+            "review": "the pool and area so nice.. \naffordable price...  its good......"
+        },
+        {
+            "cleanliness": 4,
+            "safety": 4,
+            "accessibility": 4,
+            "natural_beauty": 3,
+            "accommodations": 5,
+            "recreational_activity": 3,
+            "review": "Affordable price and nice place \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+        },
+        {
+            "cleanliness": 4,
+            "safety": 4,
             "accessibility": 5,
-            "natural_beauty": 4,
+            "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 5,
             "review": "the pool and area so nice.. \naffordable price...  its good......"
@@ -347,10 +347,10 @@
     "brentsgardenresorts": [
         {
             "cleanliness": 4,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 4,
             "natural_beauty": 4,
-            "accommodations": 4,
+            "accommodations": 5,
             "recreational_activity": 4,
             "review": "Nice place, good accomodation and a welcoming place"
         }
@@ -358,18 +358,18 @@
     "calumbabeachresort": [
         {
             "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 5,
-            "natural_beauty": 4,
-            "accommodations": 5,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 5,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "Beautiful and very clean place"
         },
         {
             "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 3,
-            "natural_beauty": 5,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 3,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "Very accommodating ang caretaker\ud83d\ude0d\ud83d\ude0d"
@@ -377,9 +377,9 @@
     ],
     "casaelcorahighlandresort": [
         {
-            "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 4,
+            "cleanliness": 4,
+            "safety": 3,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 4,
@@ -406,7 +406,7 @@
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 4,
@@ -415,9 +415,9 @@
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "try to visit here you will not regret the ambiance,"
         }
@@ -425,7 +425,7 @@
     "DakakParkandBeachResort": [
         {
             "cleanliness": 4,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
@@ -435,18 +435,18 @@
         {
             "cleanliness": 5,
             "safety": 4,
-            "accessibility": 5,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 5,
             "review": "We had our first experience to stay at Dakak delixe room and its ao comfy . The ameneties (pools , beach are the best ) the people are very friendly and kind"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 5,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "Very nice place \ud83d\udc4d if you want to visit Dakak this place is worth it"
         },
@@ -460,18 +460,18 @@
             "review": "BITCOIN INVESTMENT NOTICE!!\nAwesome trading platform, incredible withdrawal I have been using this platform together with the most recommended Forex strategy on the internet from Mrs Bruce Donna and so far  i have no complains making $17,000-$19,000 on a weekly basis.. She is great and Straightforward when it comes to making profit for her clients and i am thankful i was so lucky enough to have met her.\nContact via her \nEmail: Brucedonna442@gmail.com\nFacebook Page: Mrs Bruce Donna"
         },
         {
-            "cleanliness": 3,
-            "safety": 4,
-            "accessibility": 3,
+            "cleanliness": 5,
+            "safety": 3,
+            "accessibility": 4,
             "natural_beauty": 2,
             "accommodations": 3,
             "recreational_activity": 2,
             "review": "The Best online Forex/Binary broker and Trader is no one else but Mrs Bruce Donna the most tremendous, honest and very hardworking in her work. I did set up my Trades on Mrs Bruce Donna verified Trading company/platform with the standard plan of $1,000 where Mrs Bruce Donna carried out massive trade effectively and was able to earn a total profit of $12,950 after 7 days without any extra fee or commission. \u201cDon\u2019t Go Back To The Less, Because Your Impatient To Wait For The BEST\u201d Contact Mrs Bruce Donna directly through,\nWhatsApp +1(937)459-0619\nEmail: Brucedonna442@gmail.com\nFacebook: Mrs Bruce Donna"
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 3,
+            "cleanliness": 4,
+            "safety": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
@@ -479,16 +479,16 @@
         },
         {
             "cleanliness": 4,
-            "safety": 3,
+            "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 4,
-            "accommodations": 4,
-            "recreational_activity": 3,
+            "natural_beauty": 5,
+            "accommodations": 3,
+            "recreational_activity": 4,
             "review": "Nice place but the food buffet was very disappointing. Lami ra lantawon ang food pero mga walay lami puros tab'ang. Not worth the price."
         },
         {
             "cleanliness": 4,
-            "safety": 3,
+            "safety": 4,
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
@@ -499,18 +499,18 @@
             "cleanliness": 4,
             "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 4,
+            "natural_beauty": 3,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "I love it here!!! the services are good and the personnel are accomodating \ud83e\udd70"
         },
         {
-            "cleanliness": 5,
-            "safety": 5,
-            "accessibility": 4,
+            "cleanliness": 4,
+            "safety": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "very beautiful place and yummy food"
         }
     ],
@@ -518,110 +518,110 @@
         {
             "cleanliness": 5,
             "safety": 4,
-            "accessibility": 4,
-            "natural_beauty": 3,
-            "accommodations": 5,
-            "recreational_activity": 4,
+            "accessibility": 5,
+            "natural_beauty": 4,
+            "accommodations": 4,
+            "recreational_activity": 3,
             "review": "Cleaned Restroom\nSufficient Water Supply\nCleaned Cottages\nGreat Ambiance\n\nHighly Reccomended"
         }
     ],
     "DonelBeachResort": [
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 3,
-            "accommodations": 3,
+            "safety": 3,
+            "accessibility": 3,
+            "natural_beauty": 4,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "The place is awesome and the party last sat nyt was lit af. However, the short, fat ticketing staff was so rude that I couldn't understand why. I politely greeted her with \"Mayng gabii, Maam.\" but on a maldita tone, she replied with \"WA JUY MAAYO SA GABII.\" I did not mind her since I'm in the zone to party. I couldn't let her ruin our night. Then I asked her how much the tickets are but then again she responded with a condescending tone na \"Kapila na diay ka nakaanhi diri? Nganu mangutana pa man ka?\". As a first timer from Cebu City, I asked politely since one, I honestly don't know how much and two, there could've been special rates since there's an event. Nonetheless, after we secured our tix, we got inside and partied like there's no tomorrow \ud83d\ude0a the MAYOR even had a lil chitchat with my friends and welcomedus with glee. Staff like that could ruin an establishment with good vibes. She could've been more friendly. I still wanna comeback if given the chance but I hope she'll be reassigned in the kitchen where no one's gonna interact with her \ud83d\ude02"
-        },
-        {
-            "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 5,
-            "natural_beauty": 4,
-            "accommodations": 5,
-            "recreational_activity": 4,
-            "review": "nice place,  always happy"
-        },
-        {
-            "cleanliness": 1,
-            "safety": 2,
-            "accessibility": 2,
-            "natural_beauty": 3,
-            "accommodations": 1,
-            "recreational_activity": 2,
-            "review": "Staff are rude and most specialy the son of the owner itself ang the stockholder kuno xa. Never know how to handle guests, my experience here will never be forgotten.. (di ma draqing na experience ) \ud83d\ude14\ud83d\ude15\ud83d\ude22\ud83d\udc94 This is surely my first and last to visit this resort.. Poor on management. \nGood if u are rich they will accommodate u well..\nGodbless."
         },
         {
             "cleanliness": 5,
             "safety": 5,
             "accessibility": 5,
+            "natural_beauty": 4,
+            "accommodations": 4,
+            "recreational_activity": 4,
+            "review": "nice place,  always happy"
+        },
+        {
+            "cleanliness": 2,
+            "safety": 3,
+            "accessibility": 3,
+            "natural_beauty": 3,
+            "accommodations": 2,
+            "recreational_activity": 2,
+            "review": "Staff are rude and most specialy the son of the owner itself ang the stockholder kuno xa. Never know how to handle guests, my experience here will never be forgotten.. (di ma draqing na experience ) \ud83d\ude14\ud83d\ude15\ud83d\ude22\ud83d\udc94 This is surely my first and last to visit this resort.. Poor on management. \nGood if u are rich they will accommodate u well..\nGodbless."
+        },
+        {
+            "cleanliness": 4,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 5,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "it's nice and relaxing \ud83d\ude0e\ud83d\ude0e"
         },
         {
             "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 4,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 5,
+            "accommodations": 4,
+            "recreational_activity": 5,
             "review": "It was fun! Till next time\ud83d\ude0a"
         },
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
-            "natural_beauty": 5,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 3,
             "accommodations": 4,
-            "recreational_activity": 4,
+            "recreational_activity": 3,
             "review": "approachable and accommodating...\nrelaxing ambiance..."
         },
         {
             "cleanliness": 4,
             "safety": 3,
             "accessibility": 5,
-            "natural_beauty": 4,
-            "accommodations": 3,
+            "natural_beauty": 5,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "Dili worth it and rent sa tent nila."
         },
         {
             "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 4,
+            "safety": 5,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 5,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "Very relaxing ambiance. Clean and well maintained resort."
         },
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "Over all nice ang resort, esp the party! Need lang i improve ang toilet."
         },
         {
             "cleanliness": 5,
             "safety": 5,
             "accessibility": 5,
-            "natural_beauty": 4,
-            "accommodations": 4,
+            "natural_beauty": 5,
+            "accommodations": 5,
             "recreational_activity": 5,
             "review": "Excellent!. \nSuper duper limpyo!."
         }
     ],
     "EribertaSpringsOfficial": [
         {
-            "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 3,
+            "cleanliness": 5,
+            "safety": 4,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 4,
@@ -632,40 +632,40 @@
             "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "Great place to chill this summer, very refreshing spring pools"
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
+            "cleanliness": 5,
+            "safety": 4,
             "accessibility": 4,
             "natural_beauty": 4,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "nice place for family bonding"
         },
         {
-            "cleanliness": 2,
+            "cleanliness": 1,
             "safety": 1,
             "accessibility": 3,
-            "natural_beauty": 4,
-            "accommodations": 2,
+            "natural_beauty": 2,
+            "accommodations": 1,
             "recreational_activity": 3,
             "review": "Pls clean the surroundings, side walks it's very slippery. They are collecting entrance fees so it's just right they have to maintain the cleanliness. We were there last December 27, stray dogs were inside too, as we were eating we smelled dogs feces. Ang daming lumot."
         },
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 5,
+            "accessibility": 3,
+            "natural_beauty": 4,
             "accommodations": 3,
             "recreational_activity": 4,
             "review": "Come and visit this Eriberta Spring very nice, clean and most of all your safe.."
         },
         {
-            "cleanliness": 2,
-            "safety": 3,
+            "cleanliness": 3,
+            "safety": 2,
             "accessibility": 4,
             "natural_beauty": 4,
             "accommodations": 1,
@@ -675,19 +675,19 @@
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 4,
             "review": "Alkaline water and the beauty of nature..."
         },
         {
-            "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 2,
+            "cleanliness": 3,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "accommodations": 2,
+            "recreational_activity": 3,
             "review": "Ka pila naku nag balik ani nalugar ug Dili q Mapul.an \ud83e\udd70\ud83d\ude0d"
         },
         {
@@ -695,8 +695,8 @@
             "safety": 3,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 4,
-            "recreational_activity": 3,
+            "accommodations": 3,
+            "recreational_activity": 4,
             "review": "https://m.facebook.com/story.php?story_fbid=165829698292546&id=100045965508258"
         }
     ],
@@ -706,40 +706,40 @@
             "safety": 2,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 1,
+            "accommodations": 2,
             "recreational_activity": 3,
             "review": "Suggest ko lang sa inyo.. Maganda ang view pero ang mga staff mga bulok! hindi marunong mag approach ng tao..para pang galit.. mag bayad pa ng 25 ang isa kung mag dala ng softdring kasi ang gusto nila doon nalang bumili.. bakit niyo pipigilan kong ano ang inumin ng tao.. Ayosin nyo mga tagapag pamahala.. Kung hindi mag close nalang kayu!\n\nGODBLESS."
         },
         {
-            "cleanliness": 3,
-            "safety": 2,
-            "accessibility": 4,
-            "natural_beauty": 3,
+            "cleanliness": 4,
+            "safety": 3,
+            "accessibility": 2,
+            "natural_beauty": 4,
             "accommodations": 2,
             "recreational_activity": 3,
             "review": "limit ur acomodation.if u dont allow souds better do not allow it for evrybody"
         },
         {
             "cleanliness": 3,
-            "safety": 3,
+            "safety": 2,
             "accessibility": 3,
-            "natural_beauty": 3,
-            "accommodations": 3,
-            "recreational_activity": 3,
+            "natural_beauty": 4,
+            "accommodations": 1,
+            "recreational_activity": 2,
             "review": "No for pet lovers cause they are not pet friendly \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e"
         },
         {
-            "cleanliness": 3,
-            "safety": 2,
+            "cleanliness": 3.5,
+            "safety": 2.5,
             "accessibility": 4,
-            "natural_beauty": 3,
+            "natural_beauty": 3.5,
             "accommodations": 3,
             "recreational_activity": 2,
             "review": "It was absolutely okay ang place, pero ang usa ka staff ninyo kay mali iyang pag approach sa amoa, wala miy nakita nga professionalism sa iyaa nga ni approach nga bawal mag kanta sa video singko kay giabangan instead niduol siya namo diritso ingon nga ma'am bawal pakantahan with poker face wala nahuman among song unta gipahuman or if unsa man gali in a nice way nalang unta siya ni approach kasi wala pud mi kabalo nga di diay pwede pakantahan kasi nakita namo open lang videokihan walay tawo na didto, maong nihapit mig kanta pati wala man sab niingon sa amoa bawal nga naa raman unta poy usa nga gabantay sa kilid nga pool ga smile ra gali sa amoa galantaw ug galingkod."
         },
         {
-            "cleanliness": 1,
-            "safety": 1,
+            "cleanliness": 2,
+            "safety": 4,
             "accessibility": 3,
             "natural_beauty": 1,
             "accommodations": 2,
@@ -749,9 +749,9 @@
         {
             "cleanliness": 4,
             "safety": 3,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "Hope to visit this place soon \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
         }
@@ -759,10 +759,10 @@
     "Geefarmresort": [
         {
             "cleanliness": 5,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 3,
-            "accommodations": 5,
+            "natural_beauty": 4,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "family athmosphere,  clean,  a welcoming staff... very good for an intimate celebrations"
         }
@@ -771,7 +771,7 @@
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 5,
+            "accessibility": 4,
             "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 4,
@@ -783,7 +783,7 @@
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 4.5,
+            "recreational_activity": 5,
             "review": "The best/safe place to unwind with family\u2764\ud83d\udc95\u2764\nBig thanks to all staffs very accommodating and approachable"
         },
         {
@@ -796,21 +796,21 @@
             "review": "An over night stay at Gratum2. Thank you to all the accommodating staff.. and to the management. Peaceful, relaxing, Clean and safe for campers. We enjoy a lot our stay plus the Unlimited internet at the top.\n\nHope to have an internet connection too along the beach. See you again Gratum2. Kudos!"
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 5,
+            "cleanliness": 5,
+            "safety": 4,
+            "accessibility": 4,
             "natural_beauty": 3,
-            "accommodations": 4,
+            "accommodations": 5,
             "recreational_activity": 4,
             "review": "Very accommodating staff!"
         },
         {
-            "cleanliness": 1,
+            "cleanliness": 2,
             "safety": 1,
             "accessibility": 3,
-            "natural_beauty": 1,
-            "accommodations": 1,
-            "recreational_activity": 2,
+            "natural_beauty": 2,
+            "accommodations": 2,
+            "recreational_activity": 3,
             "review": "Economy Great reset is here, cashless economy is here. Make more money with your free time. Invest in Forex and cryptocurrency trading. Professional and efficient broker. It's safe and lucrative, contact Mrs. Petra Louis on WhatsApp:+15853762579 or Email:petralouis144@gmail.com"
         },
         {
@@ -823,8 +823,8 @@
             "review": "The place is so relaxing and the rooms are conducive. Big thumbs up!\ud83d\udc9a-TeamNDMC-"
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
+            "cleanliness": 5,
+            "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
@@ -832,18 +832,18 @@
             "review": "Very accommodating from reservation to check out. Polite and friendly staff..clean,cozy and affordable rooms..\nDelicious food and beverages with very reasonable prices..\nBreath taking ambiance..\nThank you!We really enjoyed our stay!"
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 5,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "Yes it so nice and accomodating, money is so worth it."
         },
         {
-            "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
+            "cleanliness": 5,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 4,
@@ -854,7 +854,7 @@
             "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 3,
+            "accommodations": 5,
             "recreational_activity": 4,
             "review": "I love the ambiance.. Calm and peaceful as well as clean.... Beyond my expectations.. Hoping that the management be able to maintain the cleanliness and friendly atmosphere.."
         }
@@ -863,10 +863,10 @@
         {
             "cleanliness": 4,
             "safety": 4,
-            "accessibility": 5,
+            "accessibility": 4,
             "natural_beauty": 3,
-            "accommodations": 4,
-            "recreational_activity": 4,
+            "accommodations": 3,
+            "recreational_activity": 3,
             "review": "good services,,& nice sounds system"
         },
         {
@@ -880,8 +880,8 @@
         },
         {
             "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 5,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 4,
@@ -889,28 +889,28 @@
         },
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 3,
-            "natural_beauty": 5,
-            "accommodations": 4,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 4,
+            "accommodations": 5,
             "recreational_activity": 4,
             "review": "superB kanindot. busug kaayu mi. sulit among gi travel from Casa Mira South to Carcar. true, sundlunon sya, per adventurous kay nilabang mi ug sapa. but all in all, sulit. lami kaayu ilang food, worth it ra sa price na among nabayran. 12 mi kabuok with 15 dishes 2k+ ra amo nabayran. amazing! balik mi diri pohon. \u2665\ufe0f\ud83d\udcaf"
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
+            "cleanliness": 4,
+            "safety": 3,
             "accessibility": 5,
             "natural_beauty": 4,
-            "accommodations": 5,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 3,
             "review": "Lami kaayo ang mga pagkaon ! Dili kamahayan then very ka affordable.... So unsa pay gihuwat.. Pangari namo sa Hunasan \u263a\ufe0f\u263a\ufe0f"
         },
         {
-            "cleanliness": 3,
-            "safety": 4,
-            "accessibility": 4,
+            "cleanliness": 4,
+            "safety": 3,
+            "accessibility": 5,
             "natural_beauty": 2,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "enjoy the moment\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"
         }
@@ -927,7 +927,7 @@
         },
         {
             "cleanliness": 5,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 4,
             "natural_beauty": 4,
             "accommodations": 5,
@@ -935,12 +935,12 @@
             "review": "Wow! Salamat Jehovens for a very relaxing venue to conduct our activities.\nThe place is superb and peaceful as it provides inpressive amenities from reception, accomodation, function hall, swimming poll and the rooms for over night stay. The food is also very yummy. Worth it to recommend to my friends."
         },
         {
-            "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
+            "cleanliness": 3,
+            "safety": 4,
+            "accessibility": 2,
             "natural_beauty": 5,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "accommodations": 1,
+            "recreational_activity": 2,
             "review": "yeah yummy food.. i like the trees.. the birds and the breeze of the air."
         }
     ],
@@ -948,7 +948,7 @@
         {
             "cleanliness": 4,
             "safety": 3,
-            "accessibility": 3,
+            "accessibility": 2,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 4,
@@ -957,18 +957,18 @@
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 5,
             "review": "peace, safe and elegant\ud83e\udd70\ud83e\udd70\ud83e\udd70 \nbsta super relaxing mkawala jud ug stress, feel  kaau nmo nga mura kag nag vacation sa imong private resort.... ganorn! plus free wifi ug boutan pa kaau ang mga staff."
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 4,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "Ma amaze jud ka sa place...makawalag stress\ud83d\ude0d\ud83e\udd0d\ud83e\udd0d\ud83e\udd0d"
         }
@@ -979,23 +979,23 @@
             "safety": 3,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 2,
+            "accommodations": 1,
             "recreational_activity": 4,
             "review": "We are very disappointed! We traveled for 5 hours to enjoy the scenery and the pool itself but the power went out for the entirety of our stay. Instead of accommodating us for the power outage, we were left mostly to our own devices. The room itself was very hot and full of mosquitoes, we did not have enough beeds, pillows and blankets. The scenery was nice and the pool was better."
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
-            "accommodations": 5,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "Superb place for family, friends or lovers outing. Sementado ang daan paakyat sa lugar. Mababait at approachable ang mga taong nagttrabaho. Sulit na sulit kahit malayo para saming mga taga zamboanga at zamboanga sibugay. For sure we'll visit again. Thank you."
         },
         {
             "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 4,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
@@ -1015,28 +1015,28 @@
     ],
     "lumbiahillgardenresort": [
         {
-            "cleanliness": 5,
-            "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 5,
-            "accommodations": 5,
-            "recreational_activity": 5,
-            "review": "awesome ambiance so relaxing and stress reliever\u2764\ufe0f"
-        },
-        {
             "cleanliness": 4,
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 4,
-            "review": "relaxing,comfortable place to hang out w/ family"
+            "recreational_activity": 5,
+            "review": "awesome ambiance so relaxing and stress reliever\u2764\ufe0f"
         },
         {
             "cleanliness": 5,
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 4,
+            "accommodations": 5,
+            "recreational_activity": 3,
+            "review": "relaxing,comfortable place to hang out w/ family"
+        },
+        {
+            "cleanliness": 5,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
             "review": "Been there nung april 14 lang. walk-in lang kami. maganda yung place tapos malinis. malinis din talaga ang swimming pool. masarap yung pagkain nila. chicken and halo-halo inorder namin. friendly staff pati yung may-ari maganda din pagtanggap sa mga guests. recommended po na puntahan yung Lumbia Hill Graden Resort.\nCustomer service - 5/5\npwede po magovernyt doon kung gusto nyo. may rooms sila."
@@ -1047,7 +1047,7 @@
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "very nice place to go. to unwind.to escape the noiseof the city"
         },
         {
@@ -1056,13 +1056,13 @@
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 4,
             "review": "Beautiful though not fully developed Pero sulit\u2764\ufe0f"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 4,
@@ -1070,8 +1070,8 @@
         },
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 4,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 5,
@@ -1082,12 +1082,12 @@
             "safety": 3,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 3,
+            "accommodations": 3.5,
             "recreational_activity": 5,
             "review": "lovely view, fresh air, and has a variety of fun activities to choose from...ideal for photoshoots, personal time of relaxation, family recreation, and group outings."
         },
         {
-            "cleanliness": 3,
+            "cleanliness": 5,
             "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
@@ -1097,9 +1097,9 @@
         },
         {
             "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
             "review": "very nice place....visit the resort and have fun..."
@@ -1107,34 +1107,34 @@
     ],
     "maligroresort": [
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 4,
-            "accessibility": 4,
-            "natural_beauty": 5,
+            "accessibility": 5,
+            "natural_beauty": 3,
             "accommodations": 5,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "Great service! Very affordable! I totally recommend this for a family getaway. Kudos to this resort. More power. Thank youuuuuuu so much for the great experience! All our request was granted with such reasonable price. Room rates are so affordable, really cozy, clean. Really had a blast. The resort is so considerate with their customer's requests. I love it \ud83e\udd70"
         },
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 3,
+            "accessibility": 5,
+            "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "honest and professional staffs. they've found and returned my lost wallet. kudos to manager John and front desk staff."
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
+            "cleanliness": 4,
+            "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "nice place to be with people you love"
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
@@ -1145,35 +1145,35 @@
     ],
     "munimuniresort": [
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 4,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 5,
             "review": "Beautiful beach, vibrant marine life for scuba diving, challenging wall for rock climbing. \ud83d\ude0d"
         },
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 3,
+            "safety": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 4,
-            "recreational_activity": 5,
+            "accommodations": 3,
+            "recreational_activity": 4,
             "review": "Nice place\u263a\ufe0f daming instagramable areas\ud83e\udd70"
         },
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 5,
             "recreational_activity": 5,
             "review": "Nice place to unwind and do some extreme adventure activities and most especially not crowded!\ud83d\udc4cthank you guys!\ud83d\udc4d\ud83c\udffb 5 stars"
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
+            "cleanliness": 5,
+            "safety": 4,
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
@@ -1182,8 +1182,8 @@
         },
         {
             "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 3,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
@@ -1200,7 +1200,7 @@
         },
         {
             "cleanliness": 5,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
@@ -1209,10 +1209,10 @@
         },
         {
             "cleanliness": 4,
-            "safety": 5,
+            "safety": 4,
             "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 5,
             "review": "The best place to be away from the city... \ufffd\ufffd\ufffd"
         },
@@ -1221,7 +1221,7 @@
             "safety": 3,
             "accessibility": 2,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 4,
             "review": "Kalinawan to relax, bond, enjoy nature at its finest, retreat, recollect, work and plan as a team, build a team and many more....  The place is worth the challenges encountered along the way... Masarap balik balikan \ufffd"
         },
@@ -1237,7 +1237,7 @@
     ],
     "PahaliResortBasilan": [
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 4,
             "accessibility": 3,
             "natural_beauty": 5,
@@ -1247,18 +1247,18 @@
         },
         {
             "cleanliness": 2,
-            "safety": 3,
-            "accessibility": 2,
+            "safety": 1,
+            "accessibility": 3,
             "natural_beauty": 3,
             "accommodations": 2,
             "recreational_activity": 1,
             "review": "2times na pag book ko dito hindi maganda napaka bagal ng response nila aabutan tayo ng siyam siyam. nakakainis."
         },
         {
-            "cleanliness": 2,
-            "safety": 3,
+            "cleanliness": 3,
+            "safety": 2,
             "accessibility": 2,
-            "natural_beauty": 5,
+            "natural_beauty": 4,
             "accommodations": 2,
             "recreational_activity": 2,
             "review": "The place itself is beautiful and peaceful.\nThe very reason I don't recommend this place is that it actually isn't tourist friendly. Sa dami na ng beach at provinces na napuntahan ko d2 lang ako gumastos ng something not worth my money.\nI was oblige to pay 600php pra makapasok sa resort for consumable food WITHOUT CHOICES kasi hindi raw ako naka check in guest sa resort. And the serving was actually too small for \"sharing\".\nMy partner and I wanted to feature this place sana kea we wanted to take pictures lang, experience the fine white sand and blue water. Pro kung gusto daw nMin ng ganun we were allowed just 10mins to take shots, no ligo etc. and that SOUNDS TOO DISAPPOINTING.\nAlso according to our motor driver there was even a time na hindi na nagtuloy 1 guest nya dahil gulat sya sa presyo, so instead ipinasyal nlng ni kuya driver sa ibang resort.\nAlso kung walang mag overnight na guest, no walk-in guest is allowed na beyond 5PM.\nNOT DIY FRIENDLY."
@@ -1267,29 +1267,29 @@
     "palomasbeachresort": [
         {
             "cleanliness": 5,
-            "safety": 5,
-            "accessibility": 5,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 4,
             "accommodations": 5,
-            "recreational_activity": 4,
+            "recreational_activity": 3,
             "review": "it's so clean and doesn't smell bad . the concrete cottages is so clean but only lots of red ants on the sand  but it's okay .."
         },
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 5,
+            "accessibility": 5,
+            "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "Absolutely Perfect get away for family and friends. They keep things organize and safe. They do reminder and they have security guard."
         },
         {
-            "cleanliness": 5,
-            "safety": 5,
-            "accessibility": 4,
+            "cleanliness": 4,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "so nice beach resort for family- friendly bonding.. beautiful wd white sand"
         },
         {
@@ -1298,7 +1298,7 @@
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "absolutely  nice Beach resort\u26f1\ufe0f for family & friends"
         },
         {
@@ -1312,19 +1312,19 @@
         },
         {
             "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 4,
+            "safety": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 4,
             "review": "Nice nga beach..balik ra mi puhon.."
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 4,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 4,
             "review": "nice view.. nindot para sa family bonding"
         },
@@ -1341,8 +1341,8 @@
     "LaPiscinasResort": [
         {
             "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 5,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 5,
@@ -1352,17 +1352,17 @@
             "cleanliness": 5,
             "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 5,
-            "accommodations": 4,
+            "natural_beauty": 4,
+            "accommodations": 5,
             "recreational_activity": 5,
             "review": "I loved the place. Perfect for family. We've enjoyed the peaceful place, fresh air and pool is cool and clean. Also perfect for the children too."
         },
         {
             "cleanliness": 5,
             "safety": 4,
-            "accessibility": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 5,
             "review": "My family was enjoying the swimming pool, super nice view, I like the place specialy the pool is so clean \ufffd\ufffd\ufffd\nWe are so happy and enjoy there,hope we can visit there again \ufffd\ufffd"
         },
@@ -1372,7 +1372,7 @@
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "La Piscinas Resort is a perfect place  for relaxation."
         },
         {
@@ -1380,13 +1380,13 @@
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 3,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "I love the swimming pool so much..nice ambiance,safe place..and very clean.."
         },
         {
-            "cleanliness": 5,
-            "safety": 5,
+            "cleanliness": 4,
+            "safety": 3,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
@@ -1395,8 +1395,8 @@
         },
         {
             "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 4,
             "accommodations": 3,
             "recreational_activity": 5,
@@ -1412,9 +1412,9 @@
             "review": "Its nice resort,,,and  we spend a lots of fun here with my friends"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
@@ -1422,8 +1422,8 @@
         },
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 4,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
@@ -1433,9 +1433,9 @@
     "plusbeachresort": [
         {
             "cleanliness": 4,
-            "safety": 3,
+            "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 2,
+            "natural_beauty": 3,
             "accommodations": 5,
             "recreational_activity": 3,
             "review": "good room service and friendly management"
@@ -1453,33 +1453,33 @@
             "cleanliness": 5,
             "safety": 5,
             "accessibility": 5,
-            "natural_beauty": 5,
+            "natural_beauty": 4,
             "accommodations": 5,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "perfect ambience, safe and secured\nhighly recommended"
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 5,
+            "cleanliness": 4,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "RECOMMENDABLE RESORT MUST VISIT \u203c\ufe0f\u2764\ufe0f\u203c\ufe0f"
         },
         {
-            "cleanliness": 1,
+            "cleanliness": 2,
             "safety": 1,
             "accessibility": 1,
-            "natural_beauty": 1,
+            "natural_beauty": 2,
             "accommodations": 1,
             "recreational_activity": 1,
             "review": "So disappointed \ud83d\ude0f Nag booked me! nag Down payment para sure  pero pag abot namo,Ingnun rakag walay bakante Kay Puno naay ga rent tibook\ud83e\udee3Wala man lang mi ge advice\ud83d\ude0f.Kaloka \ud83d\ude0f"
         },
         {
             "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 4,
+            "safety": 5,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 5,
@@ -1487,7 +1487,7 @@
         },
         {
             "cleanliness": 5,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 5,
@@ -1497,39 +1497,39 @@
     ],
     "royalfarmresort": [
         {
-            "cleanliness": 1,
+            "cleanliness": 2,
             "safety": 3,
             "accessibility": 2,
-            "natural_beauty": 4,
+            "natural_beauty": 3,
             "accommodations": 1,
             "recreational_activity": 2,
             "review": "We checked-in in 1 of the rooms, water coming out from the shower is very very slow! Wi-fi in the room is very very very slow!! Worst, because of the very slow connection,there are times that there is no internet inside the room; Staffs arent helpful when we had simple requests!! In short, not worth the money to stay in this resort!!"
         },
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 3,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "Thank you Royal Farm, my family & I always had a great time! every time we visited your resort.All staff are kind,nice & approachable not compared at Manuel Resort.Royal farm had always good vibes environment & beautiful open view place.We very much like their management \ud83d\ude42\ud83d\udc4d."
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 3,
             "safety": 4,
-            "accessibility": 4,
-            "natural_beauty": 3,
-            "accommodations": 5,
-            "recreational_activity": 4,
+            "accessibility": 5,
+            "natural_beauty": 2,
+            "accommodations": 4,
+            "recreational_activity": 3,
             "review": "Customer Service is great!!"
         },
         {
-            "cleanliness": 2,
-            "safety": 3,
-            "accessibility": 2,
+            "cleanliness": 3,
+            "safety": 2,
+            "accessibility": 1,
             "natural_beauty": 4,
-            "accommodations": 1,
-            "recreational_activity": 2,
+            "accommodations": 2,
+            "recreational_activity": 3,
             "review": "Poor customer service. Staff are not accommodating."
         },
         {
@@ -1544,8 +1544,8 @@
         {
             "cleanliness": 2,
             "safety": 3,
-            "accessibility": 1,
-            "natural_beauty": 4,
+            "accessibility": 2,
+            "natural_beauty": 3,
             "accommodations": 2,
             "recreational_activity": 1,
             "review": "Hindi nila pina paliguan yung pool nila pag tung2 ng 8pm dapat unli ligo kasi guest kami dito nakaka disappoint lang kasi ang layo ng byahe namin tapos pag dating hindi pala kami makapag relax\ud83d\udc4e\u203c\ufe0f"
@@ -1555,8 +1555,8 @@
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 4,
-            "accommodations": 4,
-            "recreational_activity": 5,
+            "accommodations": 3,
+            "recreational_activity": 4,
             "review": "Affordable, child-friendly!!! \n\nPLUS mga staff mga bootan, approachable, walay libog, abtik!!!\n\nThank you Royal Farm!!!"
         },
         {
@@ -1565,33 +1565,33 @@
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "amazing resort.  staff are so helpful.  kids loved it. definitely coming again.  from the Marshall family.  United kingdom \ud83c\uddec\ud83c\udde7"
         },
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "accessibility": 4,
+            "natural_beauty": 3,
             "accommodations": 4,
             "recreational_activity": 5,
             "review": "nice place, lots of swimming pool, function hall.. Great hotel bar.. helpful concierge.."
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
+            "cleanliness": 4,
+            "safety": 5,
             "accessibility": 5,
-            "natural_beauty": 4,
-            "accommodations": 5,
-            "recreational_activity": 4,
+            "natural_beauty": 3,
+            "accommodations": 4,
+            "recreational_activity": 5,
             "review": "I love these place its very convenient"
         }
     ],
     "solaj.resort": [
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 4,
+            "safety": 4,
+            "accessibility": 5,
             "natural_beauty": 3,
             "accommodations": 5,
             "recreational_activity": 4,
@@ -1601,17 +1601,17 @@
             "cleanliness": 4,
             "safety": 3,
             "accessibility": 4,
-            "natural_beauty": 4,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "natural_beauty": 5,
+            "accommodations": 4,
+            "recreational_activity": 3,
             "review": "The place was nice, but we were really disappointed because our food was served after almost 2 hours. Not even one staff came to us to explain the delay. Customer service need improvements."
         },
         {
             "cleanliness": 4,
-            "safety": 4.5,
-            "accessibility": 4.5,
-            "natural_beauty": 4,
-            "accommodations": 4.5,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 3,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "Nice place but the serving of food needs improvement. We have to wait couple of minutes, almost an hour for the food to be serve."
         },
@@ -1626,18 +1626,18 @@
         },
         {
             "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 3,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "well... it's nice, very relaxing and you can Also Bath in the ocean.."
         },
         {
             "cleanliness": 4,
             "safety": 4,
-            "accessibility": 3,
-            "natural_beauty": 4,
+            "accessibility": 5,
+            "natural_beauty": 3,
             "accommodations": 4,
             "recreational_activity": 3,
             "review": "Every staff were friendly and accommodating. The place was great! The food was a 6/10. Overall, a great experience \u2665\ufe0f"
@@ -1645,7 +1645,7 @@
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 4,
             "accommodations": 4,
             "recreational_activity": 4,
@@ -1653,20 +1653,20 @@
         },
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
             "review": "Good food, friendly staff and the place was really great for a weekend getaway with friends or family. \ud83d\udc95"
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 4,
-            "accessibility": 5,
+            "accessibility": 4,
             "natural_beauty": 3,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 3,
             "review": "the best place to dine in and chill..food is so yummy..staff are so friendly..\u2665\ufe0f\ud83d\ude18planing to come back soon..\ud83e\udd1fmore power solaj and thank u xo much!\ud83d\ude18\ud83c\udf89\ud83c\udf89\ud83c\udf89"
         },
         {
@@ -1681,12 +1681,12 @@
     ],
     "TalizayBeachResortTabina": [
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 5,
-            "accessibility": 3,
-            "natural_beauty": 4,
-            "accommodations": 2,
-            "recreational_activity": 5,
+            "accessibility": 4,
+            "natural_beauty": 5,
+            "accommodations": 3,
+            "recreational_activity": 4,
             "review": "t'was a great experience :) very nice .. but i gope u have ur cook :(    so that we can order :( like tinola, sinigang , sea foods  and dessert :) but all in all.. so nice place :) perfect to chill and relax :) Godbless more power"
         }
     ],
@@ -1701,75 +1701,75 @@
             "review": "A lots of nice background you will enjoy to have your pictorial\ud83e\udd23sa mga hilig ug picture2 tambulig spring resort is best talaga\ud83d\ude0athe staff are very accomodating. The environment was relaxing due to its cleanliness and the beautiful lights at night was so fascinating mapapa wow! ka talaga. In Tambulig Spring Resort you can assure your enjoyment as well as the safety as they are disciplined enough in practicing the healthy protocols being mandated in this pandemic season."
         },
         {
-            "cleanliness": 5,
-            "safety": 3,
-            "accessibility": 4,
+            "cleanliness": 3,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 2,
             "accommodations": 3,
-            "recreational_activity": 2,
+            "recreational_activity": 3,
             "review": "I am from California and a few months ago I was confirmed herpes 1 virus positive and ever since then I have been doing research on how I can get rid of the virus, I was lucky to come across aba herbs. I inbox Dr Aire after scrolling through his page, the doctor responded nicely and told me that he is going to ship the cure medications to me via a shipping company, he also said I am going to get cured within. two to three weeks! I never doubted him because many have said so much good news about his herbal medicine on every site and everything really went as planned.. His herbal treatments are completely legit and I recommend you contact him on drairehome@gmail.com or WhatsApp his number on +2347036740271"
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 3,
+            "cleanliness": 4,
+            "safety": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 4,
             "review": "The nice ambience and relaxing view and of course the cold and clean water \ud83d\udc9b"
         },
         {
             "cleanliness": 4,
-            "safety": 3,
+            "safety": 4,
             "accessibility": 5,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 4,
             "review": "nice view & well manage by the lgu"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 4,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 5,
             "review": "the environments are stunning, with that massive koi fish on that pond are delightful to see. ahh.. can't wait for another vacation to dive again on tambulig spring.\ud83d\ude0d"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 5,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 5,
             "review": "very nice place and very relaxing\ud83d\ude0d"
         },
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 3,
+            "accessibility": 3,
+            "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "the amazing super cold pool"
         },
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 3,
-            "accommodations": 5,
-            "recreational_activity": 4,
+            "accessibility": 5,
+            "natural_beauty": 4,
+            "accommodations": 4,
+            "recreational_activity": 5,
             "review": "very convenient for the family"
         },
         {
             "cleanliness": 5,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 5,
             "natural_beauty": 4,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 3,
             "review": "Nice ambiance w d a very cold and clean water..."
         },
         {
@@ -1784,16 +1784,16 @@
     ],
     "TubbudFloatingCottage": [
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 5,
             "review": "Happy and best memorable outing \nmalinis at maganda balik balikan magswimming."
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 4,
             "accessibility": 3,
             "natural_beauty": 5,
@@ -1805,26 +1805,26 @@
             "cleanliness": 4,
             "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 4,
+            "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 4,
             "review": "We'll be back.Nice experience with a nice place."
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 4,
-            "accessibility": 3,
-            "natural_beauty": 5,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "accessibility": 4,
+            "natural_beauty": 4,
+            "accommodations": 4,
+            "recreational_activity": 5,
             "review": "Nice Place To Enjoy and Relax With Family, Friends and Officemates\ud83d\udc9a\u2764\ufe0f"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 5,
-            "accessibility": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 5,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "everything is cool..love that place\ud83d\udc4d\ud83d\udc4d\u2764\u2764\u2764"
         },
@@ -1838,11 +1838,11 @@
             "review": "It's safe. Boatmen are accomodating and friendly. Cottages are clean. Everything\ud83d\ude01"
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 4,
             "accessibility": 5,
             "natural_beauty": 5,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "nice Ang water clean and blue,nice view palibot\ud83d\ude01"
         },
@@ -1858,19 +1858,19 @@
         {
             "cleanliness": 5,
             "safety": 4,
-            "accessibility": 3,
-            "natural_beauty": 4,
-            "accommodations": 4,
-            "recreational_activity": 3,
-            "review": "nice place & clean kaayu Ang water."
-        },
-        {
-            "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 5,
+            "accessibility": 4,
             "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 4,
+            "review": "nice place & clean kaayu Ang water."
+        },
+        {
+            "cleanliness": 4.5,
+            "safety": 4.0,
+            "accessibility": 4.5,
+            "natural_beauty": 4.0,
+            "accommodations": 5.0,
+            "recreational_activity": 4.5,
             "review": "Nice and very accomodating \u2764\ufe0f"
         }
     ],
@@ -1878,16 +1878,16 @@
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "accessibility": 4,
+            "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "Nice food and accommodations, fresh air, cool nights, safe and the price is right."
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 5,
-            "accessibility": 3,
+            "accessibility": 4,
             "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 4,
@@ -1899,15 +1899,15 @@
             "accessibility": 4,
             "natural_beauty": 3,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 4,
             "review": "pretty neat and friendly staff"
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
+            "cleanliness": 4,
+            "safety": 3,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 5,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "Are you looking for the best place to feel peace and joy at the same time while enjoying a good ambiance and a perfect view? \n\nCome and have a wonderful experience at Villiapablea located at Dipolog City.\n\nBased on my experience, I can say that this is the perfect one for family bondings, vacation, field trips, birthdays, wedding receptions and other celebrations! Because Villapablea has great staffs and Management that will cater you to satisfy your experience with enjoyable adventurous things to do."
         },
@@ -1915,9 +1915,9 @@
             "cleanliness": 5,
             "safety": 5,
             "accessibility": 5,
-            "natural_beauty": 5,
+            "natural_beauty": 4,
             "accommodations": 5,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "Hospitality - 10/10\nFood - 10/10\nAmbiance - 10/10\nLocation - 10/10\nRooms - 10/10\n\nWifi nalang kulang \ud83d\ude01"
         }
     ],
@@ -1925,10 +1925,10 @@
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "accessibility": 4,
+            "natural_beauty": 5,
             "accommodations": 5,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "Thank you very much ma'am Leida for making my most special day of the year the best. Everything was beyond my expectation... from the perfect set-up, great food, nice cake, amenities, etc. It was an amazing birthday experience, no regrets."
         }
     ],
@@ -1936,37 +1936,37 @@
         {
             "cleanliness": 2,
             "safety": 3,
-            "accessibility": 4,
-            "natural_beauty": 3,
+            "accessibility": 3,
+            "natural_beauty": 2,
             "accommodations": 1,
             "recreational_activity": 2,
             "review": "Not good...water heater is not functioning, No TV station...not worth the price. \ud83d\udc4e\ud83c\udffd\ud83d\udc4e\ud83c\udffd\ud83d\udc4e\ud83c\udffd"
         },
         {
             "cleanliness": 2,
-            "safety": 2,
-            "accessibility": 1,
+            "safety": 3,
+            "accessibility": 2,
             "natural_beauty": 3,
-            "accommodations": 1,
+            "accommodations": 2,
             "recreational_activity": 2,
             "review": "What a huge disappointment! They don't give complete details about the reservation and payment policy. We made a reservation (for overnight stay) and have already prepared our budget based on the prices they provided but when we arrived at the resort, turned out there are different charges, which we were not informed. We had no choice because it was already late evening and we're already there. Lost all our energy during the overnight stay.. Crazy experience!! Ang mahal mahal ng cottage tapos iba pa presyo pag gabi. Limited lang pa talaga ang access.. daming extra charges for this and that \ud83d\udc4e\ud83c\udffb Hope this won't happen again. (Coz definitely, hindi na kami babalik!!)"
         },
         {
             "cleanliness": 1,
-            "safety": 2,
-            "accessibility": 3,
+            "safety": 3,
+            "accessibility": 2,
             "natural_beauty": 2,
             "accommodations": 1,
-            "recreational_activity": 2,
+            "recreational_activity": 3,
             "review": "Based sa naexpirience ko. HINDI accommodating, HINDI hospitable ang mga WORKERS nila. HINDI malinis ang paligid. maraming pupu ng dog.\nSo disappointed."
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 3,
             "safety": 3,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 3,
-            "recreational_activity": 5,
+            "accommodations": 2,
+            "recreational_activity": 4,
             "review": "Though they have poor customer service, but still the beach is amazing."
         },
         {
@@ -1974,57 +1974,28 @@
             "safety": 3,
             "accessibility": 1,
             "natural_beauty": 2,
-            "accommodations": 2,
-            "recreational_activity": 1,
+            "accommodations": 1,
+            "recreational_activity": 2,
             "review": "Me and my friends had the worst experience booking this place. We went there to unwind and enjoy but we get the opposite. Yes, ganun ka worst. Hindi po malinaw yung instructions and policy nila sa payment. Ang daming binabayaran, kapag nag overnight ka and stay over 7am, ibang entrance nanaman. Ang mamahal pa ng cottages. Seriously, 1,600 for a small cottage overnight? Hindi pa nagana lahat ng sockets. Ibang payment pa if you have a tent. Gusto sana naming hindi na matuloy the day we went there kasi sobrang layo ng price nung booking compared sa actual meeting with their rep, kaso sobrang layo na nang binyahe namin. We were so disappointed. Not the best customer service also, pwera na lang kay kuyang guard and one of their picnic area staff. Yun lang, overall the resort was far from being okay. We just had to maximize our payment pero never again."
         },
         {
             "cleanliness": 1,
             "safety": 3,
             "accessibility": 2,
-            "natural_beauty": 3,
-            "accommodations": 2,
-            "recreational_activity": 3,
+            "natural_beauty": 2,
+            "accommodations": 1,
+            "recreational_activity": 2,
             "review": "DISAPPOINTED : EXPECTATIONS NOT MET!!!\n - Booked 2 new Villas not worth ,its pricy - water from the faucets are very dirty muddy /sandy toilets are filty. \nCustomer service needs improvements ."
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 3,
             "safety": 3,
             "accessibility": 2,
-            "natural_beauty": 3,
+            "natural_beauty": 4,
             "accommodations": 2,
-            "recreational_activity": 3,
+            "recreational_activity": 2,
             "review": "The customer service, especially on online bookings, is very poor. We\u2019ve tried booking and inquiring for days and yet, it is still unsuccessful. They don\u2019t even answer the calls or questions we are sending through messages. We had to ask someone to book directly just to make it possible. I hope you can improve on this matter. Even until now, we still have no response, just automated messages."
         },
-        {
-            "cleanliness": 3,
-            "safety": 2.5,
-            "accessibility": 2,
-            "natural_beauty": 4,
-            "accommodations": 2,
-            "recreational_activity": 1.5,
-            "review": "Poor customer service. Hindi sumasagot sa calls and chats."
-        },
-        {
-            "cleanliness": 5,
-            "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 5,
-            "accommodations": 4,
-            "recreational_activity": 4,
-            "review": "Their Staff are so friendly and they are already secured in everything"
-        },
-        {
-            "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 4,
-            "natural_beauty": 4,
-            "accommodations": 4,
-            "recreational_activity": 4,
-            "review": "the staffs are accommodating and the atmosphere is nice"
-        }
-    ],
-    "people": [
         {
             "cleanliness": 3,
             "safety": 2,
@@ -2032,22 +2003,51 @@
             "natural_beauty": 4,
             "accommodations": 2,
             "recreational_activity": 2,
-            "review": "Pag uwi naman galing Danmar, sobrang kati ng katawan namin"
+            "review": "Poor customer service. Hindi sumasagot sa calls and chats."
         },
+        {
+            "cleanliness": 4,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 4,
+            "accommodations": 3,
+            "recreational_activity": 4,
+            "review": "Their Staff are so friendly and they are already secured in everything"
+        },
+        {
+            "cleanliness": 4,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 3,
+            "accommodations": 5,
+            "recreational_activity": 4,
+            "review": "the staffs are accommodating and the atmosphere is nice"
+        }
+    ],
+    "people": [
         {
             "cleanliness": 2,
             "safety": 3,
+            "accessibility": 4,
+            "natural_beauty": 1,
+            "accommodations": 2,
+            "recreational_activity": 3,
+            "review": "Pag uwi naman galing Danmar, sobrang kati ng katawan namin"
+        },
+        {
+            "cleanliness": 1,
+            "safety": 2,
             "accessibility": 1,
-            "natural_beauty": 2,
+            "natural_beauty": 3,
             "accommodations": 1,
-            "recreational_activity": 1,
+            "recreational_activity": 2,
             "review": "sobrang mahal. sobrang dumi, esp cr"
         },
         {
             "cleanliness": 1,
             "safety": 2,
             "accessibility": 3,
-            "natural_beauty": 3,
+            "natural_beauty": 2,
             "accommodations": 1,
             "recreational_activity": 1,
             "review": "I didn't go there myself but my friends went and we were on a call together. The resort is not worth going to.\nThe pools were not well maintained (One pool was green and mossy, and the other was yellow), the beach was not clean, and the same goes for the bathrooms and shower rooms, making the expensive entrance not worth the price and they didn't even get to swim because of how dirty it was. The environment looks nice but it doesn't really make up for it since it's advertised as a beach resort, not a park."
@@ -2066,90 +2066,18 @@
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 5,
-            "recreational_activity": 4,
-            "review": "nice and Worth it highly recommended\ud83d\ude0d\ud83e\udd70"
-        },
-        {
-            "cleanliness": 2,
-            "safety": 1,
-            "accessibility": 3,
-            "natural_beauty": 2,
-            "accommodations": 1,
-            "recreational_activity": 1,
-            "review": "Poor customer service. Bathroom door broken/no lock; A/C not working, TV not working. Expensive, not worth the pay. The management needs to have set standards."
-        },
-        {
-            "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 4,
-            "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 4,
-            "review": "I like the view.. the place is so relaxing"
+            "recreational_activity": 5,
+            "review": "nice and Worth it highly recommended\ud83d\ude0d\ud83e\udd70"
         },
         {
             "cleanliness": 1,
             "safety": 2,
-            "accessibility": 3,
-            "natural_beauty": 1,
+            "accessibility": 2,
+            "natural_beauty": 3,
             "accommodations": 1,
             "recreational_activity": 1,
-            "review": "Cr so dirty, no soap. Super barado ang cr. Surroundings full of trash."
-        },
-        {
-            "cleanliness": 2,
-            "safety": 3,
-            "accessibility": 4,
-            "natural_beauty": 4,
-            "accommodations": 2,
-            "recreational_activity": 4,
-            "review": "malumot na yung side ng adult pool and madumi yung water.. kailangan pa namin magreklamo den naglinis na cla. yung bubong ng cottages paayos na din po kasi my mga butas butas na.. add na dn po sila ng shower area and cr na dn po. on d other hand, i think the place is nice and air is fresh. thumb ups also to ur kiddie pool, d kids enjoyed it! cleanliness lang po tlaga and for sure people wil come and flock ur resort.  thanks!"
-        },
-        {
-            "cleanliness": 5,
-            "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 5,
-            "accommodations": 4,
-            "recreational_activity": 5,
-            "review": "nice place to relax and enjoy with loveones"
-        },
-        {
-            "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 5,
-            "accommodations": 4,
-            "recreational_activity": 4,
-            "review": "Unexpected day trip in this new resort\ud83e\udd17"
-        },
-        {
-            "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 4,
-            "natural_beauty": 5,
-            "accommodations": 5,
-            "recreational_activity": 4,
-            "review": "It was really nice at Bamboo Resort and Restaurant. Kahit sobrang layo worth it naman pagdating duon, The river fresh water i really love so lamig. \ud83e\udd70 The resort offers affordable accommodation and all the staff were approachable. Can't wait to come back to your place for our next outing. Thank you again for the beautiful experience. \u2764\ufe0f"
-        },
-        {
-            "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 1,
-            "natural_beauty": 3,
-            "accommodations": 2,
-            "recreational_activity": 3,
-            "review": "Not accessible for sedan car"
-        },
-        {
-            "cleanliness": 5,
-            "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 5,
-            "accommodations": 4,
-            "recreational_activity": 4,
-            "review": "Maganda yung place \ud83d\ude0aand very fresh ang water \ud83d\ude00"
+            "review": "Poor customer service. Bathroom door broken/no lock; A/C not working, TV not working. Expensive, not worth the pay. The management needs to have set standards."
         },
         {
             "cleanliness": 4,
@@ -2158,23 +2086,95 @@
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 4,
-            "review": "nice po yung place kahit maliit lang,enjoy po kc ang lamig ng tubig\ud83d\ude18\ud83d\ude18\u2764\u2764"
+            "review": "I like the view.. the place is so relaxing"
+        },
+        {
+            "cleanliness": 1,
+            "safety": 2,
+            "accessibility": 4,
+            "natural_beauty": 2,
+            "accommodations": 3,
+            "recreational_activity": 1,
+            "review": "Cr so dirty, no soap. Super barado ang cr. Surroundings full of trash."
+        },
+        {
+            "cleanliness": 2,
+            "safety": 4,
+            "accessibility": 3,
+            "natural_beauty": 5,
+            "accommodations": 3,
+            "recreational_activity": 4,
+            "review": "malumot na yung side ng adult pool and madumi yung water.. kailangan pa namin magreklamo den naglinis na cla. yung bubong ng cottages paayos na din po kasi my mga butas butas na.. add na dn po sila ng shower area and cr na dn po. on d other hand, i think the place is nice and air is fresh. thumb ups also to ur kiddie pool, d kids enjoyed it! cleanliness lang po tlaga and for sure people wil come and flock ur resort.  thanks!"
+        },
+        {
+            "cleanliness": 4,
+            "safety": 4.5,
+            "accessibility": 4,
+            "natural_beauty": 5,
+            "accommodations": 4,
+            "recreational_activity": 4.5,
+            "review": "nice place to relax and enjoy with loveones"
         },
         {
             "cleanliness": 4,
             "safety": 5,
             "accessibility": 3,
-            "natural_beauty": 4,
+            "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 4,
+            "review": "Unexpected day trip in this new resort\ud83e\udd17"
+        },
+        {
+            "cleanliness": 4,
+            "safety": 5,
+            "accessibility": 3,
+            "natural_beauty": 5,
+            "accommodations": 4,
+            "recreational_activity": 4,
+            "review": "It was really nice at Bamboo Resort and Restaurant. Kahit sobrang layo worth it naman pagdating duon, The river fresh water i really love so lamig. \ud83e\udd70 The resort offers affordable accommodation and all the staff were approachable. Can't wait to come back to your place for our next outing. Thank you again for the beautiful experience. \u2764\ufe0f"
+        },
+        {
+            "cleanliness": 3,
+            "safety": 4,
+            "accessibility": 1,
+            "natural_beauty": 4,
+            "accommodations": 3,
+            "recreational_activity": 4,
+            "review": "Not accessible for sedan car"
+        },
+        {
+            "cleanliness": 4,
+            "safety": 4,
+            "accessibility": 3,
+            "natural_beauty": 5,
+            "accommodations": 3,
+            "recreational_activity": 4,
+            "review": "Maganda yung place \ud83d\ude0aand very fresh ang water \ud83d\ude00"
+        },
+        {
+            "cleanliness": 4,
+            "safety": 4,
+            "accessibility": 4,
+            "natural_beauty": 3,
+            "accommodations": 3,
+            "recreational_activity": 4,
+            "review": "nice po yung place kahit maliit lang,enjoy po kc ang lamig ng tubig\ud83d\ude18\ud83d\ude18\u2764\u2764"
+        },
+        {
+            "cleanliness": 4,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 3,
+            "accommodations": 4,
+            "recreational_activity": 4,
             "review": "were safe @ secure inside the resort @ the people there are approachable"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 5,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "its a recommended place to go! the view is picturesque....friendly and accomodating staff....will definitely go back..."
         },
@@ -2189,37 +2189,37 @@
         },
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 3,
-            "natural_beauty": 4,
+            "safety": 4,
+            "accessibility": 4,
+            "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "Everything was nice. We will surely visit again."
         },
         {
             "cleanliness": 4,
             "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 3,
+            "natural_beauty": 4,
             "accommodations": 5,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "Very nice and cozy place. The owner and staff were also very accommodating. we enjoyed our swimming especially when the pool turned red \ud83e\udd70\ud83e\udd70\ud83e\udd70"
         },
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 4,
             "review": "Ganda ng view dito at peaceful"
         },
         {
-            "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 2,
-            "accommodations": 3,
+            "cleanliness": 3,
+            "safety": 4,
+            "accessibility": 4,
+            "natural_beauty": 4,
+            "accommodations": 2,
             "recreational_activity": 4,
             "review": "cold water, cheap fees worth the experience, friendly staff"
         },
@@ -2234,17 +2234,17 @@
         },
         {
             "cleanliness": 5,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 5,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 5,
             "recreational_activity": 5,
             "review": "It was the nicest relaxing experience I've had. The icy water, the staff,  and the place in general is 12/10."
         },
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 3,
+            "safety": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
@@ -2252,7 +2252,7 @@
         },
         {
             "cleanliness": 1,
-            "safety": 1,
+            "safety": 2,
             "accessibility": 2,
             "natural_beauty": 2,
             "accommodations": 1,
@@ -2260,43 +2260,43 @@
             "review": "FYI Skyview Resort at San Roque / Skyview Resort, Sanroque Zamboanga City / Skyview Resort & Restaurant/ Skyview Resorts\n\nEntrance fee 100 per head\nCottage 800\n\nWe went at your resort to have a pleasant stay with our family, to relax and unwind. But what we have experienced was a disaster.\n\nThe place is full of flies, parang bag bebreed ung mga langaw.\n\nThe resort is not organized, walang tubig ang toilets, madaming pusa at aso (nakagat ako)\n\nI was bitten by a cat, there are more than 4 cats around. I informed the girl (maintanance at the gate). Sabi nila, hindi daw sakanila ung mga pusa in short \u201cpusang gala\u201d ung kumagat saakin.. then why its even in your gated property? Paano pag may rabies yun tapos kumagat pa ng ibang visitor?\n\nUng mga foods namin puno ng langaw, nag bigay sila isang candle which is not enough kasi thousands talaga ang mga langaw parang basurahan ung place.\n\nUng tubig sobrang kati. \ud83d\ude2d\ud83d\ude2d\n\nI have the right to complain especially more than 15 people kami na nag bayad ng 100 each at ung cottage nyong 800 na di namin maupuan or tambayan kasi puno ng langaw.\n\nI do not recommend this resort at all."
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 3,
-            "natural_beauty": 4,
-            "accommodations": 4,
-            "recreational_activity": 5,
+            "cleanliness": 5,
+            "safety": 4,
+            "accessibility": 5,
+            "natural_beauty": 5,
+            "accommodations": 5,
+            "recreational_activity": 4,
             "review": "Its a very satisfying feeling to be like in your own home when you stay in this resort!!!"
         },
         {
-            "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 3,
+            "cleanliness": 5,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 5,
             "recreational_activity": 5,
             "review": "What I like most about Sunrise Family Resort aside from the place, house, pool, and ktv room are also the staffs and the owner who are very attentive and very friendly. I really recommend the place because you will feel that you are away from the city and you have the time to unwind and bond with your family and friends."
         },
         {
             "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 4,
-            "natural_beauty": 3,
-            "accommodations": 5,
-            "recreational_activity": 4,
-            "review": "The place is so cozy, homy, highly recommended for Family gatherings,class reunions, Birthdays, and many others , just see it yourself \ud83d\udc4d\ud83d\udc4d\ud83d\ude1c"
-        },
-        {
-            "cleanliness": 5,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 4,
             "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 5,
-            "review": "I highly recommend Sunrise Family Resort.. \nThis is a homy, clean & private resort. \nCome one, come all friends & families...\nEnjoy, have fun & have a wonderful memories, for you to have a story and experiences to share. \n\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f"
+            "review": "The place is so cozy, homy, highly recommended for Family gatherings,class reunions, Birthdays, and many others , just see it yourself \ud83d\udc4d\ud83d\udc4d\ud83d\ude1c"
         },
         {
             "cleanliness": 5,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 4,
+            "accommodations": 5,
+            "recreational_activity": 4,
+            "review": "I highly recommend Sunrise Family Resort.. \nThis is a homy, clean & private resort. \nCome one, come all friends & families...\nEnjoy, have fun & have a wonderful memories, for you to have a story and experiences to share. \n\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f"
+        },
+        {
+            "cleanliness": 4,
             "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
@@ -2327,17 +2327,17 @@
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 4,
-            "accommodations": 4,
-            "recreational_activity": 5,
+            "accommodations": 5,
+            "recreational_activity": 4,
             "review": "\u98df\u7269\u7a2e\u985e\u591a\u800c\u7f8e\u5473\uff0c\u5730\u65b9\u4e7e\u6de8\uff0c\u670d\u52d9\u614b\u5ea6\u975e\u5e38\u53cb\u5584\uff0c\u503c\u5f97\u63a8\u4ecb"
         }
     ],
     "HugotBeachHouse": [
         {
             "cleanliness": 2,
-            "safety": 3,
-            "accessibility": 4,
-            "natural_beauty": 4,
+            "safety": 4,
+            "accessibility": 5,
+            "natural_beauty": 3,
             "accommodations": 3,
             "recreational_activity": 4,
             "review": "Im currently here. A perfect place for family gathering. I hope they will keep it clean, I see a floating diaper could be from a local villager. Overall its a nice place to relax."
@@ -2345,18 +2345,18 @@
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 5,
             "review": "\u2728Family friendly, spacious n relaxing place, friendly staff very accommodating... \n\u2b50 \u2b50 \u2b50 \u2b50 \u2b50"
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 5,
-            "accessibility": 5,
-            "natural_beauty": 3,
-            "accommodations": 4,
+            "accessibility": 4,
+            "natural_beauty": 4,
+            "accommodations": 5,
             "recreational_activity": 4,
             "review": "\u2b50\u2b50\u2b50\u2b50\u2b50\nFRIENDLY STAFFS\nCLEAN PLACE\nNICE  AND RELAXING AMBIANCE\n\nwill surely recommend it to my friends.."
         },
@@ -2371,29 +2371,29 @@
         },
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 4,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 5,
             "review": "Nice view,  nostalgic scenery,  refreshing water.  perfect spot \u2764\ufe0f \ud83d\udea3\u200d\u2642\ufe0f\ud83c\udfca\u200d\u2642\ufe0f"
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 5,
-            "accommodations": 5,
-            "recreational_activity": 5,
-            "review": "Highly recommended\n\u2b50 \u2b50 \u2b50 \u2b50 \u2b50\nnice ambiance, best place to spend w/ Family and Friends \n\ud83c\udf0a\ud83c\udfca\u200d\u2640\ufe0f\ud83c\udfdd\ud83d\udea3\u200d\u2640\ufe0f\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b"
-        },
-        {
             "cleanliness": 5,
             "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 3,
-            "recreational_activity": 5,
+            "accommodations": 4,
+            "recreational_activity": 4,
+            "review": "Highly recommended\n\u2b50 \u2b50 \u2b50 \u2b50 \u2b50\nnice ambiance, best place to spend w/ Family and Friends \n\ud83c\udf0a\ud83c\udfca\u200d\u2640\ufe0f\ud83c\udfdd\ud83d\udea3\u200d\u2640\ufe0f\ud83d\udc9b\ud83d\udc9b\ud83d\udc9b"
+        },
+        {
+            "cleanliness": 4,
+            "safety": 5,
+            "accessibility": 3,
+            "natural_beauty": 5,
+            "accommodations": 2,
+            "recreational_activity": 4,
             "review": "This is a place where we can experience tranquility. We often spend our saturdays and sundays here. This place is so BEAUTIFUL, I swear\ud83c\udf0a Please visit here!\ud83e\udd0d"
         },
         {
@@ -2401,23 +2401,23 @@
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "cleanliness place peaceful and fresh air\ud83d\ude0c"
         },
         {
             "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 4,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 4,
             "review": "Best place to unwind \u2764\ufe0f\nYou can find both peace and happiness \ud83e\udd17\u2764\ufe0f"
         },
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 4,
@@ -2428,7 +2428,7 @@
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
@@ -2437,16 +2437,16 @@
         {
             "cleanliness": 5,
             "safety": 4,
-            "accessibility": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 4,
+            "accommodations": 3,
             "recreational_activity": 4,
             "review": "Beautiful white sand beach speckled with pink  sand stones.  With blue/green waters around  and peaceful surroundings...\n\nLocals are friendly & accomodating.  You can also buy souvenirs... Would visit again this year.... \u2764\ufe0f"
         },
         {
-            "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 4,
+            "cleanliness": 5,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 5,
@@ -2458,8 +2458,17 @@
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "clean,safe,naturally beautiful beach......people there were so friendly n courteous.. i lje.zamboanga"
+        },
+        {
+            "cleanliness": 5,
+            "safety": 4,
+            "accessibility": 5,
+            "natural_beauty": 5,
+            "accommodations": 4,
+            "recreational_activity": 4,
+            "review": "Very relaxing place I Love this place.  Nice View nice place."
         },
         {
             "cleanliness": 5,
@@ -2468,23 +2477,14 @@
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
-            "review": "Very relaxing place I Love this place.  Nice View nice place."
-        },
-        {
-            "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 3,
-            "natural_beauty": 5,
-            "accommodations": 5,
-            "recreational_activity": 4,
             "review": "very nice and clean so amazing"
         },
         {
             "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 3,
+            "safety": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "I went to Santa Cruz island two years in a row. I love the unique pink beach. The crystal clear water and  the pink beach have remained in the same state as they were 20 years ago. Thanks to the city government for strict enforcement of regulations in the island and the cooperative guests.  Please visit this island enjoy swimming and don\u2019t leave any waste."
         },
@@ -2511,27 +2511,27 @@
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 4,
-            "recreational_activity": 5,
+            "accommodations": 3,
+            "recreational_activity": 4,
             "review": "crystal clear Beach...courteous tourism officers.."
         }
     ],
     "pitasisland": [
         {
-            "cleanliness": 3,
+            "cleanliness": 1,
             "safety": 2,
-            "accessibility": 4,
-            "natural_beauty": 1,
+            "accessibility": 2,
+            "natural_beauty": 2,
             "accommodations": 3,
-            "recreational_activity": 2,
+            "recreational_activity": 3,
             "review": "Trading with a trusted account manager is what can make your dreams come through. For me, Mrs. Robert Stella Fx offers the best trading strategies to win. I never believed in any post recommending online trading until I gave her a try and the outcome was great for me. Making $15,750 out of $1000 was a whole lot of profit for me. you can contact her via\nEmail: robertstella385@gmail.com        \nWhatsApp   +1 (717) 742-0664"
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 3,
+            "accommodations": 4,
             "recreational_activity": 5,
             "review": "This island really gave us an Oslob Cebu vibes. We enjoyed the trip to the highest level. \ud83d\ude0d\ud83e\udd70 Super amazing and worth it. \u2764\ufe0f\ud83d\udc95 Tour guides are very kind and took care of us very much. \ud83d\ude18\ud83e\udd70 Will come back soon. \ud83d\ude4f\ud83c\udffc"
         }
@@ -2540,16 +2540,16 @@
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 5,
-            "natural_beauty": 5,
+            "accessibility": 4,
+            "natural_beauty": 3,
             "accommodations": 4,
             "recreational_activity": 4,
             "review": "All the staff is friendly, approachable and the place is quiet for relaxing worth to visit \ud83d\udc4d"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 4,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 4,
@@ -2557,26 +2557,26 @@
         },
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 4,
+            "safety": 4,
+            "accessibility": 5,
             "natural_beauty": 3,
             "accommodations": 4,
             "recreational_activity": 3,
             "review": "nice place,they assist u if nid some help.clean place"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 4,
-            "accessibility": 5,
+            "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 5,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 5,
             "review": "Puerto villa beach and resort such a relaxing place that can makes you feel good and fresh at the same time.. can't wait to take my family there .. Again Puerto villa beach and resort are exciting and crystal sightseeing"
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 3,
+            "cleanliness": 5,
+            "safety": 4,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 5,
@@ -2592,35 +2592,35 @@
             "review": "Pool is polluted .. so many people. Wash area\nClogged.. no maintaining personnels around.. floating pampers at the beach . My first time here. Hope cleanliness be first priority..\nBut the place is cool.. looking forward managent can look into the cleanliness of the place.\nThank you.."
         },
         {
-            "cleanliness": 3,
-            "safety": 4,
+            "cleanliness": 4,
+            "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 2,
+            "accommodations": 3,
             "recreational_activity": 4,
             "review": "We enjoyed it with family but there\u2019s no refrigerator inside the rooms"
         },
         {
             "cleanliness": 4,
             "safety": 3,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "accessibility": 4,
+            "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 3,
             "review": "good place more affordable"
         },
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "safety": 5,
+            "accessibility": 3,
+            "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
             "review": "nice sliding \ud83e\udd29and Good ambience \u2764\ufe0f\ud83d\ude4f\ud83e\udd29"
         },
         {
-            "cleanliness": 4,
-            "safety": 3,
+            "cleanliness": 3,
+            "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 3,
@@ -2630,12 +2630,12 @@
     ],
     "Shariffjane": [
         {
-            "cleanliness": 5,
-            "safety": 4,
+            "cleanliness": 4,
+            "safety": 5,
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "it was such a pleasure to be with this place... it's perfect for me\ud83e\udd70 serenity all over the place and love of nature is visible \u2764\ufe0f"
         },
         {
@@ -2648,12 +2648,12 @@
             "review": "It was a perfect wonderful day \ud83d\ude0d"
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 4,
+            "cleanliness": 4,
+            "safety": 5,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "Surely Babalik balikan\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
         }
     ],
@@ -2661,36 +2661,36 @@
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 5,
+            "accessibility": 3,
+            "natural_beauty": 4,
             "accommodations": 3,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "The  place is nice where you can chill and relax with friends and family..."
         },
         {
-            "cleanliness": 3,
+            "cleanliness": 1,
             "safety": 2,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 4,
             "accommodations": 3,
             "recreational_activity": 2,
             "review": "Pangit lang ng rules nila. Masyado nila dinadown yung mga taong may psoriasis at other skin allergies. Bawal daw mag swimming yung taong may ganyan. Pasalamat kayo wala kayo ganyan. FYI hindi po contagious mga yan. Aral muna kayo. Sa genes yan. Kaya hindi dapat pandirihan. Kahit mga Hollywood star or anak ng mga artista like team Kramer may skin allergy anak nila."
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 5,
-            "accessibility": 5,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "Super ganda worth it tlga sha! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
         },
         {
-            "cleanliness": 3,
-            "safety": 2,
-            "accessibility": 2,
+            "cleanliness": 1,
+            "safety": 1,
+            "accessibility": 1,
             "natural_beauty": 1,
-            "accommodations": 2,
+            "accommodations": 1,
             "recreational_activity": 1,
             "review": "Ayusin nyo po reservation/booking process  nyo! Our  team already got confirmation from you. When we were about to pay the reservation fee, nabigay na raw sa iba yung particular date. Nakakita lang kayo ng pera, nasilaw agad! \n\nOur event is just 2 days from now! Now san namin gaganapin to? You have no idea of the bad impacts to your customers dahil mukhang pera kayo!"
         }
@@ -2699,16 +2699,16 @@
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 4,
             "review": "Nice place for sunset view \ud83c\udf04"
         },
         {
-            "cleanliness": 1,
-            "safety": 2,
-            "accessibility": 1,
+            "cleanliness": 2,
+            "safety": 3,
+            "accessibility": 2,
             "natural_beauty": 2,
             "accommodations": 1,
             "recreational_activity": 1,
@@ -2716,7 +2716,7 @@
         },
         {
             "cleanliness": 5,
-            "safety": 5,
+            "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
@@ -2724,10 +2724,10 @@
             "review": "Extraordinary view, friendly and caring staff, very clean rooms and FOOD TO DIE FOR!!!! I love it here! will definitely return!!!"
         },
         {
-            "cleanliness": 1,
+            "cleanliness": 2,
             "safety": 3,
             "accessibility": 2,
-            "natural_beauty": 2,
+            "natural_beauty": 3,
             "accommodations": 2,
             "recreational_activity": 1,
             "review": "very very bad service..waited more than 45min for them to get our orders..understaff..nobody to welcome you when you arrive..need to call the waiter several time..on extreme i called thier number just for them to approach us for our order..so dissapointed w the service of this restaurant..definitely not coming back"
@@ -2743,8 +2743,8 @@
         },
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 3,
+            "safety": 3,
+            "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 3,
             "recreational_activity": 4,
@@ -2762,8 +2762,8 @@
         {
             "cleanliness": 2,
             "safety": 3,
-            "accessibility": 2,
-            "natural_beauty": 3,
+            "accessibility": 1,
+            "natural_beauty": 2,
             "accommodations": 2,
             "recreational_activity": 1,
             "review": "the cottage is very expensive at Luma na, yung grill Luma din, kung gusto MO magsugba Hindi mo alam kung saan ka pupunta, sabi ng staff newly renovated daw Hindi naman."
@@ -2772,7 +2772,7 @@
             "cleanliness": 4,
             "safety": 5,
             "accessibility": 3,
-            "natural_beauty": 4,
+            "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "The ambiance is beautiful. We enjoyed staying there to wait for the sunset and had dinner. Masarap ang food nila and the staff are very polite and accomodating. Just maybe the beach needs improvement, medyu di magandang tingnan yung mga kalat sa beach..pero konti lang naman. All in all we loved the stay there. \ufffd\ufffd"
@@ -2789,18 +2789,18 @@
     ],
     "3mjdhillsiteresort": [
         {
-            "cleanliness": 5,
-            "safety": 5,
-            "accessibility": 5,
-            "natural_beauty": 4,
+            "cleanliness": 4,
+            "safety": 4,
+            "accessibility": 3,
+            "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 4,
+            "recreational_activity": 3,
             "review": "thanks 3MJD. Sa uulitin \ud83e\udd70\ud83e\udd70\ud83e\udd70"
         },
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 4,
+            "safety": 3,
+            "accessibility": 5,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 4,
@@ -2811,60 +2811,60 @@
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 5,
+            "accessibility": 4,
             "natural_beauty": 3,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 2,
             "review": "Great place for seminars!"
         },
         {
-            "cleanliness": 3,
-            "safety": 4,
-            "accessibility": 3,
-            "natural_beauty": 2,
-            "accommodations": 3,
+            "cleanliness": 4,
+            "safety": 3,
+            "accessibility": 4,
+            "natural_beauty": 3,
+            "accommodations": 2,
             "recreational_activity": 4,
             "review": "Nice place to stay for vacay..However, your front desk employees should possess a friendly smile po..parang galit if u have raised more than 5 questions po.\nRoom service was excellent during our stay...Rooms are too pricey compared sa ibang nice hotel po which are affordable with 5stars reviews..They always say na FULLY BOOKED na po ang medyo hindi kamahalan but d fact is der are still rooms available po..They offerred d suite room which is expensive po.."
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 4,
+            "cleanliness": 4,
+            "safety": 5,
+            "accessibility": 5,
             "natural_beauty": 4,
             "accommodations": 4,
-            "recreational_activity": 4,
+            "recreational_activity": 3,
             "review": "nice location and people there"
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 5,
-            "accessibility": 3,
-            "natural_beauty": 2,
-            "accommodations": 3,
-            "recreational_activity": 1,
+            "accessibility": 4,
+            "natural_beauty": 3,
+            "accommodations": 4,
+            "recreational_activity": 3,
             "review": "Delicious japanese food and friendly staff"
         },
         {
             "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 3,
+            "accessibility": 3,
+            "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "one my favorite hotel in Zamboanga City"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 4,
-            "accessibility": 5,
-            "natural_beauty": 4,
-            "accommodations": 5,
+            "accessibility": 3,
+            "natural_beauty": 5,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "classy place, good food and service"
         },
         {
             "cleanliness": 4,
-            "safety": 5,
+            "safety": 3,
             "accessibility": 5,
             "natural_beauty": 3,
             "accommodations": 4,
@@ -2872,39 +2872,39 @@
             "review": "Accessible to airport and the ambiance is so great"
         },
         {
-            "cleanliness": 5,
+            "cleanliness": 4,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 5,
+            "recreational_activity": 4,
             "review": "very satisfied and have a wonderful services pricey but whort it...good job"
         },
         {
             "cleanliness": 4,
-            "safety": 5,
-            "accessibility": 3,
+            "safety": 4,
+            "accessibility": 5,
             "natural_beauty": 3,
             "accommodations": 5,
-            "recreational_activity": 4,
+            "recreational_activity": 3,
             "review": "good room service and quite room"
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
+            "cleanliness": 4,
+            "safety": 5,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 4,
             "review": "Nice place to have a peaceful rest."
         }
     ],
     "OfficialLMMetroHotel": [
         {
             "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 3,
-            "natural_beauty": 5,
+            "safety": 3,
+            "accessibility": 4,
+            "natural_beauty": 3,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "IT is nice accomodation  eautiful swimming pool"
@@ -2913,26 +2913,26 @@
             "cleanliness": 4,
             "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 5,
+            "natural_beauty": 4,
             "accommodations": 4,
-            "recreational_activity": 4,
+            "recreational_activity": 5,
             "review": "Outstanding Place \nGreat Food\nGood service"
         },
         {
-            "cleanliness": 4,
-            "safety": 4,
+            "cleanliness": 5,
+            "safety": 5,
             "accessibility": 5,
-            "natural_beauty": 3,
+            "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "I highly recommend to the best of Hotel, very approachable and clean"
         },
         {
-            "cleanliness": 5,
-            "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 3,
-            "accommodations": 4,
+            "cleanliness": 4,
+            "safety": 4,
+            "accessibility": 3,
+            "natural_beauty": 2,
+            "accommodations": 5,
             "recreational_activity": 3,
             "review": "Ambiance and fine dining.\nExcellent cozy place"
         },
@@ -2940,43 +2940,43 @@
             "cleanliness": 4,
             "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 3,
-            "accommodations": 4,
-            "recreational_activity": 5,
+            "natural_beauty": 4,
+            "accommodations": 3,
+            "recreational_activity": 4,
             "review": "safety swimming for kids,perfect ambience"
         },
         {
             "cleanliness": 4,
-            "safety": 4,
+            "safety": 3,
             "accessibility": 4,
             "natural_beauty": 5,
-            "accommodations": 5,
+            "accommodations": 4,
             "recreational_activity": 4,
             "review": "It's a nice place to stay here...come and visit now....very affordable..\nI really love it \u2763\ufe0f....so what are you waiting for?...."
         },
         {
-            "cleanliness": 4,
-            "safety": 4,
-            "accessibility": 5,
-            "natural_beauty": 5,
+            "cleanliness": 5,
+            "safety": 5,
+            "accessibility": 4,
+            "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "nice place very relaxing to stay"
         },
         {
             "cleanliness": 5,
-            "safety": 4,
+            "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 3,
+            "natural_beauty": 4,
             "accommodations": 4,
             "recreational_activity": 3,
             "review": "Great and very relaxing place to dine. nice ambience and a delicious food"
         },
         {
-            "cleanliness": 4,
-            "safety": 3,
+            "cleanliness": 5,
+            "safety": 4,
             "accessibility": 4,
-            "natural_beauty": 4,
+            "natural_beauty": 3,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "the ambiance was really comforting"
@@ -2994,26 +2994,26 @@
     "margareetasfamilyresort": [
         {
             "cleanliness": 1,
-            "safety": 2,
-            "accessibility": 3,
-            "natural_beauty": 1,
+            "safety": 3,
+            "accessibility": 2,
+            "natural_beauty": 2,
             "accommodations": 1,
             "recreational_activity": 1,
             "review": "no offend mabaho ang tubiG ng pool tapos ang dumi pa ng cr walang tubig"
         },
         {
-            "cleanliness": 5,
-            "safety": 4,
-            "accessibility": 3,
+            "cleanliness": 4,
+            "safety": 3,
+            "accessibility": 4,
             "natural_beauty": 2,
             "accommodations": 3,
-            "recreational_activity": 3,
+            "recreational_activity": 4,
             "review": "Maintain cleanliness and recommend that every an hour just clean the water inside the pool..."
         },
         {
-            "cleanliness": 4,
+            "cleanliness": 5,
             "safety": 4,
-            "accessibility": 5,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
             "recreational_activity": 5,
@@ -3022,25 +3022,25 @@
         {
             "cleanliness": 2,
             "safety": 3,
-            "accessibility": 2,
-            "natural_beauty": 4,
+            "accessibility": 3,
+            "natural_beauty": 2,
             "accommodations": 2,
-            "recreational_activity": 3,
+            "recreational_activity": 2,
             "review": "Bastos ng caretaker, di marunong mag trato ng mabuti sa costumer nila kala mo naman maganda resort nila, goodluck nalang sa resort nyo!!!"
         },
         {
             "cleanliness": 2,
-            "safety": 2,
+            "safety": 1,
             "accessibility": 3,
-            "natural_beauty": 1,
-            "accommodations": 1,
-            "recreational_activity": 2,
+            "natural_beauty": 2,
+            "accommodations": 2,
+            "recreational_activity": 1,
             "review": "affordable na man ang price nila kaso hindi ako nasatisfide sa 1200 na amenities nila . kaya nga kame nag overnight pra mkapag pahinga kaso grabe ang kapitbhay na kwarto nmin, ANG INGAY . Tapos akala ng nsa kbilang kwarto sila na umako ng buong resort . sana nman din kung sobra na masyado ang ingay dpat mismo caretker na mag take action pra mag sita . tapos tumatwag kame sa number ninyo , galit pa sumagot ung babae . sbi pa nya \" ano ba maam?! disoras ng gabi maam?!\" ganyan ba kayo magtrato ng customer nyo?! kung ayaw nyo magpadistorbo sna hnd na kau mag manage ng resort nyo . hindi nman po kame ttwag kung wala kameng sadya . tapos nagising ako around 6am , daming lumilipad na INSECTO ! nagtataka ako eh sarado nman ung kwarto at CR nmin . hays THE WORST tlga . HINDI NA MKAKABALIK PA . ayusin nyo resort nyo , sinayang nmin ung staycation nmin jan . sana tinuloy na lng nmin sa VIRNELL mas OKAY pa !"
         },
         {
-            "cleanliness": 2,
-            "safety": 3,
-            "accessibility": 4,
+            "cleanliness": 3,
+            "safety": 4,
+            "accessibility": 3,
             "natural_beauty": 4,
             "accommodations": 4,
             "recreational_activity": 5,
@@ -3049,8 +3049,8 @@
         {
             "cleanliness": 2,
             "safety": 3,
-            "accessibility": 4,
-            "natural_beauty": 3,
+            "accessibility": 3,
+            "natural_beauty": 4,
             "accommodations": 2,
             "recreational_activity": 3,
             "review": "a little nice place and affordable than any other resort, ang hnd ko nagustuhan bastos at wlang respeto ang care taker hndi marunong mgtrato ng customer, basta basta nlang nila paalisin ng wlang abiso,sana b4 the end of time mgremind sila sa customer ,ma'am /sir mga ganitong oras time niyo na po or mag ask kung mg extend paba, magready na kayo,ganun dpat , wla eh biglang approach sayo ma'am time  niyo na out na kayo kc mglilinis na kami my mgchechek in,kabastos ba wlang mga manners mga matatanda naman Sana ,ano bang alam namin dpat sila ang responsible sa pgmanage ng time ng customer, take note second time na namin Un overnight dun, nung first ganun din ang ginawa nila, pinaalis kami kaagad kc my mgchechek in na iba, pinalampas lng namin kc hnd samin ung occasion, ngayon ky second time nkatikim tlga ung management mismo sa husband ko ...good luck nlang sa ibang mgovernight..hayssst"
@@ -3059,9 +3059,9 @@
             "cleanliness": 4,
             "safety": 5,
             "accessibility": 4,
-            "natural_beauty": 3,
-            "accommodations": 4,
-            "recreational_activity": 5,
+            "natural_beauty": 5,
+            "accommodations": 5,
+            "recreational_activity": 4,
             "review": "Nice and comfortable place. Perferct for family anc friends. Affordable and peaceful.\ufffd"
         },
         {
@@ -3074,12 +3074,12 @@
             "review": "perfect place..\ufffd\ufffd im so happy hve fun w/my familys..enjoy much as in.."
         },
         {
-            "cleanliness": 3,
-            "safety": 2,
-            "accessibility": 4,
+            "cleanliness": 2,
+            "safety": 1,
+            "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 2,
-            "recreational_activity": 4,
+            "recreational_activity": 3,
             "review": "maganda yung view kaso lang nakaka bastos ang mga taga reserve jan walang respeto,"
         }
     ],
@@ -3105,7 +3105,7 @@
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 4,
             "accommodations": 5,
             "recreational_activity": 4,
@@ -3114,17 +3114,17 @@
         {
             "cleanliness": 1,
             "safety": 1,
-            "accessibility": 2,
-            "natural_beauty": 3,
+            "accessibility": 3,
+            "natural_beauty": 2,
             "accommodations": 1,
-            "recreational_activity": 1,
+            "recreational_activity": 2,
             "review": "So disappointed, sobrang Dumi nag pool May aso pang pinaligo. \ud83d\ude22"
         },
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 4,
-            "natural_beauty": 4,
+            "accessibility": 5,
+            "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 5,
             "review": "the place is awesome,fantastic and very affordable."
@@ -3134,8 +3134,8 @@
             "safety": 5,
             "accessibility": 4,
             "natural_beauty": 4,
-            "accommodations": 5,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 3,
             "review": "so far so good a very cozy place to be with the family"
         },
         {
@@ -3143,13 +3143,13 @@
             "safety": 4,
             "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 2,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 5,
             "review": "The most green places I love it, fresh air everywhere!"
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
+            "cleanliness": 5,
+            "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 5,
@@ -3159,48 +3159,48 @@
         {
             "cleanliness": 5,
             "safety": 5,
-            "accessibility": 4,
+            "accessibility": 5,
             "natural_beauty": 5,
-            "accommodations": 4,
-            "recreational_activity": 4,
+            "accommodations": 5,
+            "recreational_activity": 5,
             "review": "sobrang saya..salamat sapag invite geral evad :D"
         },
         {
-            "cleanliness": 4,
-            "safety": 3,
-            "accessibility": 4,
-            "natural_beauty": 5,
-            "accommodations": 3,
-            "recreational_activity": 4,
+            "cleanliness": 3,
+            "safety": 4,
+            "accessibility": 3,
+            "natural_beauty": 4,
+            "accommodations": 2,
+            "recreational_activity": 3,
             "review": "just try\nfor you to experience too...\nI've been there.."
         }
     ],
     "woodlandresort": [
         {
-            "cleanliness": 3,
-            "safety": 2,
-            "accessibility": 1,
+            "cleanliness": 1,
+            "safety": 3,
+            "accessibility": 2,
             "natural_beauty": 1,
             "accommodations": 1,
-            "recreational_activity": 2,
+            "recreational_activity": 1,
             "review": "I highly want to recommended George Robert who helped me on Forex Trading here on this page and everyone on this page should try and participate on this and don\u2019t forget to thank me later. I keep on telling people that Mr George Robert is the best account manager that can help you on your Forex trading. with the help of Sir George, life has been so good to me and my family, I did an initial investment of $1,900 and I received a surprised profit of 2.475213 Bitcoins which is equivalent to $70,500 after 7days of trading, Forex trading is real and safe with the help of Mr George. Change your lifestyle in the next 7days by investing as low as $500 with George Robert forex trading and earn more than $17,500 in the next 7days... I'm telling you all this because I have been into this for Months and keeps me smiling! contact him via Email: georgerobertforextrader@gmail.com\nWhatsapp helpline: +1(706)659-0437"
         },
         {
-            "cleanliness": 3,
-            "safety": 4,
-            "accessibility": 2,
+            "cleanliness": 2,
+            "safety": 3,
+            "accessibility": 3,
             "natural_beauty": 4,
             "accommodations": 2,
             "recreational_activity": 3,
             "review": "Bad costumer service and incomplete menu."
         },
         {
-            "cleanliness": 3,
-            "safety": 2,
+            "cleanliness": 2,
+            "safety": 1,
             "accessibility": 1,
-            "natural_beauty": 4,
-            "accommodations": 2,
-            "recreational_activity": 2,
+            "natural_beauty": 3,
+            "accommodations": 1,
+            "recreational_activity": 1,
             "review": "Impolite staffs. They have new policy on accepting guest but they did not provide notice  to the public that they are no longer accepting children which is contradicting to their post in which they still include the children rate. Nag commute lang kami and upon arrival they still waited for our service to go before informing us of their new policy. Hussle tlga kasi from the start wala silang binibigay na public adisory but they have lots of pics posted with children. Ang layo pa saan mkakahanap ng vehicle and even assisting nlng since may kasama kaming senior and bata wala. Bad management!"
         },
         {
@@ -3216,7 +3216,7 @@
             "cleanliness": 3,
             "safety": 4,
             "accessibility": 2,
-            "natural_beauty": 3,
+            "natural_beauty": 4,
             "accommodations": 2,
             "recreational_activity": 1,
             "review": "But no slides for children and adults to have more fun..no foods and drinks kaya no plan to  visit back.."
@@ -3235,8 +3235,8 @@
             "safety": 4,
             "accessibility": 3,
             "natural_beauty": 5,
-            "accommodations": 5,
-            "recreational_activity": 4,
+            "accommodations": 4,
+            "recreational_activity": 5,
             "review": "Ganda ng place nkahanap din ng solemn na resort pra mka rest at the same time mag enjoy.  nice din yung swimming pool. Ang sarap ng mga foods. Good atmosphere ng room nila."
         },
         {
@@ -3245,21 +3245,21 @@
             "accessibility": 3,
             "natural_beauty": 5,
             "accommodations": 4,
-            "recreational_activity": 3,
+            "recreational_activity": 4,
             "review": "it's a nice place & views.but I hope you would be open for others foods & snacks to bring what I mean is sana pwd magdala kahit konting snacks lang tulad ng chichirya."
         },
         {
             "cleanliness": 5,
-            "safety": 5,
+            "safety": 4,
             "accessibility": 4,
-            "natural_beauty": 4,
+            "natural_beauty": 5,
             "accommodations": 5,
             "recreational_activity": 4,
             "review": "Super nice and clean :)"
         },
         {
-            "cleanliness": 4,
-            "safety": 5,
+            "cleanliness": 5,
+            "safety": 4,
             "accessibility": 4,
             "natural_beauty": 5,
             "accommodations": 4,
