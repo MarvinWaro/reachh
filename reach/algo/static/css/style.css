@@ -142,6 +142,12 @@ thead{
     color: #012970;
 }
 
+.heading-readmore{
+  font-weight: bolder !important;
+  color: #012970;
+  font-size: 40px !important;
+}
+
 /*Navbar*/
 
 
@@ -772,3 +778,12 @@ footer p {
     transform: translate(85px, 0%);
   }
 }
+
+.indentation{
+  text-indent: 50px;
+  text-align: justify;
+  line-height: 2.0;
+}
+
+/* loader */
+

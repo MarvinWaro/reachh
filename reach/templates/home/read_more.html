@@ -12,7 +12,41 @@
 
 {% block content %}
     <div class="container">
-        <span>Hello | Read more Section</span>
+        <section>
+            <div class="display-5 mt-4 mb-4 pt-4 pb-4 fw-semibold heading-readmore">Abstract</div>
+            
+            <div class="row d-flex">
+
+                <div class="col-lg-6">
+                    <p class="indentation"> In response to the complex task of selecting optimal beach and resort destinations 
+                        in the Zamboanga Peninsula, this study introduced a groundbreaking web-based 
+                        application. Our research aimed to revolutionize decision-making methodologies by 
+                        integrating Multi-Criteria Decision Making (MCDM) to assess key factors such as 
+                        cleanliness, safety, accessibility, natural beauty, recreational activities, and 
+                        accommodation. With a focus on user-centric design, we actively engaged travel 
+                        enthusiasts for continuous feedback and customization, ensuring the application aligned 
+                        with their preferences. Data collection employed Google Forms for distributed 
+                        questionnaires, while statistical tools encompassed MCDM, descriptive, and inferential 
+                        statistics. Employing an Agile software process model, technical tools like GPT API, 
+                        APIFY, Visual Studio Code, Google Forms, and Microsoft Excel contributed to the 
+                        application's development. The study's significance extended beyond user satisfaction, 
+                        aiming to stimulate growth in the local tourism industry and provide valuable insights for 
+                        academics, businesses, and policymakers. The conceptual framework integrated 
+                        Facebook web scraping and sentiment analysis, resulting in a robust decision-making 
+                        system. Findings from user feedback and data analysis were presented in the Results and 
+                        Discussion section, highlighting the transformative impact on travel decisions in 
+                        Zamboanga Peninsula. This study was not merely a technological advancement but a 
+                        catalyst for informed and enjoyable travel experiences in the region.
+                    </p>
+                </div>
+
+                <div class="col-lg-6">
+                    <img class="img-fluid rounded-4" src="{% static 'img/aboutbeach.png' %}" alt="ai beach">
+                </div>
+
+            </div>
+            
+        </section>
     </div>
 {% endblock content %}
     
