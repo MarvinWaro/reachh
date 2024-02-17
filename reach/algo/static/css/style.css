@@ -884,3 +884,136 @@ footer p {
   opacity: 1;
 }
 
+/* checkboxes and radio */
+
+/* radio */
+
+.container-r {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  cursor: pointer;
+  margin-bottom: 12px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.container-r input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.checkmark-r {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  
+  border-radius: 50%;
+  border: 1px solid rgb(54, 52, 52);
+  outline-style: solid;
+  outline-color: rgb(54, 52, 52);
+  outline-width: thin;
+}
+
+.container-r:hover input ~ .checkmark-r {
+  background-color: #ccc;
+}
+
+.container-r input:checked ~ .checkmark-r {
+  background-color: #08253d;
+}
+
+.checkmark-r:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.container-r input:checked ~ .checkmark-r:after {
+  display: block;
+}
+
+.container-r .checkmark-r:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  margin-bottom: 12px;
+  border-radius: 50%;
+  background: white;
+}
+
+/* checkbox */
+
+.container-b {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container-b input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark-b {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+
+  border: 1px solid rgb(54, 52, 52);
+  outline-style: solid;
+  outline-color: rgb(54, 52, 52);
+  outline-width: thin;
+}
+
+.container-b:hover input ~ .checkmark-b {
+  background-color: #ccc;
+}
+
+.container-b input:checked ~ .checkmark-b {
+  background-color: #08253d;
+}
+
+.checkmark-b:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.container-b input:checked ~ .checkmark-b:after {
+  display: block;
+}
+
+.container-b .checkmark-b:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
