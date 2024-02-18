@@ -161,6 +161,7 @@
 
 
     <!-- FILTERing DATA -->
+
     <div class="container">
         {% if no_results %}
         <div class="result-head text-center my-3">
@@ -175,7 +176,7 @@
                 </div>
                 <ul class="px-0">
                     {% for bandr in data %}
-                    <div class="card text-white" style="max-width: 1500px;">
+                    <div class="card text-white" data-aos="fade-up" data-aos-delay="100" data-aos-duration="900" style="max-width: 1500px;">
                         <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
                         <div class="card-img-overlay">
                             <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
@@ -202,7 +203,7 @@
                 </div>
                 <ul class="px-0">
                     {% for bandr in data %}
-                    <div class="card text-white" style="max-width: 1500px;">
+                    <div class="card text-white" data-aos="fade-up" data-aos-delay="100" data-aos-duration="900" style="max-width: 1500px;">
                         <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded w-100 mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
                         <div class="card-img-overlay">
                             <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
@@ -228,7 +229,7 @@
                 </div>
                 <ul class="px-0">
                     {% for bandr in data %}
-                    <div class="card text-white" style="max-width: 1500px;">
+                    <div class="card text-white" data-aos="fade-up" data-aos-delay="100" data-aos-duration="900" style="max-width: 1500px;">
                         <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
                         <div class="card-img-overlay">
                             <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">

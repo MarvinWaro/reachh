@@ -926,7 +926,7 @@ footer p {
 }
 
 .container-r input:checked ~ .checkmark-r {
-  background-color: #08253d;
+  background-color: #012970;
 }
 
 .checkmark-r:after {
@@ -993,7 +993,7 @@ footer p {
 }
 
 .container-b input:checked ~ .checkmark-b {
-  background-color: #08253d;
+  background-color: #012970;
 }
 
 .checkmark-b:after {
@@ -1017,3 +1017,4 @@ footer p {
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 }
+
