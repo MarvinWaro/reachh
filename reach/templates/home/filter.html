@@ -17,7 +17,7 @@
 
         <!-- Search bar section -->
         <div class="row mt-3">
-            <div class="col">
+            <div class="col mb-4">
                 <div class="input-group">
                     <input type="text" class="form-control" placeholder="Search Beach and Resort" name="search" value="{{ search_query }}">
                     <div class="input-group-append">
@@ -28,22 +28,28 @@
         </div>    
 
         <div class="filter-container">
-            <div class="row">
-                <div class="col">
+            <div class="row d-flex justify-content-between">
+                <div class="col-md-4 px-5">
                     <div class="filter">
                         
                         <span class="filter-heading">Select Your Choice</span>
                         <div class="form-check mt-3">
-                            <input class="form-check-input" type="radio" name="beach_or_resort" id="beach" value="beach">
-                            <label class="form-check-label" for="beach">Beach</label>
+                            <label for="beach" class="container-r form-check-label">Beach
+                                <input class="form-check-input radio-b" type="radio" name="beach_or_resort" id="beach" value="beach">
+                                <span class="checkmark-r"></span>
+                            </label>
                         </div>
                         <div class="form-check">
-                            <input class="form-check-input" type="radio" name="beach_or_resort" id="resort" value="resort">
-                            <label class="form-check-label" for="resort">Resort</label>
+                            <label for="resort" class="container-r form-check-label">Resort
+                                <input class="form-check-input radio-b" type="radio" name="beach_or_resort" id="resort" value="resort">
+                                <span class="checkmark-r"></span>
+                            </label>
                         </div>
                         <div class="form-check">
-                            <input class="form-check-input" type="radio" name="beach_or_resort" id="both" value="both">
-                            <label class="form-check-label" for="both">Both</label>
+                            <label for="both" class="container-r form-check-label">Both
+                                <input class="form-check-input radio-b" type="radio" name="beach_or_resort" id="both" value="both">
+                                <span class="checkmark-r"></span>
+                            </label>
                         </div>
                     </div>
                 </div>
@@ -54,24 +60,35 @@
                         <span class="filter-heading">Select Your Choice</span><br>
                         <span class="filter-subheading">(Accommodations)</span>
                         <div class="form-check mt-3">
-                            <input class="form-check-input" type="checkbox" id="rooms" name="room" >
-                            <label class="form-check-label" for="rooms">Rooms</label>
+                            <label for="rooms" class="container-b form-check-label">Rooms
+                                <input class="form-check-input checkbox" type="checkbox" id="rooms" name="room" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="cotage" name="cottage" >
-                            <label class="form-check-label" for="cottage">Cottage</label>
+                            <label for="cottage" class="container-b ">Cottage
+                                <input class="form-check-input checkbox" type="checkbox" id="cottage" name="cottage" >
+                                <span class="checkmark-b"></span>
+                            </label>
+                        </div>
+
+                        <div class="form-check">
+                            <label for="villa" class="container-b form-check-label">Villa
+                                <input class="form-check-input checkbox" type="checkbox" id="villa" name="villa" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="villa" name="villa" >
-                            <label class="form-check-label" for="villa">Villa</label>
+                            <label for="suites" class="container-b form-check-label">Tent / Camping
+                                <input class="form-check-input checkbox" type="checkbox" id="suites" name="suites" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="suites" name="suites" >
-                            <label class="form-check-label" for="suites">Tent / Camping</label>
-                        </div>
-                        <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="pools" name="pools" >
-                            <label class="form-check-label" for="pools">Swimming Pools</label>
+                            <label for="pools" class="container-b form-check-label">Swimming Pools
+                                <input class="form-check-input checkbox" type="checkbox" id="pools" name="pools" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
                     </div>
                 </div>
@@ -81,48 +98,70 @@
                         <span class="filter-heading">Select Your Choice</span><br>
                         <span class="filter-subheading">(Culture and Local Attractions)</span>
                         <div class="form-check mt-3">
-                            <input class="form-check-input" type="checkbox" id="food_and_dining" name="food_and_dining">
-                            <label class="form-check-label" for="food_and_dining">Food and Dining</label>
+                            <label for="food_and_dining" class="container-b form-check-label">Food and Dining
+                                <input class="form-check-input checkbox" type="checkbox" id="food_and_dining" name="food_and_dining" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
+
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="historical_and_cultural" name="historical_and_cultural">
-                            <label class="form-check-label" for="historical_and_cultural">Historical and Cultural</label>
+                            <label for="historical_and_cultural" class="container-b form-check-label">Historical and Cultural
+                                <input class="form-check-input checkbox" type="checkbox" id="historical_and_cultural" name="historical_and_cultural" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
+
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="festival_and_events" name="festival_and_events">
-                            <label class="form-check-label" for="festival_and_events">Festival and Events</label>
+                            <label for="festival_and_events" class="container-b form-check-label">Festival and Events
+                                <input class="form-check-input checkbox" type="checkbox" id="festival_and_events" name="festival_and_events" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
+
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="natural_attractions" name="natural_attractions">
-                            <label class="form-check-label" for="natural_attractions">Natural Attractions</label>
+                            <label for="natural_attractions" class="container-b form-check-label">Natural Attractions
+                                <input class="form-check-input checkbox" type="checkbox" id="natural_attractions" name="natural_attractions" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
+
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="local_markets" name="local_markets">
-                            <label class="form-check-label" for="local_markets">Local Markets and Shopping</label>
+                            <label for="local_markets" class="container-b form-check-label">Local Markets and Shopping
+                                <input class="form-check-input checkbox" type="checkbox" id="local_markets" name="local_markets" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
+
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="sports_and_recreation" name="sports_and_recreation">
-                            <label class="form-check-label" for="sports_and_recreation">Sport and Recreation</label>
+                            <label for="sports_and_recreation" class="container-b form-check-label">Sport and Recreation
+                                <input class="form-check-input checkbox" type="checkbox" id="sports_and_recreation" name="sports_and_recreation" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
+
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="religious_sites" name="religious_sites">
-                            <label class="form-check-label" for="religious_sites">Religious Sites</label>
+                            <label for="religious_sites" class="container-b form-check-label">Religious Sites
+                                <input class="form-check-input checkbox" type="checkbox" id="religious_sites" name="religious_sites" >
+                                <span class="checkmark-b"></span>
+                            </label>
                         </div>
+
                     </div>
                 </div>
             </div>
             
         </div>
-            <div class="submit-button-filter">
+            <div class="submit-button-filter mt-5 mb-4">
                 <!-- Hidden input field for rating -->
                 <input type="hidden" name="rating" id="rating-input" value="0">
-                <input class="btn btn-primary explore-btn w-100 fw-semibold" type="submit" value="EXPLORE" >
+                <input class="btn btn-primary explore-btn w-100 fw-semibold mt-2 mb-3" type="submit" value="EXPLORE" >
             </div>
         </form>   
     </div>
 
 
     <!-- FILTERing DATA -->
+
     <div class="container">
         {% if no_results %}
         <div class="result-head text-center my-3">
@@ -137,7 +176,7 @@
                 </div>
                 <ul class="px-0">
                     {% for bandr in data %}
-                    <div class="card text-white" style="max-width: 1500px;">
+                    <div class="card text-white" data-aos="fade-up" data-aos-delay="100" data-aos-duration="900" style="max-width: 1500px;">
                         <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
                         <div class="card-img-overlay">
                             <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
@@ -164,7 +203,7 @@
                 </div>
                 <ul class="px-0">
                     {% for bandr in data %}
-                    <div class="card text-white" style="max-width: 1500px;">
+                    <div class="card text-white" data-aos="fade-up" data-aos-delay="100" data-aos-duration="900" style="max-width: 1500px;">
                         <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded w-100 mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
                         <div class="card-img-overlay">
                             <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
@@ -190,7 +229,7 @@
                 </div>
                 <ul class="px-0">
                     {% for bandr in data %}
-                    <div class="card text-white" style="max-width: 1500px;">
+                    <div class="card text-white" data-aos="fade-up" data-aos-delay="100" data-aos-duration="900" style="max-width: 1500px;">
                         <img src="{{ bandr.image.url }}" alt="{{ bandr.name }}" class="img-fluid rounded mb-3 align-items-center img-result"style="height: 70vh; object-fit: cover;">
                         <div class="card-img-overlay">
                             <div class="position-absolute bottom-0 p-lg-5 p-3 text-light w-100 ">
