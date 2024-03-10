@@ -80,15 +80,10 @@ WSGI_APPLICATION = 'reach.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
+import dj_database_url
+
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'reach_db',
-        'USER': 'reach_db_user',
-        'PASSWORD': 'T6BWOaeB5qRuePFbMulbKqPJDu2BXiwH',
-        'PORT': '5432',
-        'HOST': 'dpg-cnmjp421hbls739gvajg-a',
-    }
+    'default': dj_database_url.parse('postgres://reach_db_user:T6BWOaeB5qRuePFbMulbKqPJDu2BXiwH@dpg-cnmjp421hbls739gvajg-a.oregon-postgres.render.com/reach_db')
 }
 
 
