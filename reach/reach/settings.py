@@ -82,12 +82,12 @@ WSGI_APPLICATION = 'reach.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'reach_db',
-        'USER': 'root',
-        'PASSWORD': '',
-        'PORT': '3306',
-        'HOST': 'localhost',
+        'USER': 'reach_db_user',
+        'PASSWORD': 'T6BWOaeB5qRuePFbMulbKqPJDu2BXiwH',
+        'PORT': '5432',
+        'HOST': 'dpg-cnmjp421hbls739gvajg-a',
     }
 }
 
